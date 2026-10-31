@@ -104,10 +104,8 @@ document.getElementById('journeyList').innerHTML = JOURNEYS.map(g => `
       </div>`).join('')}
   </div>`).join('');
 
-// ---------- itinerary ----------
-(function itinerary() {
-  const tabsEl = document.getElementById('dayTabs');
-  const panelsEl = document.getElementById('dayPanels');
+// ---------- day tabs (itinerary and planner) ----------
+function dayTabs(tabsEl, panelsEl, sectionId) {
   const groups = [];
   DAYS.forEach((d, idx) => {
     let g = groups[groups.length - 1];
@@ -121,6 +119,24 @@ document.getElementById('journeyList').innerHTML = JOURNEYS.map(g => `
         ${g.items.map(({ d, idx }) => `<button class="day-tab${idx === 0 ? ' active' : ''}" data-idx="${idx}"><span class="tab-num">day ${d.n}</span><span class="tab-date">${d.date.split(' ').slice(1).join(' ')}</span></button>`).join('')}
       </div>
     </div>`).join('');
+
+  tabsEl.addEventListener('click', ev => {
+    const btn = ev.target.closest('.day-tab');
+    if (!btn) return;
+    const idx = +btn.dataset.idx;
+    tabsEl.querySelectorAll('.day-tab').forEach(t => t.classList.toggle('active', +t.dataset.idx === idx));
+    panelsEl.querySelectorAll('.day-panel').forEach((p, i) => p.classList.toggle('active', i === idx));
+    btn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+    const top = document.getElementById(sectionId).getBoundingClientRect().top;
+    if (top < -200) tabsEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+}
+
+// ---------- itinerary ----------
+(function itinerary() {
+  const tabsEl = document.getElementById('dayTabs');
+  const panelsEl = document.getElementById('dayPanels');
+  dayTabs(tabsEl, panelsEl, 'itinerary');
 
   const last = DAYS[DAYS.length - 1].n;
   panelsEl.innerHTML = DAYS.map((d, idx) => `
@@ -154,17 +170,66 @@ document.getElementById('journeyList').innerHTML = JOURNEYS.map(g => `
         </div>
       </div>
     </div>`).join('');
+})();
 
-  tabsEl.addEventListener('click', ev => {
-    const btn = ev.target.closest('.day-tab');
-    if (!btn) return;
-    const idx = +btn.dataset.idx;
-    tabsEl.querySelectorAll('.day-tab').forEach(t => t.classList.toggle('active', +t.dataset.idx === idx));
-    panelsEl.querySelectorAll('.day-panel').forEach((p, i) => p.classList.toggle('active', i === idx));
-    btn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
-    const top = document.getElementById('itinerary').getBoundingClientRect().top;
-    if (top < -200) document.getElementById('dayTabs').scrollIntoView({ behavior: 'smooth', block: 'center' });
-  });
+// ---------- daily planner ----------
+(function planner() {
+  const tabsEl = document.getElementById('plannerTabs');
+  const panelsEl = document.getElementById('plannerPanels');
+  dayTabs(tabsEl, panelsEl, 'planner');
+
+  const mins = t => { const [h, m] = t.split(':').map(Number); return h * 60 + m; };
+  const length = (a, b) => { const d = mins(b) - mins(a), h = Math.floor(d / 60), m = d % 60; return h ? `${h} h${m ? ` ${String(m).padStart(2, '0')}` : ''}` : `${m} min`; };
+
+  const row = r => {
+    if (r.k === 'go') return `
+      <li class="plan-row go">
+        <div class="plan-time">${r.t || ''}</div>
+        <div class="plan-body">
+          <div class="plan-leg">${r.by.map(m => `<span class="plan-mode">${m}</span>`).join('')}<span class="plan-dur">${r.dur}</span><span class="plan-route">${r.route}</span></div>
+          <div class="plan-how">${r.how}</div>
+          ${r.alt ? `<div class="plan-alt">Or: ${r.alt}</div>` : ''}
+        </div>
+      </li>`;
+    if (r.k === 'ready') return `
+      <li class="plan-row ready${r.warn ? ' warn' : ''}">
+        <div class="plan-time">${r.t}–${r.until}</div>
+        <div class="plan-body"><div class="plan-ready">
+          <div class="plan-what">Back at ${r.where} · get ready<span class="len">${length(r.t, r.until)}</span></div>
+          ${r.sub ? `<div class="plan-sub">${r.sub}</div>` : ''}
+        </div></div>
+      </li>`;
+    return `
+      <li class="plan-row at${r.booked ? ' booked' : ''}${r.warn ? ' warn' : ''}">
+        <div class="plan-time">${r.t}${r.until ? `–${r.until}` : ''}</div>
+        <div class="plan-body">
+          <div class="plan-what">${r.title}${r.booked ? '<span class="tag">booked</span>' : ''}</div>
+          ${r.sub ? `<div class="plan-sub">${r.sub}</div>` : ''}
+        </div>
+      </li>`;
+  };
+
+  panelsEl.innerHTML = DAYS.map((d, idx) => {
+    const p = PLANNER[d.n] || { stay: '', rows: [] };
+    const booked = p.rows.filter(r => r.booked);
+    return `
+    <div class="day-panel ${d.country}${idx === 0 ? ' active' : ''}">
+      <div class="plan-head">
+        <div>
+          <div class="country-chip">${COUNTRY_LABEL[d.country].en}<span class="cjk">${COUNTRY_LABEL[d.country].cjk}</span></div>
+          <div class="plan-title"><span class="n">Day ${d.n}</span> · ${d.date}</div>
+          <div class="plan-place">${d.place}</div>
+          <div class="plan-stay"><span class="plan-lbl">Base tonight</span>${p.stay}</div>
+        </div>
+        <div class="plan-booked">
+          <span class="plan-lbl">Booked today</span>
+          ${booked.length ? `<ul>${booked.map(r => `<li><span class="t">${r.t}</span><span>${r.title}</span></li>`).join('')}</ul>` : '<div class="none">Nothing booked.</div>'}
+        </div>
+      </div>
+      ${(p.notes || []).map(n => `<div class="plan-note${n.warn ? ' warn' : ''}">${n.text.replace(/^([^:]{1,12}):/, '<b>$1:</b>')}</div>`).join('')}
+      <ol class="plan-list">${p.rows.map(row).join('')}</ol>
+    </div>`;
+  }).join('');
 })();
 
 // ---------- places ----------

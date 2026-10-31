@@ -64,7 +64,7 @@ if os.path.exists(EXTRA):
         for key in entries:
             entries[key] = [e for e in entries[key] if os.path.basename(e['file']) != f]
 # Only embed photos the content actually references ('key' = all of them, 'key#n' = the nth).
-CONTENT_FILES = ['content_base.js', 'content_korea.js', 'content_japan1.js', 'content_japan2.js', 'content_hongkong.js', 'content_final.js']
+CONTENT_FILES = ['content_base.js', 'content_korea.js', 'content_japan1.js', 'content_japan2.js', 'content_hongkong.js', 'content_planner.js', 'content_final.js']
 content_src = '\n'.join(read(os.path.join(HERE, f)) for f in CONTENT_FILES if os.path.exists(os.path.join(HERE, f)))
 wanted = {}
 for arr in re.findall(r"images:\s*\[([^\]]*)\]", content_src) + re.findall(r"img:\s*('[^']*')", content_src):

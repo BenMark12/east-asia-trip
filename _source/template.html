@@ -618,7 +618,7 @@
 
   .day-layout { display: grid; grid-template-columns: minmax(260px, 1fr) 2fr; gap: 4rem; align-items: start; }
   .day-aside { position: sticky; top: 6.5rem; }
-  .day-aside .country-chip {
+  .day-aside .country-chip, .plan-head .country-chip {
     display: inline-flex;
     gap: 0.5rem;
     align-items: baseline;
@@ -631,7 +631,7 @@
     border-radius: 2px;
     margin-bottom: 1.2rem;
   }
-  .day-aside .country-chip .cjk { letter-spacing: 0.1em; font-size: 0.85rem; }
+  .day-aside .country-chip .cjk, .plan-head .country-chip .cjk { letter-spacing: 0.1em; font-size: 0.85rem; }
   .day-aside .big-num { font-family: 'Fraunces', serif; font-weight: 300; font-size: clamp(5rem, 10vw, 8.5rem); line-height: 0.85; color: var(--ink); margin-bottom: 0.5rem; }
   .day-aside .big-num .of { font-style: italic; color: var(--accent); font-size: 0.42em; vertical-align: top; margin-left: 0.3em; }
   .day-aside .day-date { font-family: 'Fraunces', serif; font-size: 1.25rem; font-style: italic; color: var(--ink-soft); margin-bottom: 1.2rem; }
@@ -750,6 +750,54 @@
     padding: 0.1rem 0.4rem;
     border-radius: 2px;
   }
+
+  /* === DAILY PLANNER === */
+  .plan-key { display: flex; flex-wrap: wrap; gap: 0.6rem 1.6rem; margin: -1.6rem 0 2.4rem; font-size: 0.78rem; color: var(--ink-soft); }
+  .plan-key span { display: inline-flex; align-items: center; gap: 0.5rem; }
+  .plan-key i { display: inline-block; width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--ink); background: var(--washi); }
+  .plan-key i.bk { background: var(--shu); border-color: var(--shu); }
+  .plan-key i.go { width: 0; height: 16px; border-radius: 0; border: 0; border-left: 2px dashed var(--shu); }
+  .plan-key i.rd { width: 22px; height: 12px; border-radius: 0; border: 0; border-left: 3px solid var(--shu); background: rgba(200, 68, 44, 0.12); }
+  .plan-head { display: grid; grid-template-columns: 1.25fr 1fr; gap: 2.5rem; align-items: start; margin-bottom: 1.8rem; }
+  .plan-head .country-chip { margin-bottom: 0.9rem; }
+  .plan-title { font-family: 'Fraunces', serif; font-size: clamp(1.6rem, 3vw, 2.2rem); font-weight: 300; line-height: 1.1; }
+  .plan-title .n { font-style: italic; color: var(--accent); }
+  .plan-place { font-family: 'Fraunces', serif; font-style: italic; color: var(--ink-soft); margin-top: 0.4rem; }
+  .plan-stay { margin-top: 1rem; font-size: 0.88rem; }
+  .plan-lbl { display: block; font-size: 0.6rem; letter-spacing: 0.25em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.2rem; }
+  .plan-booked { background: rgba(255, 255, 255, 0.45); border: 1px solid var(--rule); border-top: 3px solid var(--accent); padding: 1rem 1.2rem 0.7rem; }
+  .plan-booked ul { list-style: none; }
+  .plan-booked li { display: grid; grid-template-columns: 3.6rem 1fr; gap: 0.6rem; font-size: 0.88rem; padding: 0.35rem 0; border-top: 1px dotted var(--rule); }
+  .plan-booked li:first-child { border-top: 0; }
+  .plan-booked .t { font-family: 'Fraunces', serif; font-style: italic; color: var(--accent-2); }
+  .plan-booked .none { font-size: 0.85rem; color: var(--ink-soft); font-style: italic; font-family: 'Fraunces', serif; padding-bottom: 0.3rem; }
+  .plan-note { font-size: 0.86rem; line-height: 1.55; background: rgba(180, 138, 60, 0.12); border-left: 2px solid var(--kin); padding: 0.55rem 0.9rem; margin-bottom: 0.6rem; max-width: 860px; }
+  .plan-note.warn { background: rgba(200, 68, 44, 0.09); border-left-color: var(--shu); }
+  .plan-note b { font-weight: 600; }
+  .plan-list { list-style: none; max-width: 860px; margin-top: 1.6rem; }
+  .plan-row { display: grid; grid-template-columns: 6.6rem 1fr; gap: 1.3rem; }
+  .plan-time { font-family: 'Fraunces', serif; font-style: italic; font-size: 0.92rem; color: var(--accent-2); text-align: right; padding-top: 0.55rem; white-space: nowrap; }
+  .plan-body { position: relative; border-left: 2px solid var(--ink); padding: 0.45rem 0 1.1rem 1.6rem; min-width: 0; }
+  .plan-row:last-child .plan-body { border-left-color: transparent; }
+  .plan-row.at .plan-body::before { content: ''; position: absolute; left: -8px; top: 0.75rem; width: 14px; height: 14px; border-radius: 50%; background: var(--washi); border: 2px solid var(--ink); }
+  .plan-row.booked .plan-body::before { background: var(--accent); border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-soft); }
+  .plan-row.warn .plan-body::before { border-color: var(--shu); }
+  .plan-what { font-family: 'Fraunces', serif; font-size: 1.2rem; line-height: 1.3; }
+  .plan-sub { font-size: 0.86rem; color: var(--ink-soft); line-height: 1.55; margin-top: 0.2rem; max-width: 640px; }
+  .plan-row.warn .plan-sub { color: var(--beni); }
+  .plan-row.go .plan-time { font-size: 0.8rem; opacity: 0.8; padding-top: 0.5rem; }
+  .plan-row.go .plan-body { border-left: 2px dashed var(--accent); padding-top: 0.4rem; padding-bottom: 1rem; }
+  .plan-leg { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem 0.5rem; }
+  .plan-mode { font-size: 0.58rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--washi); background: var(--accent); padding: 0.2rem 0.5rem; border-radius: 2px; }
+  .plan-dur { font-family: 'Fraunces', serif; font-style: italic; font-size: 0.95rem; color: var(--accent); margin-right: 0.2rem; }
+  .plan-route { font-size: 0.9rem; font-weight: 500; }
+  .plan-how { font-size: 0.83rem; color: var(--ink-soft); line-height: 1.55; margin-top: 0.25rem; max-width: 640px; }
+  .plan-alt { font-family: 'Fraunces', serif; font-style: italic; font-size: 0.82rem; color: var(--ink-soft); margin-top: 0.15rem; max-width: 640px; }
+  .plan-row.ready .plan-body { padding-top: 0.2rem; }
+  .plan-ready { background: var(--accent-soft); border-left: 3px solid var(--accent); padding: 0.65rem 1rem; margin-left: -0.6rem; }
+  .plan-ready .plan-what { font-size: 1.1rem; }
+  .plan-ready .len { font-family: 'DM Sans', sans-serif; font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-left: 0.6rem; }
+  .plan-row.ready.warn .plan-ready { background: rgba(200, 68, 44, 0.09); border-left-color: var(--shu); }
 
   /* === DESTINATION CARDS === */
   .dest-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem; }
@@ -1098,6 +1146,10 @@
     .flight-row .arrow { transform: none; }
     .flight-row .arrow:nth-child(4) { display: none; }
     .event { grid-template-columns: 1fr; gap: 0.6rem; }
+    .plan-head { grid-template-columns: 1fr; gap: 1.4rem; }
+    .plan-row { grid-template-columns: 3.6rem 1fr; gap: 0.8rem; }
+    .plan-time { white-space: normal; font-size: 0.82rem; }
+    .plan-body { padding-left: 1.2rem; }
     .event-thumb { width: 100%; max-width: 340px; height: 160px; }
     footer .footer-grid { grid-template-columns: 1fr 1fr; gap: 2rem; }
     footer .footer-grid > :first-child { grid-column: 1 / -1; }
@@ -1136,6 +1188,7 @@
     <li><a href="#route">Route</a></li>
     <li><a href="#journeys">Flights &amp; trains</a></li>
     <li><a href="#itinerary">Itinerary</a></li>
+    <li><a href="#planner">Planner</a></li>
     <li><a href="#places">Places</a></li>
     <li><a href="#stays">Stays</a></li>
     <li><a href="#dining">Dining</a></li>
@@ -1240,11 +1293,31 @@
 
 {{DIVIDER}}
 
+<section id="planner" class="patterned">
+  {{CORNER_TL}}
+  <div class="section-head">
+    <span class="num">iv.</span>
+    <span class="hanko">時</span>
+    <h2>Daily <span class="italic">planner</span></h2>
+    <span class="sub">Door to door each day: out for the day, back to get ready (an hour at least), then out for the evening.</span>
+  </div>
+  <div class="plan-key">
+    <span><i class="bk"></i>Booked</span>
+    <span><i></i>Where we’re due to be</span>
+    <span><i class="go"></i>Getting there · times are door to door, so check Naver Map or Google Maps on the day</span>
+    <span><i class="rd"></i>Back to get ready</span>
+  </div>
+  <div class="day-tabs" id="plannerTabs"></div>
+  <div id="plannerPanels"></div>
+</section>
+
+{{DIVIDER}}
+
 <section id="places">
   {{CORNER_TL}}
   {{CORNER_BR}}
   <div class="section-head">
-    <span class="num">iv.</span>
+    <span class="num">v.</span>
     <span class="hanko">地</span>
     <h2>The <span class="italic">places</span></h2>
     <span class="sub">Nine cities, from royal Seoul to harbour-side Hong Kong.</span>
@@ -1257,7 +1330,7 @@
 <section id="stays" class="patterned">
   {{CORNER_TR}}
   <div class="section-head">
-    <span class="num">v.</span>
+    <span class="num">vi.</span>
     <span class="hanko">宿</span>
     <h2>Where we'll <span class="italic">sleep</span></h2>
     <span class="sub">Seven bases, from an Asakusa apartment to the Island Shangri-La.</span>
@@ -1267,7 +1340,7 @@
 
 <section id="dining">
   <div class="section-head">
-    <span class="num">vi.</span>
+    <span class="num">vii.</span>
     <span class="hanko">食</span>
     <h2>Where we'll <span class="italic">eat &amp; drink</span></h2>
     <span class="sub">Bib Gourmand bibimbap to Asia's best bars — a solid dot means it's booked.</span>

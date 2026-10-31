@@ -63,6 +63,27 @@ Everything below was checked against official or well-sourced pages in October 2
   - **Peak Tram:** buy tickets only at webstore.thepeak.com.hk.
   - **Mon 16 Nov:** leave the hotel ~05:30 and settle the bill on Sunday night.
 
+## E. Daily planner: changes so you can get ready before the evening (31 Oct 2026)
+
+The new Daily planner follows your rule: out for the day, back to the accommodation, at least an hour to get ready, then out for drinks or dinner. Where that clashed with the itinerary, the planner shows the change. Once you OK these, I'll update the itinerary to match.
+
+| # | Day | Change in the planner | Why |
+|---|---|---|---|
+| 28 | Sun 1 Nov | Check in and get ready 15:30–16:45, **then** N Seoul Tower and Mokmyeoksanbang | The tower and dinner are both by the cable car, so they become the evening out |
+| 29 | Mon 2 Nov | Gwanghwamun and Cheonggyecheon **before lunch**; **Lotte World 15:10–18:15** (was 17:30); Geumdwaeji queue from ~20:10 | From Lotte World at 20:00 you'd join the queue around 21:15, close to the ~22:20 last order |
+| 30 | Tue 3 Nov | Deoksugung **19:15** (was 18:15); Miro Sikdang ~20:15 | Back from the museum ~17:45. #1 (closed Tuesdays) still stands |
+| 31 | Wed 4 Nov | Bar Benfiddich **~19:35** (was 18:30) | Back to the Airbnb after Ueno |
+| 32 | Thu 5 Nov | **Book teamLab for 14:30**, not 16:00; Akihabara 12:10–13:45 | From a 16:00 entry you're home ~18:45 and late for the **19:30 Buca'Massimo booking** |
+| 33 | Fri 6 Nov | Bar LIBRE GINZA **~19:05** (was 18:30), about 35 min before Takahashi | Back from Shibuya ~17:30 |
+| 34 | Sat 7 Nov | SkySpa 15:00, Dōtonbori 16:40–17:45, back to the hotel, then **JR from Osaka Station ~19:25** (instead of the Hanshin line from Namba at 18:55) | You need to go back to the hotel after Dōtonbori |
+| 35 | Sun 8 Nov | Gion **15:45–17:15** (was from 16:30); Rocking Chair ~18:55; Pontochō ~20:05 | Back to KAYA by 17:35 |
+| 36 | Tue 10 Nov | Back to KAYA 15:25–16:25 to get ready before Badu. **Ask KAYA for a late check-out to ~16:30** (or somewhere to change) | Check-out is 11:00, so there's no room to get ready in |
+| 37 | Thu 12 Nov | Only ~70 min to get ready after the sumo, if you leave promptly. **Option:** have the bags delivered from Hakata Station to the apartment (~¥1,500) and taxi straight there | Collecting bags at Hakata Station costs ~20 min |
+| 38 | Fri 13 Nov | **Meet Rob at 19:30** (was 19:00); dinner and COA ~21:20 | You reach the hotel ~18:05 |
+| 39 | Sat 14 Nov | Star Ferry cut to ~14:10–15:10 | Back by 15:30 to get ready and be in Bar Leone's queue for 17:00 |
+
+No change needed on Mon 9, Wed 11 or Sun 15 Nov.
+
 ## D. Confirmed by you
 
 - ✅ **Grand Sumo, Thu 12 Nov.** Tickets already purchased. The sold-out warning is removed and it's marked as booked.
