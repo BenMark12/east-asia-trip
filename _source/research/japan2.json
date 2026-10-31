@@ -1,0 +1,701 @@
+{
+ "region": "japan2",
+ "images": {
+  "abombdome": [
+   {
+    "file": "photos/japan2/abombdome_1.webp",
+    "caption": "The Atomic Bomb Dome (Genbaku Dome)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Genbaku_Dome04-r.JPG",
+    "credit": "Oilstreet / Wikimedia Commons (CC BY 2.5)"
+   },
+   {
+    "file": "photos/japan2/abombdome_2.webp",
+    "caption": "The Dome beside the Motoyasu River",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome_and_Motoyaso_River,_Hiroshima,_Northwest_view_20190417_1.jpg",
+    "credit": "DXR / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "arashiyama": [
+   {
+    "file": "photos/japan2/arashiyama_1.webp",
+    "caption": "The path through the Sagano bamboo grove, Arashiyama",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2021_Sagano_Bamboo_forest_in_Arashiyama,_Kyoto,_Japan.jpg",
+    "credit": "Naokijp / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/arashiyama_2.webp",
+    "caption": "Towering bamboo stems in Arashiyama",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg",
+    "credit": "Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "canalcity": [
+   {
+    "file": "photos/japan2/canalcity_1.webp",
+    "caption": "Canal City Hakata's curving canal-side atrium at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canal_City_Hakata_at_night_20170929.jpg",
+    "credit": "そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "fukuoka": [
+   {
+    "file": "photos/japan2/fukuoka_1.webp",
+    "caption": "Yatai food stalls glowing along the river at Nakasu",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nakasu_Yatai_Stalls_(19979437930).jpg",
+    "credit": "Yoshikazu TAKADA from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)"
+   },
+   {
+    "file": "photos/japan2/fukuoka_2.webp",
+    "caption": "Fukuoka Tower and Momochi beach at sunset",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seaside_Momochi_Seaside_Park_Fukuoka_Tower_and_Marizon_at_sunset_Sawara-ku_Fukuoka_20240116.jpg",
+    "credit": "Hirho / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/fukuoka_3.webp",
+    "caption": "Winter illuminations outside JR Hakata Station",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Night_view_in_front_of_Hakata_Station_20180102-3.jpg",
+    "credit": "そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "fukuoka-stay": [
+   {
+    "file": "photos/japan2/fukuoka-stay_1.webp",
+    "caption": "Sumiyoshi Shrine, a few minutes' walk from the Sumiyoshi apartment",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Haiden_of_Sumiyoshi_Shrine.JPG",
+    "credit": "そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/fukuoka-stay_2.webp",
+    "caption": "Nakasu and the Naka River at dusk, the neighbourhood's riverside nightlife strip",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nakasu_and_Naka_River_view_from_Nishi-%C5%8Dhashi_Bridge_Nakasu_Hakata-ku_Fukuoka_City_20221215.jpg",
+    "credit": "Hirho / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "fushimiinari": [
+   {
+    "file": "photos/japan2/fushimiinari_1.webp",
+    "caption": "Lantern and the Senbon Torii tunnel at Fushimi Inari Taisha",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg",
+    "credit": "Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/fushimiinari_2.webp",
+    "caption": "Torii climbing through the forest on Mt Inari",
+    "source_url": "https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_12.jpg",
+    "credit": "Balon Greyjoy / Wikimedia Commons (CC0)"
+   }
+  ],
+  "gion": [
+   {
+    "file": "photos/japan2/gion_1.webp",
+    "caption": "Hanamikoji-dori, Gion's lantern-lined teahouse street",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kyoto_Gion_11.jpg",
+    "credit": "Zairon / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/gion_2.webp",
+    "caption": "Yasaka Shrine's vermilion West Gate at the top of Shijo-dori",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nishiromon_Gate,_Yasaka_Shrine,_Kyoto,_West_view_20190416_1.jpg",
+    "credit": "DXR / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/gion_3.webp",
+    "caption": "Gion after dark",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gion,_Kyoto,_Japan22.jpg",
+    "credit": "dconvertini / Wikimedia Commons (CC BY-SA 2.0)"
+   }
+  ],
+  "gohgan": [
+   {
+    "file": "photos/japan2/gohgan_1.webp",
+    "caption": "Chefs Takeshi 'Goh' Fukuyama and Gaggan Anand of GohGan",
+    "source_url": "https://010bld.com/en/gohgan-e/",
+    "credit": "GohGan / 010 Building official website"
+   },
+   {
+    "file": "photos/japan2/gohgan_2.webp",
+    "caption": "GohGan's riverside dining room and terrace at night",
+    "source_url": "https://010bld.com/en/gohgan-e/",
+    "credit": "GohGan / 010 Building official website"
+   }
+  ],
+  "hiroshima": [
+   {
+    "file": "photos/japan2/hiroshima_1.webp",
+    "caption": "Hiroshima from above, the Peace Memorial Park between the Ota river channels",
+    "source_url": "https://commons.wikimedia.org/wiki/File:An_Overview_of_Hiroshima_and_the_Hiroshima_Memorial_Peace_Park_as_Seen_From_a_Hotel_Rooftop_as_Secretary_Kerry_Visited_the_City_(26370244825).jpg",
+    "credit": "U.S. Department of State from United States / Wikimedia Commons (Public domain)"
+   },
+   {
+    "file": "photos/japan2/hiroshima_2.webp",
+    "caption": "One of Hiroshima's green-and-cream trams",
+    "source_url": "https://commons.wikimedia.org/wiki/File:This_tram_(streetcar)_isn%27t_going_anywhere_soon_(49495507026).jpg",
+    "credit": "shankar s. from Poona (pune), India, India / Wikimedia Commons (CC BY 2.0)"
+   }
+  ],
+  "hiroshimacastle": [
+   {
+    "file": "photos/japan2/hiroshimacastle_1.webp",
+    "caption": "Hiroshima Castle keep above the moat in autumn (exterior only since March 2026)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tenshu_of_Hiroshima_Castle_4.JPG",
+    "credit": "そらみみ (Soramimi) / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/hiroshimacastle_2.webp",
+    "caption": "The reconstructed Ninomaru gate and turrets, still open to visitors",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Main_Gate_of_Hiroshima_Castle,_20240817_1510_4303.jpg",
+    "credit": "Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
+   }
+  ],
+  "kaya-kyoto": [
+   {
+    "file": "photos/japan2/kaya-kyoto_1.webp",
+    "caption": "KAYA Kyoto Nijo Castle: the timber-louvred facade on Aburanokoji-dori",
+    "source_url": "https://www.cocolocala.jp/hotels/882625",
+    "credit": "KAYA Kyoto Nijo Castle (hotel photo via Expedia/travelapi CDN)"
+   },
+   {
+    "file": "photos/japan2/kaya-kyoto_2.webp",
+    "caption": "The lobby lounge, stone walls and shoji screens",
+    "source_url": "https://www.cocolocala.jp/hotels/882625",
+    "credit": "KAYA Kyoto Nijo Castle (hotel photo via Expedia/travelapi CDN)"
+   },
+   {
+    "file": "photos/japan2/kaya-kyoto_3.webp",
+    "caption": "A guest room in warm-wood 'Japanese modern' style",
+    "source_url": "https://www.cocolocala.jp/hotels/882625",
+    "credit": "KAYA Kyoto Nijo Castle (hotel photo via Expedia/travelapi CDN)"
+   }
+  ],
+  "kinkakuji": [
+   {
+    "file": "photos/japan2/kinkakuji_1.webp",
+    "caption": "Kinkaku-ji, the Golden Pavilion, mirrored in Kyoko-chi pond",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
+    "credit": "Jaycangel / Wikimedia Commons (CC BY-SA 3.0)"
+   },
+   {
+    "file": "photos/japan2/kinkakuji_2.webp",
+    "caption": "Kinkaku-ji framed by autumn maples (November)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kinkaku-ji_in_November_2016_-03.jpg",
+    "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "kiyomizudera": [
+   {
+    "file": "photos/japan2/kiyomizudera_1.webp",
+    "caption": "Kiyomizu-dera's wooden stage above a sea of autumn maples",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-02.jpg",
+    "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/kiyomizudera_2.webp",
+    "caption": "Kiyomizu-dera's vermilion three-storey pagoda in autumn colour",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Three-storied_Pagoda,_Kiyomizu-dera_20211123.jpg",
+    "credit": "Suicasmo / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "kyoto": [
+   {
+    "file": "photos/japan2/kyoto_1.webp",
+    "caption": "Yasaka-dori at dawn with the Yasaka Pagoda (Hokan-ji)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yasaka-dori_early_morning_with_street_lanterns_and_the_Tower_of_Yasaka_(Hokan-ji_Temple),_Kyoto,_Japan.jpg",
+    "credit": "Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/kyoto_2.webp",
+    "caption": "The Yasaka Pagoda lit up at dusk",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hokan-ji,_Goju-no-to_(Five-storied_Pagoda)_-1_(March_2016)_-_panoramio.jpg",
+    "credit": "ttshr1970 / Wikimedia Commons (CC BY 3.0)"
+   },
+   {
+    "file": "photos/japan2/kyoto_3.webp",
+    "caption": "The Kamo River, with Pontocho's riverside terraces on the left",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kamo_River_in_Kyoto,_20240820_1748_5192.jpg",
+    "credit": "Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
+   }
+  ],
+  "kyotopalace": [
+   {
+    "file": "photos/japan2/kyotopalace_1.webp",
+    "caption": "The Shishinden (Hall for State Ceremonies), Kyoto Imperial Palace",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kyoto-gosho_Shishinden_zenkei-5.jpg",
+    "credit": "Saigen Jiro / Wikimedia Commons (CC0)"
+   },
+   {
+    "file": "photos/japan2/kyotopalace_2.webp",
+    "caption": "Autumn colour in Kyoto Gyoen National Garden",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Various_autumn_trees_at_Kyoto_Gyoen_National_Garden_in_Kyoto,_Japan_(2019)_-_116.jpg",
+    "credit": "Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "nara": [
+   {
+    "file": "photos/japan2/nara_1.webp",
+    "caption": "Deer wander in front of Todai-ji's Great South Gate (Nandaimon)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Deer_in_front_of_Nandaimon_at_Todaiji.jpg",
+    "credit": "Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/nara_2.webp",
+    "caption": "Isuien Garden in autumn, borrowing the Nandaimon roof and Mt Wakakusa",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Isuien_and_Nandaimon.JPG",
+    "credit": "Kimon Berlin (Gribeco) / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/nara_3.webp",
+    "caption": "Bronze lanterns at Kasuga Taisha, Nara Park",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lanterns_Kasuga-taisha_Nara.jpg",
+    "credit": "Gzzz / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "narapark": [
+   {
+    "file": "photos/japan2/narapark_1.webp",
+    "caption": "Nara's sacred deer under autumn leaves",
+    "source_url": "https://commons.wikimedia.org/wiki/File:003_Nara_deer_in_Japan_-_deer_of_Nara_Park_under_autumn_leaves.jpg",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio / Wikimedia Commons (CC BY 3.0)"
+   },
+   {
+    "file": "photos/japan2/narapark_2.webp",
+    "caption": "A doe among moss-covered stone lanterns in Nara Park",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Deer_at_nara_park_1.jpg",
+    "credit": "Ian G Shingler / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "nekoyard": [
+   {
+    "file": "photos/japan2/nekoyard_1.webp",
+    "caption": "b hotel Neko Yard, a 2021 concrete-and-glass apartment tower in Nekoya-machi",
+    "source_url": "https://hotels.com.au/property/65342132/b-hotel-neko-yard",
+    "credit": "b hotel Neko Yard (listing photo via Hotels.com/travelapi CDN)"
+   },
+   {
+    "file": "photos/japan2/nekoyard_2.webp",
+    "caption": "One of Neko Yard's apartment-style suites (layouts vary by unit)",
+    "source_url": "https://hotels.com.au/property/65342132/b-hotel-neko-yard",
+    "credit": "b hotel Neko Yard (listing photo via Hotels.com/travelapi CDN)"
+   }
+  ],
+  "nijocastle": [
+   {
+    "file": "photos/japan2/nijocastle_1.webp",
+    "caption": "The Ninomaru Palace of Nijo Castle and its ornate Karamon-style porch",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nijo_Castle_2017.jpg",
+    "credit": "CCP2017 / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/nijocastle_2.webp",
+    "caption": "Ninomaru Palace and its pine garden in November",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ninomaru_Palace,_November_2016.jpg",
+    "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "nishiki": [
+   {
+    "file": "photos/japan2/nishiki_1.webp",
+    "caption": "Barrels of Kyoto pickles (tsukemono) at Nishiki Market",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tsukemono_shop_by_collinox_in_Nishiki_Ichiba,_Kyoto.jpg",
+    "credit": "collinox / Wikimedia Commons (CC BY 2.0)"
+   },
+   {
+    "file": "photos/japan2/nishiki_2.webp",
+    "caption": "Under the arcade of Nishiki Market, 'Kyoto's Kitchen'",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nishiki_Ichiba_by_pokpok313_in_Kyoto.jpg",
+    "credit": "pokpok313 from Nishiki Ichiba, Nakagyo, Kyoto / Wikimedia Commons (CC BY-SA 2.0)"
+   }
+  ],
+  "okonomiyaki": [
+   {
+    "file": "photos/japan2/okonomiyaki_1.webp",
+    "caption": "Hiroshima-style okonomiyaki on the teppan, layered with noodles",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Prepared_okonomiyaki_in_Hiroshima.jpg",
+    "credit": "EllieBellie25 / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "peacemuseum": [
+   {
+    "file": "photos/japan2/peacemuseum_1.webp",
+    "caption": "Kenzo Tange's Hiroshima Peace Memorial Museum",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Museum,_G7_Hiroshima_001.jpg",
+    "credit": "Naokijp / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "peacepark": [
+   {
+    "file": "photos/japan2/peacepark_1.webp",
+    "caption": "The Cenotaph, framing the Peace Flame and the A-Bomb Dome",
+    "source_url": "https://commons.wikimedia.org/wiki/File:20181111_Hiroshima_Memorial_Cenotaph-1.jpg",
+    "credit": "Balon Greyjoy / Wikimedia Commons (CC0)"
+   }
+  ],
+  "rockingchair": [
+   {
+    "file": "photos/japan2/rockingchair_1.webp",
+    "caption": "Rocking chairs by the fire at Bar Rocking Chair",
+    "source_url": "https://www.tatlerasia.com/dining/bar-rocking-chair",
+    "credit": "Tatler Asia (Tatler Dining listing photo)"
+   },
+   {
+    "file": "photos/japan2/rockingchair_2.webp",
+    "caption": "The long wooden bar at Bar Rocking Chair",
+    "source_url": "https://www.tatlerasia.com/dining/bar-rocking-chair",
+    "credit": "Tatler Asia (Tatler Dining listing photo)"
+   }
+  ],
+  "sanjusangendo": [
+   {
+    "file": "photos/japan2/sanjusangendo_1.webp",
+    "caption": "Sanjusangendo's 120 m-long hall, home to 1,001 Kannon statues",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sanjusangendo_temple01s1408.jpg",
+    "credit": "663highland / Wikimedia Commons (CC BY 2.5)"
+   }
+  ],
+  "sumo": [
+   {
+    "file": "photos/japan2/sumo_1.webp",
+    "caption": "A yokozuna's ring-entering ceremony (dohyo-iri)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yokozuna_Terunofuji.jpg",
+    "credit": "Renate Hano / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/sumo_2.webp",
+    "caption": "Fukuoka Kokusai Center during the November (Kyushu) tournament",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%9B%B8%E6%92%B2%E5%8D%81%E4%B8%80%E6%9C%88%E5%A0%B4%E6%89%80_2009_%E6%9A%B4%E5%8A%9B%E8%BF%BD%E6%94%BE_(4117402976).jpg",
+    "credit": "Tzuhsun Hsu / Wikimedia Commons (CC BY-SA 2.0)"
+   },
+   {
+    "file": "photos/japan2/sumo_3.webp",
+    "caption": "A makuuchi bout under the gyoji's gaze",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sumo_-Tokyo_2011_09_17_a.jpg",
+    "credit": "Hikosaemon from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)"
+   }
+  ],
+  "tempura": [
+   {
+    "file": "photos/japan2/tempura_1.webp",
+    "caption": "A tempura moriawase of prawn and seasonal vegetables",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tempurainjapan-ikebukuro-dec312007.jpg",
+    "credit": "Nesnad / Wikimedia Commons (CC0)"
+   }
+  ],
+  "todaiji": [
+   {
+    "file": "photos/japan2/todaiji_1.webp",
+    "caption": "Todai-ji's Daibutsuden, one of the world's largest wooden buildings",
+    "source_url": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Daibutsuden,_June_2019.jpg",
+    "credit": "Cun Cun / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/japan2/todaiji_2.webp",
+    "caption": "The Great Buddha (Daibutsu) inside the hall",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nara_Todai-ji_Daibutsuden_Interior_Daibutsu_04.jpg",
+    "credit": "Zairon / Wikimedia Commons (CC BY 4.0)"
+   }
+  ]
+ },
+ "facts": {
+  "kaya-kyoto": {
+   "name": "KAYA Kyoto Nijo Castle, BW Signature Collection by Best Western",
+   "summary": "A 57-room boutique hotel on a quiet street just north-east of Nijo Castle, done in warm-wood 'Japanese modern' style with organic amenities and a French restaurant. It joined Best Western's Signature Collection in 2023 and is run by BWH Hotels; some booking sites still list it under its old name, The Hotel Kyoto Palace.",
+   "fact": "The name is said to come from Kaya-in, the Heian-era mansion of Prince Kaya (a son of Emperor Kanmu) that stood nearby. This is reported by the hotel's listings, not independently confirmed.",
+   "address": "50 Daimonji-cho, Aburanokoji-dori Marutamachi-sagaru, Nakagyo-ku, Kyoto 604-0071. Tel +81 75-223-0606",
+   "hours": "Check-in from 15:00, check-out by 11:00. Late check-out about JPY 2,000 extra, per Hotels.com.",
+   "practical": "Sun 8 Nov: arriving from Nara on the Kintetsu line, it's about 15 min by taxi from Kyoto Station, or take the Karasuma subway to Marutamachi and walk about 10 min. Nijo Castle is about a 9-10 min walk. Expect to show a passport (the hotel copies it) and pay Kyoto's accommodation tax. Tue 10 Nov: check out by 11:00 and leave bags with the front desk. Collect them after the 17:00 dinner at Badu (about 20-25 min by taxi from Badu), then allow about 15-20 min by taxi to Kyoto Station for the 21:07 Nozomi."
+  },
+  "nekoyard": {
+   "name": "b hotel Neko Yard (b hotel ネコヤード), Hiroshima",
+   "summary": "A newly built (2021) apartment-hotel from Hiroshima's 'b hotel' brand, in the Nekoya-machi backstreets west of Peace Memorial Park. It has 19 loft-style units in grey concrete and white, with kitchens and deep soaking tubs. There's no front desk: you check in yourself with a smart lock.",
+   "fact": "The name plays on its address, Nekoya-machi (猫屋町, literally 'cat-shop town').",
+   "address": "2-10 Nekoya-machi, Naka-ku, Hiroshima 730-0852. About 3 min walk to Dobashi tram stop, about 9 min to Peace Memorial Park, about 700 m to the A-Bomb Dome",
+   "hours": "Check-in from 15:00 by smart lock, check-out by 11:00. No reception.",
+   "practical": "Tue 10 Nov: you arrive at Hiroshima Station at 22:44. With luggage, take a taxi (about 15 min). Alternatively, trams 2 or 6 to Dobashi take about 20 min. Before arrival, complete the online guest registration and watch for the email sent within 24 h of arrival with door codes. The property asks you to contact it at least 24 h ahead to arrange check-in. Thu 12 Nov: leave by about 09:15 to make Nozomi 1 (on the platform by 09:49, departs 09:50)."
+  },
+  "fukuoka-stay": {
+   "name": "Branche Sumiyoshi EAST (Ｂｒａｎｃｈｅ住吉ＥＡＳＴ), apartment rental",
+   "summary": "A private apartment rental in residential Sumiyoshi, Hakata Ward, between Hakata Station and Canal City. I found no public listing or photos under this name online, so the page uses images of the neighbourhood: Sumiyoshi Shrine and the Naka River.",
+   "fact": "Sumiyoshi Shrine, about 350 m north, is one of Japan's oldest Sumiyoshi shrines. Its main hall dates from 1623 and was rebuilt by Kuroda Nagamasa, first lord of Fukuoka; it is an Important Cultural Property.",
+   "address": "4-25-15 Sumiyoshi, Hakata-ku, Fukuoka 812-0018 (geocoded via GSI to about 33.5824 N, 130.4119 E). About 0.4 km to Sumiyoshi Shrine, about 0.7 km to GohGan (010 Building), about 0.8 km (10-12 min walk) to Canal City, about 1.1 km straight-line (15-20 min walk, about 5 min taxi) to JR Hakata Station",
+   "hours": "Check-in and check-out per your host. Check out by 10:00 on Fri 13 Nov.",
+   "practical": "Thu 12 Nov: after sumo (ends about 18:00), collect your bags at Hakata Station and take a taxi (about 5 min) or walk. Check in before the 20:00 GohGan booking, which is a 10 min walk away. Fri 13 Nov: check out by 10:00. A taxi to Fukuoka Airport International Terminal takes about 20-25 min. Alternatively, go via Hakata Station and the direct Nishitetsu bus to the International Terminal (about 20-25 min)."
+  },
+  "nara": {
+   "name": "Nara",
+   "summary": "Japan's first permanent capital (710-784), where Buddhism, Silk Road art and imperial power first came together on a grand scale. Its temples, shrines and deer-filled park sit within walking distance of Kintetsu-Nara Station, and the whole cluster is a UNESCO World Heritage Site.",
+   "fact": "Eight Nara sites, including Todai-ji, Kofuku-ji, Kasuga Taisha and the Kasugayama primeval forest, make up the 'Historic Monuments of Ancient Nara' World Heritage Site (1998).",
+   "address": "Kintetsu-Nara Station, Higashimuki, Nara. Nara Park starts about 5 min walk east",
+   "hours": "The park is open 24 h. Temples generally open 8:00-17:00 in November.",
+   "practical": "Sun 8 Nov: it's a Sunday in peak autumn season, so arrive by about 9:00 to beat the coach groups. Kofuku-ji's Five-storey Pagoda is wrapped in scaffolding for restoration (July 2023 to about March 2034), so don't expect the classic pagoda view. The rest of Kofuku-ji is open."
+  },
+  "kyoto": {
+   "name": "Kyoto",
+   "summary": "Japan's imperial capital for over a thousand years (794-1869). It is a grid city of 1,600 temples, 400 shrines, wooden machiya townhouses and the willow-lined Kamo River. Early-to-mid November is the start of the autumn-leaf season, which is beautiful but very busy.",
+   "fact": "Seventeen Kyoto-area sites, including Nijo Castle, Kinkaku-ji and Kiyomizu-dera, make up the 'Historic Monuments of Ancient Kyoto' World Heritage Site.",
+   "address": "Kyoto, Kyoto Prefecture",
+   "hours": "Sunset is about 16:55 in early November.",
+   "practical": "Buses are slow and crowded in autumn, so use the subway, JR, Keihan and taxis for cross-town hops. An IC card (ICOCA, Suica or a mobile pass) works on everything."
+  },
+  "hiroshima": {
+   "name": "Hiroshima",
+   "summary": "A lively, leafy river-delta city rebuilt from the ashes of 6 August 1945. It is now known as a 'City of Peace', with a strong food culture of okonomiyaki, oysters and sake. Trams, rivers and wide boulevards make it easy to explore on foot.",
+   "fact": "Hiroshima's tram network is one of the largest in Japan. A few trams that survived the 1945 bombing (the 650 class, 'hibaku densha') still run.",
+   "address": "Hiroshima, Hiroshima Prefecture",
+   "hours": "Sunset is about 17:10 in mid-November.",
+   "practical": "Wed 11 Nov: Peace Park, the Museum, the Dome and the castle are all within about 1.5 km of Neko Yard, so this is a walking day. Use an IC card on the trams (flat fare inside the city)."
+  },
+  "fukuoka": {
+   "name": "Fukuoka (Hakata)",
+   "summary": "Kyushu's relaxed, food-obsessed capital, formed from the old merchant town of Hakata and the castle town of Fukuoka. It is famous for tonkotsu ramen, mentaiko and riverside yatai street stalls. It's compact and close to its airport, and it hosts the November Grand Sumo tournament.",
+   "fact": "Fukuoka Airport is about 5 minutes by subway from Hakata Station, making it one of the most central major airports in the world.",
+   "address": "Fukuoka, Fukuoka Prefecture",
+   "hours": "Sunset is about 17:25 in mid-November.",
+   "practical": "Thu 12 Nov: arrive Hakata 10:52, drop bags, Canal City is about a 10 min walk, then sumo at 14:00. Fri 13 Nov: allow about 2 h before your 13:25 flight to Hong Kong. Leave the Sumiyoshi apartment by about 10:00-10:30."
+  },
+  "narapark": {
+   "name": "Nara Park and its deer",
+   "summary": "A 500-hectare park of lawns, ancient cedars and temple approaches. Around 1,300 free-roaming sika deer live here, regarded since ancient times as messengers of the gods at Kasuga Taisha. Many have learned to bow for shika-senbei crackers.",
+   "fact": "Nara's deer are protected as a National Natural Monument. Legend says the god of Kasuga Taisha arrived in Nara riding a white deer.",
+   "address": "Nara Park, Zoshi-cho/Kasugano-cho, Nara. About 5 min walk from Kintetsu-Nara Station",
+   "hours": "Open 24 h, free. Deer crackers (shika-senbei) cost about JPY 200 from park vendors in the daytime.",
+   "practical": "Sun 8 Nov: autumn is rutting season, so give the stags space. Their antlers are ceremonially cut in October but they can still butt and nip. Hold crackers out of sight until you're ready, show empty hands when you're done, and don't feed them anything else."
+  },
+  "todaiji": {
+   "name": "Todai-ji (Great Buddha Hall)",
+   "summary": "The 8th-century head temple of Japan's provincial temple network. Its Daibutsuden houses a 15 m bronze seated Buddha, and the hall is one of the world's largest wooden buildings even though the 1709 rebuild is a third smaller than the original. You reach it through the colossal Nandaimon gate, guarded by Unkei's 8 m Nio guardian statues.",
+   "fact": "A hole through one of the hall's pillars is said to match the size of the Great Buddha's nostril. Squeezing through it is believed to bring enlightenment in your next life.",
+   "address": "406-1 Zoshi-cho, Nara 630-8587. About 20 min walk from Kintetsu-Nara Station",
+   "hours": "Great Buddha Hall 8:00-17:00 (Nov-Mar). Adults JPY 800; JPY 1,200 combined with the Todai-ji Museum (9:30-17:00).",
+   "practical": "Sun 8 Nov: go early (8:00 opening) before school groups and Sunday crowds. Combine with Nandaimon, Nigatsu-do's view terrace and Isuien garden if time allows."
+  },
+  "gion": {
+   "name": "Gion (Hanamikoji and Yasaka Shrine)",
+   "summary": "Kyoto's most famous geiko district: lantern-lit teahouses (ochaya), wooden lattices and stone-paved lanes running south from Yasaka Shrine. Early evening is when maiko and geiko may be glimpsed hurrying to appointments.",
+   "fact": "Yasaka Shrine, at the top of Shijo-dori, is the home shrine of the Gion Matsuri, one of Japan's three great festivals, held every July since 869.",
+   "address": "Hanamikoji-dori and Gion-machi, Higashiyama-ku. Yasaka Shrine: 625 Gionmachi Kitagawa",
+   "hours": "Streets are always open. Yasaka Shrine grounds are open 24 h.",
+   "practical": "Sun 8 Nov: dusk (about 16:55) is the most atmospheric time. Many of the private lanes off Hanamikoji are now closed to tourists, with signs warning of a JPY 10,000 fine. Stick to the main street and never photograph or stop geiko or maiko. Shirakawa-minami-dori and Tatsumi Bridge are just north."
+  },
+  "nishiki": {
+   "name": "Nishiki Market",
+   "summary": "A narrow, covered five-block arcade, about 390 m long, known as 'Kyoto's Kitchen'. More than 100 stalls sell pickles, yuba, dashimaki tamago, wagashi, knives and skewered snacks. It has supplied the city's kitchens for around 400 years.",
+   "fact": "Fish wholesaling on this street dates back to the early Edo period (around 1615). The site was chosen because of its cold, clean groundwater, which was ideal for keeping fish fresh.",
+   "address": "Nishikikoji-dori between Teramachi and Takakura, Nakagyo-ku. About 5 min walk from Shijo or Kyoto-Kawaramachi Station",
+   "hours": "Each shop sets its own hours. Most run about 10:00-17:00/18:00, and many are closed Wednesdays; some also close on Sundays.",
+   "practical": "Sun 8 Nov: 'before dinner' after a 15:00 check-in means arriving around 16:30-17:00, when many stalls are already shutting and some Sunday-closers won't open at all. Go straight from Kintetsu-Kyoto (drop bags at KAYA or in a locker) or accept a partial visit. The market asks you not to eat while walking; eat at the stall."
+  },
+  "rockingchair": {
+   "name": "Bar Rocking Chair",
+   "summary": "A dim, fire-lit cocktail bar in a century-old machiya townhouse in the backstreets off Kawaramachi. It seats fewer than 30, including four antique rocking chairs. There's no menu: the white-jacketed bartenders ask what you like and make a bespoke drink, often with Japanese seasonal fruit.",
+   "fact": "Owner-bartender Kenji Tsubokura won the IBA World Cocktail Championships in 2016.",
+   "address": "434-2 Tachibana-cho, Gokomachi-dori Bukkoji-sagaru, Shimogyo-ku, Kyoto 600-8044. About 5 min walk from Kyoto-Kawaramachi. Tel +81 75-496-8679",
+   "hours": "From 17:00 until about 1:00-2:00, closed Tuesdays. Sources vary, and one lists 15:00 opening at weekends.",
+   "practical": "Sun 8 Nov: open (Tuesday is the closing day). It's small and seating is first come, first served, so going at opening time (17:00) is ideal; after dinner, expect a wait for seats."
+  },
+  "nijocastle": {
+   "name": "Nijo Castle (Nijo-jo)",
+   "summary": "The Tokugawa shoguns' Kyoto residence, built from 1603 to project power over the imperial court. Its Ninomaru Palace is the finest surviving example of samurai-era palace architecture, with gold-leaf screen paintings by the Kano school.",
+   "fact": "The Ninomaru Palace's 'nightingale floors' chirp underfoot, a squeak that works like an intruder alarm. In 1867 the last shogun announced the return of power to the emperor here.",
+   "address": "541 Nijojo-cho, Nakagyo-ku, Kyoto 604-8301. About 10 min walk from KAYA. Nijojo-mae Station (Tozai line)",
+   "hours": "8:45-17:00, last entry 16:00. Castle JPY 800; castle + Ninomaru Palace JPY 1,300; Honmaru Palace JPY 1,000 extra, advance web ticket only.",
+   "practical": "Mon 9 Nov: open, with no scheduled closures. The Honmaru Palace is closed on the 3rd Monday and the day after, which in November 2026 is 16-17 Nov, so not your day. Be at the gate at 8:45 to see the palace before tour groups. Allow about 1.5 h. No photography inside the palace."
+  },
+  "kyotopalace": {
+   "name": "Kyoto Imperial Palace (Kyoto Gosho) and Kyoto Gyoen National Garden",
+   "summary": "The emperors' residence until 1869, set inside the vast, tree-lined Kyoto Gyoen park. The walled compound of cypress-bark roofs and raked white gravel is centred on the Shishinden enthronement hall. The surrounding Gyoen is a public park of lawns, pine groves, old noble-house sites and autumn maples.",
+   "fact": "The current palace buildings date from 1855. The Emperors Taisho and Showa were enthroned in the Shishinden, in 1915 and 1928.",
+   "address": "Kyoto Gyoen 3, Kamigyo-ku, Kyoto. Enter the palace via the Seishomon gate. Marutamachi or Imadegawa Station (Karasuma line)",
+   "hours": "Palace: free, walk-in, about 9:00-16:00 (last entry about 15:20) in Oct-Feb. Closed Mondays (or the next day if Monday is a holiday) and 28 Dec-4 Jan. Gyoen garden: open 24 h, free.",
+   "practical": "Mon 9 Nov: the PALACE IS CLOSED. The Imperial Household Agency's own site lists Mondays as closed, and 9 Nov 2026 is not a public holiday. You can still walk the Gyoen garden and see the palace walls and gates from outside. To go inside, do it on Tue 10 Nov (open from 9:00) or drop it."
+  },
+  "kinkakuji": {
+   "name": "Kinkaku-ji (Golden Pavilion, Rokuon-ji)",
+   "summary": "A three-storey pavilion, its upper two floors covered in gold leaf, floating over the Kyoko-chi ('mirror pond'). It was originally the 14th-century retirement villa of shogun Ashikaga Yoshimitsu. In early-to-mid November the surrounding maples start to turn.",
+   "fact": "The pavilion was burned down by a novice monk in 1950, an event that inspired Yukio Mishima's novel 'The Temple of the Golden Pavilion'. The present building is a 1955 reconstruction.",
+   "address": "1 Kinkakuji-cho, Kita-ku, Kyoto 603-8361",
+   "hours": "9:00-17:00 daily. Adults JPY 500.",
+   "practical": "Mon 9 Nov: open (closes 17:00, as you noted). Arashiyama is about 30 min by taxi (or bus 204/205 then train), and the light goes around 16:55. So do Kinkaku-ji first (late morning or early afternoon) and Arashiyama by about 15:30 at the latest, not the other way round. Allow 45-60 min. It's a one-way route with heavy crowds."
+  },
+  "arashiyama": {
+   "name": "Arashiyama Bamboo Grove (Sagano)",
+   "summary": "A path a few hundred metres long through soaring moso bamboo that creaks and rustles in the wind, in Kyoto's western hills. It links Tenryu-ji's north gate with Okochi Sanso villa, and the Togetsukyo Bridge and Hozu River are minutes away.",
+   "fact": "The grove's sound was selected as one of the Ministry of the Environment's '100 Soundscapes of Japan'.",
+   "address": "Sagaogurayama Tabuchiyama-cho, Ukyo-ku, Kyoto. About 10 min walk from JR Saga-Arashiyama or Randen Arashiyama",
+   "hours": "Open 24 h, free. Tenryu-ji garden 8:30-17:00.",
+   "practical": "Mon 9 Nov: expect wall-to-wall crowds in the afternoon. Sunset is about 16:55, so arrive by about 15:30 for light in the grove. The grove is narrow and slow, so allow about 45 min including Togetsukyo. From Arashiyama to Gion (dinner 20:00) is about 35-45 min by JR or taxi."
+  },
+  "tempura": {
+   "name": "Kyoto Tempura Ten no Meshi Gion Honten (京都天ぷら 天のめし 祇園本店)",
+   "summary": "A small, friendly tempura spot in a Gion side street serving a multi-course omakase. Pieces are fried and served one by one, including Wagyu 'sukiyaki-style' tempura and bluefin tuna, and the meal finishes with rice. It's popular with visitors for its hospitality, English-speaking staff and keepsake photos.",
+   "fact": "Highlights reviewers mention include sukiyaki-flavoured Wagyu beef tempura, an unusual twist on the classic course.",
+   "address": "255 Gionmachi Kitagawa, Higashiyama-ku, Kyoto 605-0073. About 3 min walk from Gion-Shijo Station. Tel +81 75-744-6102",
+   "hours": "About 11:00-23:00 daily, per its Google/Wanderlog listing. Tabelog dinner price band JPY 4,000-5,999.",
+   "practical": "Mon 9 Nov, 20:00 booking: confirm the reservation, as it's popular and walk-ins are often turned away. Upstairs seating is calmer. Allow about 1.5-2 h. Gion is also where you'll be the night before, so you'll know the way."
+  },
+  "fushimiinari": {
+   "name": "Fushimi Inari Taisha",
+   "summary": "The head shrine of some 30,000 Inari shrines across Japan, founded in 711. It's famous for the roughly 10,000 vermilion torii donated by businesses that form tunnels up 233 m Mt Inari. Fox statues, the messengers of Inari, guard keys to the rice granary in their mouths.",
+   "fact": "Each torii is a donation, and the donor's name and date are inscribed on the back. A large gate costs well over a million yen.",
+   "address": "68 Fukakusa Yabunouchi-cho, Fushimi-ku, Kyoto. Directly opposite JR Inari Station (about 5 min from Kyoto Station on the JR Nara line, local trains only)",
+   "hours": "Open 24 h, free.",
+   "practical": "Tue 10 Nov: check out of KAYA early, leave bags, and be at the Senbon Torii by about 7:30-8:00. The lower tunnels are packed by 10:00. Walking to Yotsutsuji crossroads (view over Kyoto) takes about 45-60 min up; the full summit loop takes 2-3 h. Sanjusangendo is 2 stops north on the Keihan line (Shichijo) or about 10 min by taxi."
+  },
+  "sanjusangendo": {
+   "name": "Sanjusangendo (Rengeo-in)",
+   "summary": "A 120 m-long, low wooden hall, Japan's longest wooden building. Inside stand 1,001 gilded statues of the thousand-armed Kannon in serried ranks, around a large seated Kannon and 28 fierce guardian deities.",
+   "fact": "The name means '33 bays', the number of spaces between the hall's pillars. The hall dates from 1266 after the 1164 original burned. Each January an archery contest is held along the veranda.",
+   "address": "657 Sanjusangendo-mawari, Higashiyama-ku, Kyoto 605-0941. About 7 min walk from Keihan Shichijo",
+   "hours": "8:30-17:00 until 15 Nov (last entry 16:30). From 16 Nov, 9:00-16:00. Adults JPY 600.",
+   "practical": "Tue 10 Nov: still on summer hours (8:30-17:00). No photography inside the hall, and shoes off. Allow 30-45 min. Kiyomizu-dera is about 20 min walk uphill or a short taxi ride."
+  },
+  "kiyomizudera": {
+   "name": "Kiyomizu-dera",
+   "summary": "A hillside temple founded in 778, whose main hall stage juts 13 m out over a ravine of maples on 18 giant zelkova pillars. It gives a sweeping view back over Kyoto. Below, the three streams of the Otowa waterfall are said to grant longevity, love or academic success.",
+   "fact": "The stage was built without a single nail. 'To jump from the stage of Kiyomizu' is the Japanese equivalent of 'take the plunge'.",
+   "address": "1-294 Kiyomizu, Higashiyama-ku, Kyoto 605-0862",
+   "hours": "6:00-18:00. Adults JPY 500. The autumn evening illumination (to 21:30) is reported for about 21-30 Nov 2026, so it is not on your date.",
+   "practical": "Tue 10 Nov: daytime visit only, as the night light-up hadn't started yet. Leaves are usually just beginning to turn in early-to-mid November. Walk down via Sannenzaka, Ninenzaka and the Yasaka Pagoda. For Badu at 17:00, leave by about 16:15: it's about 25-30 min by taxi to Shishigatani."
+  },
+  "badu": {
+   "name": "Badu (バドゥ), sister restaurant of monk",
+   "summary": "The relaxed sister of monk, chef Yoshihiro Imai's acclaimed wood-fired restaurant on the Philosopher's Path. It's a charcoal-grill wine bar and izakaya in quiet Shishigatani, cooking seasonal vegetables from its own farm and nearby growers. You can order à la carte or a sharing omakase, and there's a standing tachinomi corner and a cellar of natural wines and sake.",
+   "fact": "It sits at the foot of Mt Daimonji, the mountain where the giant 'Dai' bonfire is lit each August at Gozan no Okuribi.",
+   "address": "42-1 Shishigatani Sakuradani-cho, Sakyo-ku, Kyoto 606-8423 (near the Philosopher's Path)",
+   "hours": "Dinner only. From 1 Nov: 17:00-21:00 (last order). Closed Sundays and Mondays. Sharing omakase JPY 10,000 per person plus tax and 10% service.",
+   "practical": "Tue 10 Nov, 17:00: Tuesday is an open day, and 17:00 is its opening and first-seating time. Book via TableCheck (opens 2 months ahead at 12:00); a JPY 10,000 per person card hold applies, forfeited for cancellations within 36 h. The restaurant asks guests NOT to taxi to the door: get dropped at Shishigatani Fire Station or Daisan Kinrin Elementary School and walk. Then allow about 20-25 min by taxi to KAYA for bags, and 15-20 min on to Kyoto Station for the 21:07."
+  },
+  "peacepark": {
+   "name": "Hiroshima Peace Memorial Park",
+   "summary": "A 12-hectare park at the river fork that was once Hiroshima's busiest downtown district, directly beneath the 1945 explosion. Kenzo Tange's axis runs from the museum through the arched Cenotaph and Peace Flame to the ruined Dome across the river. Along the way are the Children's Peace Monument, draped in paper cranes, and the Peace Bell.",
+   "fact": "The Peace Flame has burned since 1964. It will be extinguished only when the last nuclear weapon on Earth is gone.",
+   "address": "1-1 Nakajima-cho, Naka-ku, Hiroshima. About 9 min walk from Neko Yard",
+   "hours": "Open 24 h, free.",
+   "practical": "Wed 11 Nov: start early, as the morning light down the Cenotaph axis is lovely and quiet. Ring the Peace Bell, and see the Children's Peace Monument (bring or fold a crane)."
+  },
+  "abombdome": {
+   "name": "Atomic Bomb Dome (Genbaku Dome)",
+   "summary": "The skeletal remains of the Hiroshima Prefectural Industrial Promotion Hall, one of the few structures left standing near the hypocentre. It has been kept exactly as the blast left it, and was inscribed as a UNESCO World Heritage Site in 1996.",
+   "fact": "Designed by Czech architect Jan Letzel and completed in 1915, it stood about 160 m from the hypocentre. The blast came almost directly from above, which is why parts of its walls and dome frame survived.",
+   "address": "1-10 Otemachi, Naka-ku, Hiroshima. Genbaku Dome-mae tram stop",
+   "hours": "Viewable from outside 24 h. The interior is closed.",
+   "practical": "Wed 11 Nov: about 10 min walk from Neko Yard. It's lit at night, so it's worth a second look after dinner at Nagata-ya, which is just across the river."
+  },
+  "peacemuseum": {
+   "name": "Hiroshima Peace Memorial Museum",
+   "summary": "A deeply moving museum that tells the story of 6 August 1945 through survivors' belongings, testimonies and photographs, and puts it in the wider context of the nuclear age. The main building (1955) is by Kenzo Tange.",
+   "fact": "Among the exhibits is a stone step that carries the shadow of a person who was sitting on it when the bomb exploded.",
+   "address": "1-2 Nakajima-cho, Naka-ku, Hiroshima 730-0811",
+   "hours": "Sept-Nov 7:30-19:00 (last entry 30 min before closing). Adults JPY 200. Entry to the permanent exhibition in the extended-hours slots (e.g. 17:30-18:30 in Sept-Nov) requires an online reservation.",
+   "practical": "Wed 11 Nov: buy a timed web ticket in advance, since queues can be long mid-morning. Go early (from 7:30) or late afternoon. Allow 1.5-2 h. The audio guide is worth it."
+  },
+  "hiroshimacastle": {
+   "name": "Hiroshima Castle (Rijo, 'Carp Castle')",
+   "summary": "Founded by warlord Mori Terumoto in 1589. The original keep was destroyed by the atomic bomb, and a 1958 reinforced-concrete replica later housed a history museum. The moats, stone walls, reconstructed Ninomaru gate and turrets, and Hiroshima Gokoku Shrine remain a peaceful green enclave north of Peace Park.",
+   "fact": "A eucalyptus and a willow that survived the bomb (hibaku trees) still grow in the castle grounds.",
+   "address": "21-1 Motomachi, Naka-ku, Hiroshima 730-0011. About 15-20 min walk north of Peace Park",
+   "hours": "Keep: PERMANENTLY CLOSED since 22 Mar 2026; exterior viewing only. Ninomaru restored buildings: Oct-Mar 9:00-16:30 (last entry 16:00), free; closed 8 Dec and 29-31 Dec. Grounds and Sannomaru shops and restaurants are open.",
+   "practical": "Wed 11 Nov: you can't go inside the keep. Hiroshima City closed it over concrete deterioration and earthquake-safety concerns, and the replacement Sannomaru History Museum opens in stages from 1 June 2027. Visit for the exterior views, the Ninomaru gate and turrets, the moat walk and Gokoku Shrine. 30-45 min is plenty."
+  },
+  "okonomiyaki": {
+   "name": "Okonomiyaki Nagata-ya (お好み焼 長田屋)",
+   "summary": "One of Hiroshima's best-loved okonomiyaki shops, a stone's throw from the A-Bomb Dome and Peace Park. Cooks layer crêpe batter, mountains of cabbage, pork, egg and noodles on a hot iron plate, finished with Otafuku-style sauce. You can eat straight off the teppan at the counter.",
+   "fact": "Hiroshima-style okonomiyaki is layered, not mixed like Osaka's, and always includes yakisoba or udon noodles. Nagata-ya has featured in TripAdvisor's rankings of restaurants popular with foreign visitors to Japan (2015, 2017).",
+   "address": "1-7-19 Otemachi, Naka-ku, Hiroshima 730-0051 (Shigeishi Bldg 1F), at the Peace Park end of Hondori. Tel 082-247-0787",
+   "hours": "11:00-20:30 (last order 20:00). Usually closed Tuesdays and the 2nd and 4th Wednesdays. The official November 2026 notice says it is closed only on Tuesdays (plus the 3 Nov holiday).",
+   "practical": "Wed 11 Nov: OPEN. 11 Nov is the 2nd Wednesday, which normally would be a closing day, but the shop's own November 2026 notice lists only Tuesdays. Re-check the site the week before. No reservations and there's usually a queue, though it moves fast and you can order while waiting. Last order is 20:00, so join the line by about 18:30-19:00."
+  },
+  "canalcity": {
+   "name": "Canal City Hakata",
+   "summary": "A colourful 'city within a city' of curving terracotta and pastel buildings wrapped around an artificial canal. It holds shops, restaurants, a theatre, cinemas and hotels, and a dancing-fountain show plays over the water every half hour.",
+   "fact": "Opened in 1996 and designed by American architect Jon Jerde, the complex is themed on the cosmos, with areas named Sun Plaza, Moon Walk and Star Court.",
+   "address": "1-2 Sumiyoshi, Hakata-ku, Fukuoka 812-0018. About 10 min walk from Hakata Station or Kushida-jinja-mae",
+   "hours": "Shops about 10:00-21:00, restaurants about 11:00-23:00. Fountain shows on the hour and half-hour.",
+   "practical": "Thu 12 Nov: arrive about 11:15 after dropping bags. Have lunch (the Ramen Stadium food court on 5F is a classic) and catch a fountain show. Leave by about 13:30 for the 14:00 sumo; it's about 10-15 min by taxi to Fukuoka Kokusai Center. GohGan is in the 010 Building next door, so you'll be back here at 20:00."
+  },
+  "sumo": {
+   "name": "Grand Sumo Tournament, November (Kyushu) Basho 2026",
+   "summary": "The last of the year's six grand tournaments: 15 days of bouts at Fukuoka Kokusai Center, from apprentices in the morning to the top-division stars at day's end. The rituals are as compelling as the 10-second bouts: salt-throwing, stare-downs and the yokozuna's ring-entering ceremony.",
+   "fact": "Sumo's current yokozuna are Hoshoryu and Onosato. Watching a yokozuna's dohyo-iri, with its rope belt and stamping, is a highlight of any day.",
+   "address": "Fukuoka Kokusai Center, 2-2 Chikko-honmachi, Hakata-ku, Fukuoka 812-0021. About 10-15 min by taxi or Nishitetsu bus ('Kokusai Center/Sunpalace-mae') from Hakata Station",
+   "hours": "8-22 Nov 2026 (official Japan Sumo Association schedule). Doors about 8:30. Juryo ring entry about 14:15-14:20 and bouts from about 14:35-14:40. Makuuchi ring entry about 15:40, yokozuna ring entry about 15:55, makuuchi bouts about 16:10-18:00, then the bow-twirling ceremony (yumitori-shiki).",
+   "practical": "Thu 12 Nov = DAY 5 (opening day was Sun 8 Nov). Arriving at 14:00 gets you the juryo division and all the top-division ceremony. TICKETS: the JSA site says the November tournament is SOLD OUT for all dates (advance sales sold out on the first day, 19 Sep). If you don't already hold tickets, the options are a limited number of same-day tickets at the venue (queue early, not guaranteed) or official resale; avoid unofficial resellers. Bring cash for bento and drinks, and an IC card for the bus."
+  },
+  "gohgan": {
+   "name": "GohGan",
+   "summary": "The first permanent restaurant from two of Asia's star chefs: Fukuoka's Takeshi 'Goh' Fukuyama (Goh, Michelin-starred, Asia's 50 Best No. 36 in 2025) and Gaggan Anand (Gaggan, Bangkok, five-time No. 1 on Asia's 50 Best). It's a riverside dining room and terrace in the 010 Building next to Canal City, with an open kitchen and about 40 seats, serving playful Indian-Japanese-French dishes such as pani puri and Kyushu black beef with spiced potatoes.",
+   "fact": "Gaggan Anand first announced a Fukuoka 'GohGan' with Fukuyama back in 2016-17, saying he planned to close his Bangkok restaurant in 2020 and move to Fukuoka. The project was delayed for years before GohGan finally opened in the 010 Building.",
+   "address": "1F 010 Building, 1-4-17 Sumiyoshi, Hakata-ku, Fukuoka 812-0018. Tel +81 92-281-0555",
+   "hours": "Dinner 17:00-22:00 (last order: course 20:00, à la carte 21:00, drinks 21:30). Lunch Sat, Sun and holidays. Closed Mondays.",
+   "practical": "Thu 12 Nov, 20:00: open. Note that the official last order for the COURSE is 20:00, so a 20:00 table means ordering a course straight away, or eating à la carte (last order 21:00). Confirm with the restaurant via TableCheck. Don't be late: a booking site warns that tables may be released more than 15 min late. It's about a 10 min walk from the Sumiyoshi apartment."
+  }
+ },
+ "trains": [
+  {
+   "from": "Osaka (Osaka-Namba)",
+   "to": "Nara (Kintetsu-Nara)",
+   "date": "Sun 8 Nov",
+   "dep": "morning, e.g. about 8:00-8:30",
+   "arr": "about 35-40 min later",
+   "service": "Kintetsu Nara Line: Rapid Express (no reservation, about 40 min, about JPY 680) or Limited Express (reserved seat, about 35 min, plus about JPY 520 surcharge). The 'Aoniyoshi' sightseeing limited express also runs Namba-Nara-Kyoto a few times a day.",
+   "notes": "From Candeo Hotels Osaka The Tower (1-1-27 Dojimahama, Kita-ku), walk about 6 min to Yodoyabashi and take the Midosuji subway 3 stops to Namba (about 6 min). Walk underground to Kintetsu Osaka-Namba (5-10 min). Allow about 30 min hotel-to-platform. Kintetsu-Nara is the terminus, 5 min walk to Nara Park. JR Pass not valid."
+  },
+  {
+   "from": "Nara (Kintetsu-Nara)",
+   "to": "Kyoto (Kintetsu Kyoto Station)",
+   "date": "Sun 8 Nov",
+   "dep": "after lunch, e.g. about 14:00",
+   "arr": "about 35-50 min later",
+   "service": "Kintetsu Kyoto Line: Limited Express (about 35-37 min, about JPY 760 + JPY 520 surcharge, some direct from Kintetsu-Nara) or Express (about 45-50 min, fare only; some need a change at Yamato-Saidaiji)",
+   "notes": "Kintetsu trains arrive on the south (Hachijo) side of JR Kyoto Station. To KAYA: taxi about 15 min, or the Karasuma subway to Marutamachi (about 7 min) then about 10 min walk."
+  },
+  {
+   "from": "Kyoto",
+   "to": "Hiroshima",
+   "date": "Tue 10 Nov",
+   "dep": "21:07",
+   "arr": "22:44",
+   "service": "Tokaido/Sanyo Shinkansen Nozomi 59 (bound for Hakata)",
+   "notes": "Confirmed on Ekitan's timetable for 10 Nov 2026: Kyoto 21:07 to Hiroshima 22:44 (1 h 37 min). Backups: Nozomi 83 21:22 to 23:07, Nozomi 87 21:53 to 23:32. Bags with total dimensions 161-250 cm need a 'seat with oversized baggage area' reservation on this line, otherwise a JPY 1,000 on-board fee applies. Taxi to Neko Yard about 15 min."
+  },
+  {
+   "from": "Hiroshima",
+   "to": "Hakata (Fukuoka)",
+   "date": "Thu 12 Nov",
+   "dep": "09:50 (arrives Hiroshima 09:49)",
+   "arr": "10:52",
+   "service": "Sanyo Shinkansen Nozomi 1 (Tokyo 06:00 to Hakata)",
+   "notes": "No train departs Hiroshima at exactly 09:49. Nozomi 1 (weekday timetable, 12 Nov 2026) arrives at Hiroshima at 09:49 and leaves at 09:50, so '09:49' is almost certainly this train. It runs about 1 h 2 min, with one stop at Kokura. The alternative is Nozomi 99 at 09:40, arriving 10:46. The same oversized-baggage reservation rule applies."
+  },
+  {
+   "from": "Fukuoka (FUK, International Terminal)",
+   "to": "Hong Kong (HKG)",
+   "date": "Fri 13 Nov",
+   "dep": "13:25",
+   "arr": "16:40",
+   "service": "Flight",
+   "notes": "There's no subway at the International Terminal. Take a taxi from Sumiyoshi (about 20-25 min), or the direct Nishitetsu bus from Hakata Station (about 20-25 min, about JPY 310-400). Alternatively, take the subway to the Domestic Terminal (5 min) plus the free inter-terminal shuttle (about 15 min). Aim to be at the airport by about 11:00-11:15."
+  }
+ ],
+ "transfers": {
+  "osaka_to_nara": "From Candeo Hotels Osaka The Tower (Dojimahama, near Yodoyabashi/Oebashi), walk about 6 min to Yodoyabashi and take the Osaka Metro Midosuji line 3 stops to Namba (about 6 min). Walk underground to Kintetsu Osaka-Namba, then take the Kintetsu Nara Line Rapid Express (about 40 min, about JPY 680) or Limited Express (about 35 min, reserved, plus about JPY 520) to Kintetsu-Nara (terminus). Allow about 1 h 15 min door to Nara Park. (Hanshin Namba Line trains from Amagasaki also run through to Kintetsu-Nara, but from Kitashinchi/Umeda the Midosuji-to-Namba route is simplest.)",
+  "nara_to_kyoto": "Take the Kintetsu Kyoto Line from Kintetsu-Nara to Kintetsu Kyoto Station (south side of JR Kyoto Station). Limited Express takes about 35-37 min (about JPY 1,280 including surcharge); Express takes about 45-50 min (fare only, sometimes change at Yamato-Saidaiji). Then take a taxi (about 15 min) or the Karasuma subway to Marutamachi plus a 10 min walk to KAYA Kyoto Nijo Castle.",
+  "hakata_luggage": "Hakata Station has coin lockers throughout (large about JPY 500-800/day) but they fill up fast at late-morning peak. Staffed options: (1) the JR Hakata City / Crosta Hakata service counter, 2F Shinkansen 'Hikari Hiroba' exit, about 9:00-20:00, about JPY 800 small / JPY 1,000 large per item, per a 2024 report, and it also offers same-day delivery to Fukuoka hotels for about JPY 1,500; (2) TABINAKA in KITTE Hakata/Marui 2F (directly connected), 10:00-21:00, about JPY 1,000 per suitcase, bookable online. Collect after sumo (ends about 18:00; Kokusai Center to Hakata is about 10-15 min by taxi) and before 20:00 if you use the Crosta counter.",
+  "kyoto_hotel_to_station_day10": "Badu (Shishigatani) to KAYA (Nijo) takes about 20-25 min by taxi. KAYA to JR Kyoto Station takes about 15-20 min by taxi. Aim to be at Kyoto Station by about 20:45 for the 21:07.",
+  "hiroshima_station_to_nekoyard": "A taxi takes about 15 min (best with bags at 22:44). Trams 2 or 6 from Hiroshima Station to Dobashi take about 20 min, then a 3 min walk.",
+  "hakata_to_airport": "Take the direct Nishitetsu bus from Hakata Station to the International Terminal (about 20-25 min), a taxi (about 20-25 min), or the subway to Fukuoka Airport (Domestic) (5 min) plus the free shuttle to the International Terminal (about 15 min)."
+ },
+ "warnings": [
+  "Mon 9 Nov: Kyoto Imperial Palace is CLOSED. The Imperial Household Agency's site (kyoto-gosho.kunaicho.go.jp) lists Mondays as closed (the next day if Monday is a holiday), and 9 Nov 2026 is not a holiday. Kyoto Gyoen National Garden around it is open 24 h, so you can walk the garden and see the palace walls and gates from outside. To go inside, move it to Tue 10 Nov (about 9:00-16:00, last entry about 15:20).",
+  "Wed 11 Nov: Hiroshima Castle's keep closed permanently on 22 Mar 2026 (Hiroshima City and the official rijo-castle.jp site cite concrete deterioration and safety). Only the exterior can be viewed. The Ninomaru restored buildings (9:00-16:30), moat, Sannomaru shops and Gokoku Shrine are still open. The replacement Sannomaru History Museum opens from 1 Jun 2027.",
+  "Thu 12 Nov sumo: the Japan Sumo Association's site (sumo.or.jp) says November tournament tickets are SOLD OUT for all dates. If you don't already have tickets, only limited same-day sales or official resale remain. 12 Nov is Day 5 of the 8-22 Nov tournament.",
+  "Thu 12 Nov: there is no 09:49 departure from Hiroshima to Hakata. Nozomi 1 arrives at Hiroshima at 09:49 and departs 09:50, reaching Hakata at 10:52 (Ekitan weekday timetable for 12 Nov 2026). Be on the platform by 09:45.",
+  "Thu 12 Nov GohGan 20:00: GohGan's official hours list last order for the course menu at 20:00 (à la carte 21:00), so a 20:00 booking is right on the course cut-off. Confirm with the restaurant, and arrive on time. Closed Mondays, so Thursday is fine (010bld.com).",
+  "Sun 8 Nov: Nishiki Market shops set their own hours, typically closing about 17:00-18:00, and some close on Sundays (kyoto-nishiki.or.jp: no market-wide closing day; many shops shut Wednesdays). Visiting 'before dinner' after a 15:00 check-in risks finding many stalls closed. Go earlier, straight from Kintetsu Kyoto.",
+  "Mon 9 Nov: sunset in Kyoto is about 16:55. Kinkaku-ji closes at 17:00 and the Arashiyama bamboo grove gets dark and very crowded late in the day. Do Kinkaku-ji first and reach Arashiyama by about 15:30. Kinkaku-ji to Arashiyama is about 30 min by taxi.",
+  "Tue 10 Nov: the plan has a tight cross-town evening. Badu (restaurant-monk.com/badu) is in Shishigatani near the Philosopher's Path (far east), bags are at KAYA (Nijo, centre-west), and the train is at Kyoto Station 21:07. Badu opens at 17:00 (its November hours) on Tuesdays (closed Sun and Mon), and the restaurant asks diners not to taxi to its door. Allow about 20-25 min Badu to KAYA and about 15-20 min KAYA to station by taxi. Book Badu on TableCheck (JPY 10,000 per person card hold).",
+  "Wed 11 Nov: Nagata-ya's standard closing days are Tuesdays and the 2nd and 4th Wednesdays, and 11 Nov is the 2nd Wednesday. However, the shop's own 'November closing days' notice (nagataya-okonomi.com, posted 23 Oct 2026) says November closures are every Tuesday plus 3 Nov only, so it should be OPEN. Re-check nearer the date. Last order 20:00, no reservations.",
+  "Sun 8 Nov: Kofuku-ji's Five-storey Pagoda in Nara is wrapped in scaffolding for restoration (July 2023 to about March 2034), so the classic Nara pagoda view isn't available. The temple grounds are open.",
+  "Tue 10 Nov: Kiyomizu-dera's autumn night illumination is reported for 21-30 Nov 2026 (LiveJapan and others; the temple's own autumn page wasn't yet posted), so there's no evening light-up on 10 Nov. Daytime hours are 6:00-18:00.",
+  "Tue 10 and Thu 12 Nov shinkansen: on the Tokaido/Sanyo lines, suitcases with total dimensions 161-250 cm need a reserved 'seat with oversized baggage area', otherwise a JPY 1,000 fee applies. Book these seats when reserving.",
+  "Day 9's date: the traveller's document says '10.11.26' but the plan sequence makes it Mon 9 Nov. All the checks above assume Mon 9 Nov."
+ ]
+}

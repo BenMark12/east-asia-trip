@@ -1,0 +1,398 @@
+{
+ "region": "korea",
+ "images": {
+  "artmonstay": [
+   {
+    "file": "photos/korea/artmonstay_1.webp",
+    "caption": "Artmonstay's rooftop terrace at sunset",
+    "source_url": "https://ak-d.tripcdn.com/images/0224a12000d23ws6hCC04.jpg",
+    "credit": "Myeongdong Artmonstay, via Trip.com hotel listing"
+   },
+   {
+    "file": "photos/korea/artmonstay_2.webp",
+    "caption": "A duplex guest room at Artmonstay",
+    "source_url": "https://ak-d.tripcdn.com/images/0227112000kzvdgxs2A3A.jpg",
+    "credit": "Myeongdong Artmonstay, via Trip.com hotel listing"
+   },
+   {
+    "file": "photos/korea/artmonstay_3.webp",
+    "caption": "The ground-floor cafe and lobby at Artmonstay",
+    "source_url": "https://ak-d.tripcdn.com/images/0585q12000suwmf5oC084.jpg",
+    "credit": "Myeongdong Artmonstay, via Trip.com hotel listing"
+   }
+  ],
+  "bukchon": [
+   {
+    "file": "photos/korea/bukchon_1.webp",
+    "caption": "Hanok houses lining Bukchon-ro 11-gil",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_and_blue_sky_in_Bukchon_Hanok_Village_Seoul.jpg",
+    "credit": "Basile Morin / Wikimedia Commons, CC BY-SA 4.0"
+   },
+   {
+    "file": "photos/korea/bukchon_2.webp",
+    "caption": "Bukchon's tiled rooftops with N Seoul Tower on the horizon",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg",
+    "credit": "Bgag / Wikimedia Commons, CC0"
+   }
+  ],
+  "changdeokgung": [
+   {
+    "file": "photos/korea/changdeokgung_1.webp",
+    "caption": "Injeongjeon, the main throne hall of Changdeokgung",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Injeongjeon_Hall_01.jpg",
+    "credit": "Bernard Gagnon / Wikimedia Commons, CC0"
+   },
+   {
+    "file": "photos/korea/changdeokgung_2.webp",
+    "caption": "Buyongji Pond in Changdeokgung's Secret Garden (Huwon)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Changdeokgung_Buyongji_in_2026_(3).jpg",
+    "credit": "Sadopaul / Wikimedia Commons, CC BY-SA 4.0"
+   }
+  ],
+  "deoksugung": [
+   {
+    "file": "photos/korea/deoksugung_1.webp",
+    "caption": "Deoksugung in autumn colour, amid downtown Seoul",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Deoksugung_Palace_in_autumn.jpg",
+    "credit": "travel oriented / Wikimedia Commons, CC BY-SA 2.0"
+   }
+  ],
+  "geoncheonggung": [
+   {
+    "file": "photos/korea/geoncheonggung_1.webp",
+    "caption": "Jangandang, the king's quarters at Geoncheonggung Residence",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EB%B3%B5%EA%B6%81_%EA%B1%B4%EC%B2%AD%EA%B6%81_%EA%B1%B4%EC%B2%AD%EA%B6%81_%EC%9E%A5%EC%95%88%EB%8B%B9(%EA%B6%81%EB%8A%A5%EC%9C%A0%EC%A0%81%EB%B3%B8%EB%B6%80)-min.jpg",
+    "credit": "Royal Palaces and Tombs Center / Wikimedia Commons, KOGL Type 1"
+   }
+  ],
+  "geumdwaeji": [
+   {
+    "file": "photos/korea/geumdwaeji_1.webp",
+    "caption": "A Korean pork-belly BBQ spread with banchan",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Samgyeopsal_table.jpg",
+    "credit": "이동원 / Wikimedia Commons, CC0"
+   }
+  ],
+  "gyeongbokgung": [
+   {
+    "file": "photos/korea/gyeongbokgung_1.webp",
+    "caption": "Geunjeongjeon, the throne hall of Gyeongbokgung, with Bugaksan behind",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Geunjeongjeon_Seoul.jpg",
+    "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0"
+   },
+   {
+    "file": "photos/korea/gyeongbokgung_2.webp",
+    "caption": "Gyeonghoeru Pavilion mirrored in its lotus pond",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg",
+    "credit": "Frank Schulenburg / Wikimedia Commons, CC BY-SA 4.0"
+   }
+  ],
+  "hongdae": [
+   {
+    "file": "photos/korea/hongdae_1.webp",
+    "caption": "Neon signs and street stalls in the heart of Hongdae",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg",
+    "credit": "lumoplank / Wikimedia Commons, CC0"
+   }
+  ],
+  "lotteworld": [
+   {
+    "file": "photos/korea/lotteworld_1.webp",
+    "caption": "Magic Island at Lotte World, with Lotte World Tower behind",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lotte_World_morning_view_8.jpg",
+    "credit": "kallerna / Wikimedia Commons, CC BY-SA 4.0"
+   },
+   {
+    "file": "photos/korea/lotteworld_2.webp",
+    "caption": "Lotte World Adventure's indoor park under its glass dome",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lotte_World.jpg",
+    "credit": "SJ Yang / Wikimedia Commons, CC BY-SA 2.0"
+   }
+  ],
+  "mirosikdang": [
+   {
+    "file": "photos/korea/mirosikdang_1.webp",
+    "caption": "Squash-and-potato jeon, grilled pork and beer at Miro Sikdang",
+    "source_url": "https://www.theinfatuation.com/seoul/reviews/miro-sikdang",
+    "credit": "Eileen Cho / The Infatuation"
+   }
+  ],
+  "mokmyeoksanbang": [
+   {
+    "file": "photos/korea/mokmyeoksanbang_1.webp",
+    "caption": "Sanchae (mountain-vegetable) bibimbap",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sanchae_Bibimbap_in_homemade_style.jpg",
+    "credit": "Real rism / Wikimedia Commons, CC0"
+   }
+  ],
+  "myeongdong": [
+   {
+    "file": "photos/korea/myeongdong_1.webp",
+    "caption": "Myeong-dong's evening street-food stalls",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_2.jpg",
+    "credit": "Sgroey / Wikimedia Commons, CC BY-SA 4.0"
+   },
+   {
+    "file": "photos/korea/myeongdong_2.webp",
+    "caption": "Neon-lit Myeong-dong shopping streets at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Myeongdong_at_night.jpg",
+    "credit": "Christian Bolz (크리스티안 볼츠) / Wikimedia Commons, CC BY-SA 4.0"
+   }
+  ],
+  "namdaemun": [
+   {
+    "file": "photos/korea/namdaemun_1.webp",
+    "caption": "Food stalls in the alleys of Namdaemun Market",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Namdaemun_market_restaurants_street.JPG",
+    "credit": "Sakaori (talk) / Wikimedia Commons, CC BY-SA 3.0"
+   }
+  ],
+  "nationalmuseum": [
+   {
+    "file": "photos/korea/nationalmuseum_1.webp",
+    "caption": "National Museum of Korea across its Mirror Pond",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Front_view_of_national_museum_of_korea.jpg",
+    "credit": "Jinah78 / Wikimedia Commons, CC BY-SA 3.0"
+   }
+  ],
+  "nseoultower": [
+   {
+    "file": "photos/korea/nseoultower_1.webp",
+    "caption": "N Seoul Tower above the Namsan fortress wall",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Tower_from_Namsan_Park_(9595148285).jpg",
+    "credit": "travel oriented from Manila, Philippines / Wikimedia Commons, CC BY-SA 2.0"
+   },
+   {
+    "file": "photos/korea/nseoultower_2.webp",
+    "caption": "N Seoul Tower lit up at night from Namsan Park",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Tower_from_Namsan_Park_(9595146693).jpg",
+    "credit": "travel oriented from Manila, Philippines / Wikimedia Commons, CC BY-SA 2.0"
+   }
+  ],
+  "seoul": [
+   {
+    "file": "photos/korea/seoul_1.webp",
+    "caption": "Downtown Seoul from Inwangsan, with N Seoul Tower atop Namsan",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Downtown_Seoul_from_Inwangsan_in_2023.jpg",
+    "credit": "Seoul Tourism Organization / Wikimedia Commons, KOGL Type 1"
+   },
+   {
+    "file": "photos/korea/seoul_2.webp",
+    "caption": "Hyangwonjeong Pavilion at Gyeongbokgung in autumn colour",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hyangwonjeong_Pavilion.jpg",
+    "credit": "Joseph Park / Wikimedia Commons, CC BY-SA 4.0"
+   },
+   {
+    "file": "photos/korea/seoul_3.webp",
+    "caption": "Bukchon-ro 11-gil at blue hour",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+    "credit": "Basile Morin / Wikimedia Commons, CC BY-SA 4.0"
+   }
+  ],
+  "warmemorial": [
+   {
+    "file": "photos/korea/warmemorial_1.webp",
+    "caption": "The War Memorial of Korea, Yongsan",
+    "source_url": "https://commons.wikimedia.org/wiki/File:War_Memorial_of_Korea_main_building.JPG",
+    "credit": "Adbar / Wikimedia Commons, CC BY-SA 3.0"
+   }
+  ],
+  "yongsanpark": [
+   {
+    "file": "photos/korea/yongsanpark_1.webp",
+    "caption": "The pond at Yongsan Family Park",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Korea_Yongsan_Family_Park_20140421_04_(13939731402).jpg",
+    "credit": "Republic of  Korea from Seoul, Republic of Korea / Wikimedia Commons, CC BY-SA 2.0"
+   }
+  ]
+ },
+ "facts": {
+  "seoul": {
+   "name": "Seoul, South Korea",
+   "summary": "A capital of more than nine million where Joseon-dynasty palaces and hanok lanes sit beneath granite peaks and glass towers. Early November is prime time: crisp, clear days and palace gardens turning red and gold.",
+   "fact": "Seoul has been Korea's capital since 1394, when the new Joseon dynasty moved its court here and began building Gyeongbokgung.",
+   "address": "Base: Myeong-dong / Namsan, Jung-gu",
+   "hours": "Time zone KST (UTC+9) - 9 hours ahead of London once UK clocks go back on Sun 25 Oct 2026.",
+   "practical": "Expect cool, dry weather (roughly mid-teens C by day, single figures at night). Official forecasts put Seoul's autumn-colour peak from late October; a private forecaster (WeatherEye) predicts Bukhansan peaks around 4 Nov, so the palaces should be near peak colour on your dates. Buy a T-money card at the airport for subway, buses and AREX."
+  },
+  "artmonstay": {
+   "name": "Myeongdong Artmonstay",
+   "summary": "A small, friendly guesthouse (about 12 rooms, opened 2016) on the lanes climbing from Myeong-dong toward Namsan. Rooms are split-level duplexes with heated floors, and the rooftop terrace looks straight up at N Seoul Tower.",
+   "fact": "It is only about 120 m from the Namsan cable car base station, so you can ride up to N Seoul Tower without using the subway.",
+   "address": "42 Toegye-ro 20na-gil, Jung-gu, Seoul 04630. Nearest subway Myeong-dong (Line 4), about 450 m / 7 min walk; Hoehyeon (Line 4) about 11 min.",
+   "hours": "Check-in 15:00-20:00, check-out by 11:00, front desk 08:00-21:00 (Trip.com listing).",
+   "practical": "Stay Sun 1 - Wed 4 Nov. You will reach the hotel around 13:30-14:30 on Sun 1 Nov, before check-in opens, so plan to leave your bags. Reviewers mention an uphill walk from the station and steep stairs inside the duplex rooms, which matters with heavy bags. No breakfast. Rooftop drinks are sold on an honesty system. Shared kitchen and laundry available."
+  },
+  "myeongdong": {
+   "name": "Myeong-dong",
+   "summary": "Seoul's busiest shopping district: a grid of pedestrian lanes packed with K-beauty stores, department stores and neon. From late afternoon, rows of street-food carts roll out with tornado potatoes, grilled lobster tails and egg bread.",
+   "fact": "Myeongdong Cathedral, completed in 1898 at the top of the district, was Korea's first Gothic-style brick church.",
+   "address": "Jung-gu; Myeong-dong Station (Line 4) or Euljiro 1-ga Station (Line 2).",
+   "hours": "Shops roughly 10:00-22:00. Street-food stalls usually set up from late afternoon to about 22:00.",
+   "practical": "Sun 1 Nov: Sunday afternoon and evening is peak time, so expect crowds. It is right on your doorstep, so it is a good gentle first afternoon while you wait for check-in."
+  },
+  "nseoultower": {
+   "name": "N Seoul Tower (Namsan Seoul Tower)",
+   "summary": "A 236 m communications tower on the summit of Namsan, the forested hill in the middle of Seoul. From the observatory the whole city spreads out in every direction, best at sunset when the lights come on.",
+   "fact": "It was built as a broadcast mast and only opened to the public in 1980. Today its terrace railings are buried under thousands of 'love locks'.",
+   "address": "105 Namsangongwon-gil, Yongsan-gu. Namsan cable car base station is about 120 m from Artmonstay.",
+   "hours": "Observatory: weekdays 10:30-22:30, weekends 10:00-23:00, last entry 30 min before close (Seoul tourism guide, Sep 2026). Cable car about 10:00-23:00, but some sources give the last ride as 22:00.",
+   "practical": "Sun 1 Nov (weekend hours, until 23:00). Sunset is around 17:30 in early November. You could go up before or after an early dinner at Mokmyeoksanbang, which is close to the cable car base. Aim to take the cable car down before 22:00 to be safe."
+  },
+  "namdaemun": {
+   "name": "Namdaemun Market & Kalguksu Alley",
+   "summary": "Korea's oldest and largest traditional market sprawls beside Sungnyemun gate, with more than 10,000 stalls selling everything from ginseng to cookware. Tucked inside is Kalguksu Alley, a narrow passage of tiny counters serving cheap, steaming bowls of hand-cut noodle soup.",
+   "fact": "The market traces its roots to 1414 under the early Joseon dynasty. That makes it over 600 years old.",
+   "address": "21 Namdaemunsijang 4-gil, Jung-gu. Hoehyeon Station (Line 4) exit 5. Kalguksu Alley is about 30 m inside Gate 5, on the left (Kyunghyang Shinmun, 2017). About a 10 min walk from the hotel.",
+   "hours": "Stalls set their own hours. A 2017 report lists the alley's roughly 10 stalls as open about 06:00-21:00. Most of the market is closed on Sundays.",
+   "practical": "Sun 1 Nov clash: most of Namdaemun Market is closed on Sundays, and at least one well-known alley stall (Sungnye Bunsik) closes every Sunday, so many noodle counters may be shut. Better: an early breakfast or lunch there on Mon 2 Nov or Tue 3 Nov, when it is fully open."
+  },
+  "mokmyeoksanbang": {
+   "name": "Mokmyeoksanbang",
+   "summary": "A bibimbap specialist below Namsan serving about half a dozen kinds, from the signature Sanbang to bulgogi and raw-beef yukhoe. Toppings and gochujang come in traditional brassware on the side so you can mix your own. The cheese-kimchi pancake is the cult side dish.",
+   "fact": "The name comes from Mokmyeoksan, the old name for Namsan. It began in a hanok that Seoul's city government built on Namsan to show visitors traditional Korean food (Seoul Shinmun, 2011).",
+   "address": "1F, 71 Toegye-ro 20-gil, Jung-gu, Seoul. Near the Namsan cable car base, a short walk from Artmonstay.",
+   "hours": "Daily 11:00-20:00, last order 19:20 (Hotplacehunter, Dec 2023). One older listing shows different hours, so confirm on Naver Map or call 02-318-4790.",
+   "practical": "Sun 1 Nov dinner: it shuts early, so order by about 19:00 at the latest. Service is self-service: order at the kiosk and collect your tray. Prices in 2023: Sanbang bibimbap about 9,000 won, yukhoe bibimbap 14,000 won, cheese kimchi pancake 13,000 won. Michelin status: it is often called a Michelin Bib Gourmand or 'Michelin-selected' spot, but it is not on the current Michelin Guide website (its old page returns 404). Treat that status as past or unconfirmed."
+  },
+  "gyeongbokgung": {
+   "name": "Gyeongbokgung Palace",
+   "summary": "The grandest of Seoul's five Joseon palaces. Its gates and halls step back toward the rocky peak of Bugaksan. Highlights are the soaring throne hall Geunjeongjeon and Gyeonghoeru, the royal banquet pavilion that seems to float on its square pond.",
+   "fact": "It was founded in 1395 and burned during the Japanese invasions of 1592. It then lay in ruins for about 270 years until it was rebuilt in the 1860s.",
+   "address": "161 Sajik-ro, Jongno-gu. Gyeongbokgung Station (Line 3) exit 5, or Gwanghwamun Station (Line 5).",
+   "hours": "Nov-Feb 09:00-17:00 (last entry 16:00). Closed Tuesdays (official Royal Palaces and Tombs Center). Adults 3,000 won. Free if you wear hanbok.",
+   "practical": "Mon 2 Nov: open. The Tuesday closure would only matter if you moved it to Day 3, so keep it on Monday. The changing of the royal guard is at 10:00 and 14:00, with gate-guard ceremonies at 11:00 and 13:00. Arrive by 09:00-09:30 to beat tour groups, then walk north to Geoncheonggung and Hyangwonjeong."
+  },
+  "geoncheonggung": {
+   "name": "Geoncheonggung Residence (inside Gyeongbokgung)",
+   "summary": "A secluded compound at the far northern end of Gyeongbokgung, behind the Hyangwonjeong pond. King Gojong built it in 1873 in the plain, unpainted style of a scholar-aristocrat's house, unlike the palace's painted halls.",
+   "fact": "In 1887 it was the first place in Korea lit by electric light. In 1895 it was where Empress Myeongseong was assassinated by Japanese agents. It was rebuilt in 2007.",
+   "address": "Northern end of Gyeongbokgung, 161 Sajik-ro, Jongno-gu.",
+   "hours": "Same as Gyeongbokgung (Nov 09:00-17:00, last entry 16:00). Closed Tuesdays. Included in the palace ticket.",
+   "practical": "Mon 2 Nov: open. It is about a 15 min walk inside the palace from Gwanghwamun, so allow time. Hyangwonjeong Pavilion next door is one of Seoul's prettiest autumn-foliage spots."
+  },
+  "changdeokgung": {
+   "name": "Changdeokgung Palace & Huwon (Secret Garden)",
+   "summary": "The most harmonious of the palaces, laid out to follow the wooded hills rather than a rigid grid. Behind it lies Huwon, a royal garden of ponds, pavilions and 300-year-old trees reached only on timed tours. It is spectacular in autumn colour.",
+   "fact": "It was built in 1405 and served as the main royal residence for longer than any other palace. It is a UNESCO World Heritage Site (1997).",
+   "address": "99 Yulgok-ro, Jongno-gu. Anguk Station (Line 3) exit 3.",
+   "hours": "Nov-Jan 09:00-17:30 (last entry 16:30). Closed Mondays (official Royal Palaces and Tombs Center). Huwon is by timed tour only: English tours 10:30, 11:30, 14:30 and 15:30 (Mar-Nov), Korean tours hourly. Adults 3,000 won plus a separate Huwon ticket.",
+   "practical": "Clash: CLOSED on Mon 2 Nov, the day it is planned. Move it to Tue 3 Nov morning (e.g. 09:00 entry plus the 10:30 English Huwon tour), then head to Yongsan. Or fit it in Sun 1 Nov only if you can enter by 16:30. Huwon tickets have limited numbers, so book ahead."
+  },
+  "bukchon": {
+   "name": "Bukchon Hanok Village",
+   "summary": "A hillside neighbourhood of hundreds of tile-roofed hanok between Gyeongbokgung and Changdeokgung, where 600 years of residential Seoul survive. Lanes like Bukchon-ro 11-gil frame views of hanok rooftops against the modern city.",
+   "fact": "It now has a tourist curfew: since 1 March 2025 visitors may only enter its 'Red Zone' between 10:00 and 17:00, a first-of-its-kind measure against overtourism in Seoul.",
+   "address": "Gahoe-dong / Samcheong-dong, Jongno-gu. Anguk Station (Line 3) exit 2 or 3. The Red Zone is around Bukchon-ro 11-gil.",
+   "hours": "Red Zone (Bukchon-ro 11-gil) is open to tourists 10:00-17:00. Entering outside those hours for sightseeing risks a fine of up to 100,000 won. The orange and yellow zones have no curfew. People live here, so keep quiet.",
+   "practical": "Mon 2 Nov: fine, as long as you are in the Red Zone between 10:00 and 17:00. Fit it between Gyeongbokgung and lunch, for example 11:30-13:30. Do not plan a dusk visit to Bukchon-ro 11-gil. Tour buses are banned from part of Bukchon-ro."
+  },
+  "deoksugung": {
+   "name": "Deoksugung Palace",
+   "summary": "A compact palace in the heart of downtown, where traditional halls stand beside neoclassical stone buildings from Korea's brief imperial era. It is lovely after dark, and the stone-walled Deoksugung Doldam-gil lane outside is one of Seoul's classic autumn walks.",
+   "fact": "Emperor Gojong lived here during the Korean Empire. Its Seokjojeon, a Western-style stone hall completed in 1910, now houses a museum of that period.",
+   "address": "99 Sejong-daero, Jung-gu. City Hall Station (Lines 1 & 2) exit 2. About 15 min walk from Myeong-dong.",
+   "hours": "09:00-21:00 year-round (last entry 20:00). Closed Mondays (official Royal Palaces and Tombs Center). Adults 1,000 won. Royal guard changing at Daehanmun gate 11:00, 14:00 and 15:30 (not on Mondays).",
+   "practical": "Clash: CLOSED on Mon 2 Nov, the day it is planned. Easy fixes: visit late afternoon or evening on Sun 1 Nov (it is open until 21:00 and close to your hotel), or on the evening of Tue 3 Nov (Line 2 runs straight from City Hall to Hongik Univ. for Hongdae). Seoul Plaza and Doldam-gil next door are open any day."
+  },
+  "lotteworld": {
+   "name": "Lotte World Adventure",
+   "summary": "A giant theme park in two halves: an indoor 'Adventure' world of rides and parades under a glass dome, and the fairy-tale Magic Island castle on Seokchon Lake, beneath the 555 m Lotte World Tower. It is kitsch, joyful and very Seoul.",
+   "fact": "It opened in 1989 and was recognised by Guinness World Records as the world's largest indoor theme park.",
+   "address": "240 Olympic-ro, Songpa-gu. Jamsil Station (Lines 2 & 8), connected underground.",
+   "hours": "Typical schedule (third-party sources; the official site could not be reached): Sun-Thu 10:00-21:00, Fri-Sat 10:00-22:00. Ticket sales and entry end about an hour before closing.",
+   "practical": "Mon 2 Nov: expect a 21:00 close with last entry around 20:00, so arrive by 17:00-18:00 for a worthwhile evening. Magic Island's outdoor rides can stop in bad weather. A Halloween festival reportedly runs until 15 Nov 2026. Check lotteworld.com for discounted late-entry tickets and the day's hours. Jamsil to Geumdwaeji Sikdang (Yaksu) takes about 35-40 min by subway."
+  },
+  "geumdwaeji": {
+   "name": "Geumdwaeji Sikdang (Gold Pig)",
+   "summary": "Seoul's most famous pork-barbecue joint, behind gold-on-white tiles in Sindang-dong. Thick cuts of premium pork are grilled for you on cast iron over coal briquettes, crisp outside and juicy within. There is almost always a queue.",
+   "fact": "Its signature is bone-in pork belly from Yorkshire-Berkshire-Duroc pigs, aged for about two weeks on the bone. The owner says this 'doubles' the umami. It is a Michelin Bib Gourmand.",
+   "address": "149 Dasan-ro, Jung-gu, Seoul 04607 (Sindang-dong). A few minutes' walk from Yaksu Station (Lines 3 & 6).",
+   "hours": "Daily 11:30-23:00 (Michelin Guide). Last order about 22:20 (Korean listing, Jan 2026).",
+   "practical": "Mon 2 Nov dinner. No reservations, and waits of an hour are common even after peak times. If you come straight from Lotte World, leave Jamsil by about 20:00 so you are queuing by about 20:45, well before the 22:20 last order. Staff grill the meat for you. Order the bone-in pork belly. Pork belly was about 19,000 won per portion in 2023 (Creatrip); expect a little more now."
+  },
+  "warmemorial": {
+   "name": "War Memorial of Korea",
+   "summary": "A vast, sobering museum that tells Korea's history of conflict from ancient times to the Korean War, with the 1950-53 war at its heart. Outside, a field of real tanks, aircraft and artillery makes it Asia's largest war-equipment display, and the long galleries of names honour the fallen, including UN troops.",
+   "fact": "It opened in 1994 on the former Army headquarters site. The Peace Plaza memorial salutes those who 'answered the call to defend a country they never knew and a people they never met.'",
+   "address": "29 Itaewon-ro, Yongsan-gu. Samgakji Station (Lines 4 & 6) exit 12, under 5 min walk.",
+   "hours": "Tue-Sun 09:30-18:00 (last entry 17:30). Closed Mondays (or the day after a holiday that includes a Monday), 1 Jan, Seollal and Chuseok. Free.",
+   "practical": "Tue 3 Nov: open. Closed Monday, so it is correctly placed on Day 3. Free docent tours run at set times daily with no booking. Allow 2-3 hours. Do the indoor galleries first and the outdoor display afterwards. The National Museum of Korea is next door via Yongsan Park."
+  },
+  "yongsanpark": {
+   "name": "Yongsan Park (Yongsan Children's Garden & Yongsan Family Park)",
+   "summary": "Seoul's newest big green space is being created on the former US Army Yongsan Garrison, between the War Memorial and the National Museum. Sections such as the Yongsan Children's Garden, with lawns, preserved officers' houses and old garrison buildings, opened to the public without reservations from late 2025. Yongsan Family Park, a lake-and-lawn park, adjoins the National Museum.",
+   "fact": "The garrison land was occupied first by the Japanese army and then the US Army, and was off-limits to Koreans for more than 120 years.",
+   "address": "Yongsan-gu, between Samgakji / Sinyongsan and Ichon stations. Yongsan Family Park is beside the National Museum of Korea.",
+   "hours": "Yongsan Children's Garden: Tue-Sun 09:00-18:00 (Sat until 21:00), closed Mondays, free (Stars and Stripes, Dec 2025). Yongsan Family Park is open 24 hours.",
+   "practical": "Tue 3 Nov: open. A natural green walk between the War Memorial and the National Museum. Shuttles run inside the Children's Garden."
+  },
+  "nationalmuseum": {
+   "name": "National Museum of Korea",
+   "summary": "One of Asia's largest museums: a monumental modern building holding Korea's finest treasures, from Silla gold crowns to celadon and Buddhist sculpture. The permanent collection is free. Don't miss the hushed 'Room of Quiet Contemplation' with its two pensive bodhisattvas.",
+   "fact": "Its two gilt-bronze pensive bodhisattvas, both National Treasures from the 6th-7th century, are displayed alone in a purpose-built dark gallery.",
+   "address": "137 Seobinggo-ro, Yongsan-gu, Seoul 04383. Ichon Station (Line 4 / Gyeongui-Jungang Line) exit 2.",
+   "hours": "Mon, Tue, Thu, Fri, Sun 09:30-17:30 (last entry 17:00). Wed and Sat until 21:00. Outdoor gardens 07:00-22:00. Permanent galleries are free; some special exhibitions charge (official museum website).",
+   "practical": "Tue 3 Nov: open, but it closes at 17:30 with last entry at 17:00 (Tuesday is not a late night), so arrive by about 14:30 to do it justice. The galleries' first-Monday closures (June, September, December) do not affect you. It is drawing record crowds in 2026, so expect queues for popular special exhibitions."
+  },
+  "hongdae": {
+   "name": "Hongdae",
+   "summary": "The youthful, arty district around Hongik University: street buskers, indie music venues, vintage shops, photo booths and late-night bars. It hums every evening, though weekends are wildest.",
+   "fact": "Hongik University is one of Korea's top art schools, and its students' galleries, clubs and street performances shaped Seoul's indie and busking culture.",
+   "address": "Mapo-gu, around Eoulmadang-ro and the 'Hongdae Walking Street'. Hongik University Station (Line 2, AREX, Gyeongui-Jungang) exit 9.",
+   "hours": "Shops to about 22:00. Bars and clubs late.",
+   "practical": "Tue 3 Nov evening: weekday Hongdae is quieter than weekends but still lively. From City Hall (Deoksugung) take Line 2 straight to Hongik Univ. (about 20 min). Gyeongui Line Forest Park (Yeontral Park) nearby is good for an evening stroll."
+  },
+  "mirosikdang": {
+   "name": "Miro Sikdang (미로식당)",
+   "summary": "A tiny, ultra-casual Korean pub-restaurant of five tables on Wausan hill behind Hongik University, run by chef Park Seung-jae. It is famous as the place Seoul's chefs eat on their nights off: skillet-sized squash-and-potato jeon, spicy whelk-and-Spam salad, grilled pork neck, bulgogi and draught beer.",
+   "fact": "It is listed by World's 50 Best Discovery and The Infatuation, where off-duty chefs from top restaurants are said to fill its few tables. There are only five tables.",
+   "address": "1F, 80 Wausan-ro 30-gil, Mapo-gu (Changjeon-dong), Seoul. About 600 m uphill from Hongik Univ., Sangsu or Gwangheungchang stations. A taxi is easiest. Tel 0507-1412-3777 / +82 2-326-3777.",
+   "hours": "Dinner only. Diningcode lists 18:00-23:00 (last order 22:00), closed Sun, Mon and Tue. World's 50 Best Discovery lists dinner Wed-Sun.",
+   "practical": "Clash: closed on Tue 3 Nov, when it is planned (both sources agree). It is closed on all your Seoul evenings except possibly Sun 1 Nov, which only World's 50 Best lists. Reservations are essential: phone or DM the chef on Instagram. Identification: this is the only 'Miro Sikdang' in the major guides, and it matches the Hongdae evening plan. If it is closed, eat elsewhere in Hongdae on Tuesday."
+  }
+ },
+ "flights": [
+  {
+   "from": "LHR",
+   "to": "ICN",
+   "date": "Sat 31 Oct 2026",
+   "dep": "14:30",
+   "arr": "11:40 +1 (Sun 1 Nov)",
+   "carrier": "Virgin Atlantic",
+   "flight_no": "VS208 (unconfirmed - Virgin's only Heathrow-Seoul service; latest filed winter 2026/27 times are 14:10 -> 11:30+1, so check your booking)",
+   "duration": "about 12h10m (London on GMT after 25 Oct; Seoul is GMT+9)",
+   "terminals": "Heathrow T3 -> Incheon T2 (Virgin uses T2 at Incheon)",
+   "aircraft": "Boeing 787-9"
+  },
+  {
+   "from": "ICN",
+   "to": "NRT",
+   "date": "Wed 4 Nov 2026",
+   "dep": "10:25",
+   "arr": "12:50",
+   "carrier": "Jeju Air",
+   "flight_no": "7C1103 (confirmed ICN-NRT; Trip.com shows 10:25-12:50 for late Oct 2026)",
+   "duration": "2h25m",
+   "terminals": "Incheon T1 -> Narita T3",
+   "aircraft": "Boeing 737-8"
+  }
+ ],
+ "transfers": {
+  "icn_to_myeongdong": "Arrive at Incheon T2. (1) Airport limousine bus 6015 runs direct from T2 to Myeong-dong hotels (about 70-90 min; fares quoted vary from about 10,000 to 17,000 won; buy at the arrivals-level ticket desk/kiosk or pay by T-money). It is the easiest option with luggage. (2) AREX Express T2 -> Seoul Station about 51 min (13,000 won in 2026 guides; older 9,500 won figures still circulate), or AREX All-stop about 66 min (5,350 won with T-money). Then Line 4 two stops to Myeong-dong and a 7-min uphill walk. About 75-95 min door to door. (3) Taxi about 60-80 min, about 60,000-90,000 won including tolls. Either way you will reach Artmonstay around 13:30-14:30, before the 15:00 check-in, so drop bags.",
+  "myeongdong_to_icn_departure": "Wed 4 Nov: Jeju Air 7C1103 leaves from T1 (not T2). Aim to be at the airport by about 08:00. Leave the hotel by about 06:45-07:00: Line 4 to Seoul Station, then AREX (Express about 43 min, All-stop about 59 min to T1), or bus 6015 from Myeong-dong (allow 70+ min). A taxi is about 60 min."
+ },
+ "warnings": [
+  "CHANGDEOKGUNG is CLOSED MONDAYS, but it is planned for Mon 2 Nov. Source: official Royal Palaces and Tombs Center hours page (royal.khs.go.kr/ROYAL/contents/R702000000.do). Move it to Tue 3 Nov morning (Nov hours 09:00-17:30, last entry 16:30; English Huwon tours 10:30/11:30/14:30/15:30).",
+  "DEOKSUGUNG is CLOSED MONDAYS, but it is planned for Mon 2 Nov. Source: same official page. It is open 09:00-21:00 (last entry 20:00) on other days, so visit on Sun 1 Nov afternoon or evening (15 min walk from the hotel) or Tue 3 Nov evening before Hongdae.",
+  "Your belief is confirmed: Gyeongbokgung closes Tuesdays, and Changdeokgung, Deoksugung and the War Memorial close Mondays. Gyeongbokgung/Geoncheonggung on Mon 2 Nov and the War Memorial on Tue 3 Nov are fine. The National Museum of Korea has no weekly closure (its only Monday closures are the first Mondays of Jun/Sep/Dec 2026) and is open Tue 3 Nov 09:30-17:30 (last entry 17:00). Sources: royal.khs.go.kr, mediahub.seoul.go.kr (War Memorial), museum.go.kr.",
+  "MIRO SIKDANG is closed on TUESDAYS, but dinner there is planned for Tue 3 Nov. Diningcode: 18:00-23:00, closed Sun/Mon/Tue. World's 50 Best Discovery: dinner Wed-Sun. On Diningcode's schedule none of your Seoul evenings (Sun 1 - Tue 3 Nov) work; on 50 Best's, only Sun 1 Nov might. It has five tables and needs a reservation, so call 0507-1412-3777 to confirm before relying on it.",
+  "NAMDAEMUN MARKET is largely CLOSED ON SUNDAYS. Kalguksu Alley stalls (e.g. Sungnye Bunsik, closed every Sunday) may be shut on Sun 1 Nov. Sources: ivisitkorea / southkoreahallyu market guides; aboda.kr on Sungnye Bunsik. Go for breakfast or lunch on Mon 2 or Tue 3 Nov instead; it is 10 min from the hotel.",
+  "MOKMYEOKSANBANG closes at 20:00 with last order 19:20 (Hotplacehunter, Dec 2023; confirm on Naver). Sun 1 Nov dinner has to be early. Its 'Michelin Bib Gourmand' label could not be verified: it is not on the current Michelin Guide website.",
+  "BUKCHON Red Zone (Bukchon-ro 11-gil): tourists are allowed only 10:00-17:00, with fines up to 100,000 won, fully enforced since 1 Mar 2025 (Korea Times / Jongno-gu). Schedule Bukchon on Mon 2 Nov between those hours, not at dusk.",
+  "LOTTE WORLD on Mon 2 Nov: likely 10:00-21:00 with last entry/ticket sales about 20:00 (third-party sources; official site unreachable). Combined with Geumdwaeji Sikdang (no reservations, waits often about 1 hour, last order about 22:20, 35-40 min away at Yaksu), leave Lotte World by about 20:00 or risk missing dinner.",
+  "ARTMONSTAY check-in is 15:00-20:00 (front desk 08:00-21:00) per Trip.com. You land 11:40 on Sun 1 Nov and will arrive around 13:30-14:30, so store bags. Reviews warn of an uphill approach and steep in-room stairs.",
+  "FLIGHT NUMBER: Virgin Atlantic LHR-ICN is VS208, but your 14:30 -> 11:40 times do not match the latest filed winter schedule (14:10 -> 11:30+1, AeroRoutes Aug 2026), so treat the number/times as unconfirmed and check your booking. Virgin's alternate-day reductions start 8 Dec 2026 and do not affect 31 Oct.",
+  "TERMINALS DIFFER: you arrive at Incheon T2 (Virgin) but Jeju Air 7C1103 departs from T1 on Wed 4 Nov. Allow for this on departure morning."
+ ]
+}

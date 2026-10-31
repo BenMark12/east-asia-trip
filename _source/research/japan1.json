@@ -1,0 +1,670 @@
+{
+ "region": "japan1",
+ "images": {
+  "akihabara": [
+   {
+    "file": "photos/japan1/akihabara_1.webp",
+    "caption": "Akihabara Electric Town's anime billboards and arcades at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sotokanda,_Akihabara_Electric_Town_at_night_20231114.png",
+    "credit": "Phineyes / CC0, via Wikimedia Commons"
+   }
+  ],
+  "benfiddich": [
+   {
+    "file": "photos/japan1/benfiddich_1.webp",
+    "caption": "A fresh-cane daiquiri at Bar Benfiddich, with the pressed sugar cane laid across the glass",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E3%83%99%E3%83%B3%E3%83%95%E3%82%A3%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF_%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%80%E3%82%A4%E3%82%AD%E3%83%AA.jpg",
+    "credit": "Keeezawa / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "candeo-osaka": [
+   {
+    "file": "photos/japan1/candeo-osaka_1.webp",
+    "caption": "Osaka Dojimahama Tower: Candeo Hotels Osaka The Tower occupies floors 17 to 31",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Osaka_Dojimahama_Tower.jpg",
+    "credit": "掬茶 / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/candeo-osaka_2.webp",
+    "caption": "The 31st-floor SkySpa infinity-edge open-air bath at night (a public bath, not a swimming pool)",
+    "source_url": "https://www.candeohotels.com/en/assets_c/2024/10/tower_skyspa_outdoor_men1-thumb-1920x1200-19551.jpg",
+    "credit": "Candeo Hotels (official site)"
+   },
+   {
+    "file": "photos/japan1/candeo-osaka_3.webp",
+    "caption": "A guest room at Candeo Hotels Osaka The Tower",
+    "source_url": "https://www.candeohotels.com/en/assets_c/2024/10/tower_room_07-03-thumb-2560x1600-19520.jpg",
+    "credit": "Candeo Hotels (official site)"
+   }
+  ],
+  "dotonbori": [
+   {
+    "file": "photos/japan1/dotonbori_1.webp",
+    "caption": "The Glico Running Man and the Dotonbori canal from Ebisubashi",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Glico_Man_Neon_Sign_and_Ebisubashi_Bridge_at_night.jpg",
+    "credit": "そらみみ / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/dotonbori_2.webp",
+    "caption": "Dotonbori's neon gateway arch",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dotonbori_Neon_Sign,_Osaka_20190415_1.jpg",
+    "credit": "DXR / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "fishmarket": [
+   {
+    "file": "photos/japan1/fishmarket_1.webp",
+    "caption": "The tuna auction floor at Toyosu Market, seen from the visitor deck",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Toshimashijyo_maguroseri01.jpg",
+    "credit": "武藏 / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/fishmarket_2.webp",
+    "caption": "Crowds and stalls in Tsukiji Outer Market",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market.jpg",
+    "credit": "Christophe95 / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "goldengai": [
+   {
+    "file": "photos/japan1/goldengai_1.webp",
+    "caption": "The narrow lanes of Shinjuku Golden Gai at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shinjuku_Golden_Gai_(53147937913).jpg",
+    "credit": "Dick Thomas Johnson from Tokyo, Japan / CC BY 2.0, via Wikimedia Commons"
+   }
+  ],
+  "harajuku": [
+   {
+    "file": "photos/japan1/harajuku_1.webp",
+    "caption": "The entrance arch of Takeshita-dōri, Harajuku",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Harajuku_view_(2025)IMG_0053.jpg",
+    "credit": "Bject / CC BY 4.0, via Wikimedia Commons"
+   }
+  ],
+  "imperialpalace": [
+   {
+    "file": "photos/japan1/imperialpalace_1.webp",
+    "caption": "Seimon Ishibashi bridge and the Fushimi-yagura turret, Imperial Palace",
+    "source_url": "https://commons.wikimedia.org/wiki/File:024_Seimon_Ishibashi_2.jpg",
+    "credit": "Kakidai / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/imperialpalace_2.webp",
+    "caption": "Seimon Ishibashi lit at night: the classic 'Nijubashi' view from the Outer Garden",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SeimonIshibashi.jpg",
+    "credit": "Fumihiro Kato / CC BY 4.0, via Wikimedia Commons"
+   }
+  ],
+  "kobe": [
+   {
+    "file": "photos/japan1/kobe_1.webp",
+    "caption": "Kobe Port Tower and the Maritime Museum at dusk",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_and_Maritime_Museum,_November_2016.jpg",
+    "credit": "Martin Falbisoner / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/kobe_2.webp",
+    "caption": "Harborland's mosaic waterfront and Ferris wheel at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Harborland5.jpg",
+    "credit": "Wei-Te Wong / CC BY-SA 2.0, via Wikimedia Commons"
+   }
+  ],
+  "meijijingu": [
+   {
+    "file": "photos/japan1/meijijingu_1.webp",
+    "caption": "A great cypress torii on the forest approach to Meiji Jingu",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Torii_of_Meiji_Shrine_2018-04-04.jpg",
+    "credit": "jessedyck / CC0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/meijijingu_2.webp",
+    "caption": "Sake barrels offered to the shrine, Meiji Jingu",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sake_barrels_in_Meiji_Shrine_park,_May_2017.jpg",
+    "credit": "Celuici / CC BY-SA 3.0, via Wikimedia Commons"
+   }
+  ],
+  "misono": [
+   {
+    "file": "photos/japan1/misono_1.webp",
+    "caption": "The teppanyaki counter at Misono's Kobe main restaurant, high above the city",
+    "source_url": "https://misono.org/images/shop/kobe/images/gallery1.jpg",
+    "credit": "Misono (official site, Kobe main restaurant page)"
+   },
+   {
+    "file": "photos/japan1/misono_2.webp",
+    "caption": "Kobe beef bearing its Nojigiku (chrysanthemum) certification stamp",
+    "source_url": "https://misono.org/images/shop/kobe/images/slider1.jpg",
+    "credit": "Misono (official site, Kobe main restaurant page)"
+   }
+  ],
+  "nakamise": [
+   {
+    "file": "photos/japan1/nakamise_1.webp",
+    "caption": "Nakamise-dōri, the shopping street leading to Senso-ji",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nakamise_Shopping_Street_@_Spring_@_Senso-ji_Temple_@_Asakusa_(13582553204).jpg",
+    "credit": "Guilhem Vellut from Annecy, France / CC BY 2.0, via Wikimedia Commons"
+   }
+  ],
+  "nambayasaka": [
+   {
+    "file": "photos/japan1/nambayasaka_1.webp",
+    "caption": "The 12 m lion-head stage (Ema-den) of Namba Yasaka Jinja",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Namba_Yasaka-Jinja.png",
+    "credit": "Thomas Housieaux / CC BY 4.0, via Wikimedia Commons"
+   }
+  ],
+  "omoideyokocho": [
+   {
+    "file": "photos/japan1/omoideyokocho_1.webp",
+    "caption": "The entrance to Omoide Yokocho (Memory Lane), by Shinjuku West Exit",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Omoide_yokocho_2024_various_05.jpg",
+    "credit": "Nesnad / CC BY 4.0, via Wikimedia Commons"
+   }
+  ],
+  "osaka": [
+   {
+    "file": "photos/japan1/osaka_1.webp",
+    "caption": "Osaka Castle's outer moat and the Osaka Business Park towers in autumn",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg",
+    "credit": "Martin Falbisoner / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/osaka_2.webp",
+    "caption": "The Dojima River at night, Nakanoshima: the hotel sits on its north bank",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dojima_River_Nakanoshima_Osaka_Japan05-r.jpg",
+    "credit": "Oilstreet / CC BY 2.5, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/osaka_3.webp",
+    "caption": "Osaka City Central Public Hall (1918) on Nakanoshima, a short walk from the hotel",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Osaka_City_Central_Public_Hall_main_facade_2026_dllu.jpg",
+    "credit": "Daniel Lu (User:dllu) / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "sensoji": [
+   {
+    "file": "photos/japan1/sensoji_1.webp",
+    "caption": "Senso-ji's Main Hall lit up after dark",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tokio_Tempel_Senso-ji_bei_Nacht_4.jpg",
+    "credit": "Zairon / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/sensoji_2.webp",
+    "caption": "The giant red lantern of Kaminarimon, the Thunder Gate",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Senso-ji_Kaminarimon,_Tokyo_Japan_-_Sony_A7R_(11924332135).jpg",
+    "credit": "Luke Ma from Taipei, Taiwan ROC / CC BY 2.0, via Wikimedia Commons"
+   }
+  ],
+  "shibuya": [
+   {
+    "file": "photos/japan1/shibuya_1.webp",
+    "caption": "The Shibuya Scramble at blue hour",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+    "credit": "Benh LIEU SONG (Flickr) / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/shibuya_2.webp",
+    "caption": "Shibuya Crossing at dusk, with Shibuya 109 at the end of the street",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_May_2017_1.jpg",
+    "credit": "Celuici / CC BY-SA 3.0, via Wikimedia Commons"
+   }
+  ],
+  "shinjuku": [
+   {
+    "file": "photos/japan1/shinjuku_1.webp",
+    "caption": "Shinjuku neon at blue hour on Yasukuni-dōri",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg",
+    "credit": "Basile Morin / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "teamlab": [
+   {
+    "file": "photos/japan1/teamlab_1.webp",
+    "caption": "Wading through a room of projected light and water at teamLab Planets",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Photos_at_teamlab_planets_tokyo.jpg",
+    "credit": "Sasa0403 / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/teamlab_2.webp",
+    "caption": "Floating Flower Garden, teamLab Planets",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Japan_2024-04-28_(53893216070).jpg",
+    "credit": "Maarten Heerlien from Voorschoten, The Netherlands / CC BY 2.0, via Wikimedia Commons"
+   }
+  ],
+  "tokyo": [
+   {
+    "file": "photos/japan1/tokyo_1.webp",
+    "caption": "Tokyo at sunset: Skytree and the silhouette of Mount Fuji",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_-_Sunset_Skyline.jpg",
+    "credit": "Fred Cherrygarden / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/tokyo_2.webp",
+    "caption": "Minato City skyline with Tokyo Tower in the evening light",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg",
+    "credit": "David Kernan / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/tokyo_3.webp",
+    "caption": "Tokyo Station's red-brick Marunouchi building, where Day 7's Shinkansen leaves from",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marunouchi_Central_Plaza_with_blue_sky,_Tokyo_station_and_Shin-Marunouchi_Building,_panoramic_view_from_JP_Tower,_Tokyo,_Japan.jpg",
+    "credit": "Basile Morin / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "tokyo-airbnb": [
+   {
+    "file": "photos/japan1/tokyo-airbnb_1.webp",
+    "caption": "The Asahi Flame and Tokyo Skytree across the Sumida River at blue hour, a few minutes from Hanakawado",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Asahi_Breweries_headquarters_building_with_the_Asahi_Flame_and_Skytree_at_blue_hour_with_full_moon,_Sumida-ku,_Tokyo,_Japan.jpg",
+    "credit": "Basile Morin / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/tokyo-airbnb_2.webp",
+    "caption": "Denbōin-dōri, an Edo-style back street in Asakusa",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Denbouin_Street,_Asakusa,_Tokyo_20190420_1.jpg",
+    "credit": "DXR / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "uenopark": [
+   {
+    "file": "photos/japan1/uenopark_1.webp",
+    "caption": "The gilded Karamon gate of Ueno Tōshō-gū in Ueno Park",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Golden_gate_of_Ueno_T%C5%8Dsh%C5%8D-g%C5%AB_Shinto_shrine,_Tokyo,_Japan.jpg",
+    "credit": "Basile Morin / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "tsukiji": [
+   {
+    "file": "photos/japan1/tsukiji_1.webp",
+    "caption": "Tamagoyaki being made at a Tsukiji Outer Market stall",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tsukiji_Market_2017_(38052266396).jpg",
+    "credit": "Kent Wang, CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/tsukiji_2.webp",
+    "caption": "Sashimi from a Tsukiji stall, eaten on the spot",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sashimi_at_the_Tsukiji_Markets_-_Tokyo_Japan_(Unsplash).jpg",
+    "credit": "Jonathan Forage, CC0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/tsukiji_3.webp",
+    "caption": "A sushi breakfast in Tsukiji Outer Market",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2014-09-09_sushi_at_Sushizanmai_in_Tsukiji_Outer_Market.jpg",
+    "credit": "Cheng-en Cheng, CC BY-SA 2.0, via Wikimedia Commons"
+   }
+  ],
+  "eastgardens": [
+   {
+    "file": "photos/japan1/eastgardens_1.webp",
+    "caption": "Ninomaru Garden in the Imperial Palace East Gardens, below Ōtemachi's towers",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Imperial_Palace_East_Gardens,_May_2017.jpg",
+    "credit": "Celuici, CC BY-SA 3.0, via Wikimedia Commons"
+   },
+   {
+    "file": "photos/japan1/eastgardens_2.webp",
+    "caption": "The pond in the Ninomaru Garden, East Gardens",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Imperial_Palace_East_Gardens_(3800901533).jpg",
+    "credit": "Andrea Schaffer, CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "facts": {
+  "tokyo-airbnb": {
+   "name": "Airbnb, Hanakawado (Asakusa), Taitō City",
+   "summary": "Hanakawado is a quiet residential pocket on Asakusa's east side, wedged between Senso-ji and Sumida Park on the river. Mornings bring old shopfronts and the Skytree looming across the water; evenings mean lantern-lit izakaya a few blocks away.",
+   "fact": "Across the Sumida from the neighbourhood stands the Asahi Beer Hall, whose golden \"Flame\" by Philippe Starck (1989) locals nickname the \"golden poop\".",
+   "address": "2-chōme-8-12 Hanakawado, Taitō City, Tokyo 111-0033. Roughly a 5 to 10 minute walk from Tobu Asakusa / Tokyo Metro Asakusa stations, slightly further from Toei Asakusa (where the airport train arrives).",
+   "hours": "Check in after 15:00 on Wed 4 Nov; check out Sat 7 Nov morning (confirm the host's check-out time against the 09:30 train).",
+   "practical": "Wed 4 Nov: with a 12:50 landing at Narita you will realistically reach Asakusa around 15:00 to 15:30, so you may be able to go straight to the flat. If you are early or the host is late, see transfers.luggage_asakusa. Sat 7 Nov: allow about 45 to 60 minutes door to platform for Tokyo Station (see trains).",
+   "sources": [
+    "https://www.asakusastation.com/lockers-baggage-storage-in-asakusa/"
+   ]
+  },
+  "sensoji": {
+   "name": "Sensō-ji (Asakusa Kannon)",
+   "summary": "Tokyo's oldest temple, reached through the Thunder Gate and its giant red lantern, is the beating heart of old Edo-era Asakusa. Incense smoke drifts across the courtyard in front of the vermilion Main Hall and five-storey pagoda, and after dark the whole complex glows under floodlights.",
+   "fact": "By tradition it was founded in 628 AD, after two fishermen brothers pulled a small golden statue of Kannon out of the Sumida River in their nets.",
+   "address": "2-3-1 Asakusa, Taitō City, Tokyo. Short walk from Asakusa Station (Ginza / Toei Asakusa lines).",
+   "hours": "Grounds open 24 hours, free. Main Hall 06:30 to 17:00 (October to March). Buildings illuminated from sunset to about 23:00.",
+   "practical": "Wed 4 Nov: if you get to Asakusa around 15:30, go straight to the Main Hall, which closes at 17:00 (sunset is about 16:40). Coming back after dark is just as rewarding: the gate, pagoda and hall are lit until about 23:00 and the crowds are gone.",
+   "sources": [
+    "https://trulytokyo.com/senso-ji-temple/"
+   ]
+  },
+  "nakamise": {
+   "name": "Nakamise-dōri",
+   "summary": "A 250 m run of about 90 small shops lines the approach from Kaminarimon to Hōzōmon, selling rice crackers, ningyō-yaki cakes, fans and souvenirs. It is touristy and proud of it, and the best place in Tokyo for a snack-as-you-walk temple approach.",
+   "fact": "It is one of the oldest shopping streets in Japan, dating to the early 1700s, when locals who swept the temple grounds were allowed to set up stalls on the approach.",
+   "address": "1-36 Asakusa, Taitō City (runs from Kaminarimon to Hōzōmon gate).",
+   "hours": "Shops roughly 09:00/10:00 to 18:00/19:00 (varies by shop); the street itself is always open.",
+   "practical": "Wed 4 Nov: walk it on the way in to Senso-ji before about 18:00 while the shops are open. After hours the shutters are down, but many are painted with Edo scenes and are worth seeing in their own right.",
+   "sources": [
+    "https://travelfeed.com/@guides/nakamise-dori-asakusa-at-night"
+   ]
+  },
+  "uenopark": {
+   "name": "Ueno Park (Ueno Onshi Kōen)",
+   "summary": "A sprawling hilltop park of museums, shrines and the lotus-choked Shinobazu Pond, Ueno is where Tokyo goes to stroll. The gilded Tōshō-gū shrine, built for the first Tokugawa shogun, sits among the trees.",
+   "fact": "Ueno was designated one of Japan's first public parks in 1873. Its Tōshō-gū (1627, rebuilt 1651) is one of the few Edo-period buildings in Tokyo to survive the 1923 earthquake and the WWII air raids.",
+   "address": "Uenokōen, Taitō City, Tokyo. Ueno Station (JR / Ginza / Hibiya lines), 5 minutes by Ginza Line from Asakusa.",
+   "hours": "Park open about 05:00 to 23:00, free. Tōshō-gū and the museums close in the late afternoon (around 16:00 to 17:00).",
+   "practical": "Wed 4 Nov: on a late-afternoon arrival the museums and Tōshō-gū will be closing, so treat Ueno as an evening stroll around Shinobazu Pond and Bentendō before heading on to Shinjuku (Ueno to Shinjuku is about 25 to 30 minutes by JR Yamanote Line).",
+   "sources": []
+  },
+  "shinjuku": {
+   "name": "Shinjuku",
+   "summary": "Shinjuku is Tokyo at full volume: skyscrapers on the west side, a blaze of neon in Kabukichō to the east, and in between a maze of alleys holding thousands of tiny bars. It is the perfect first night out.",
+   "fact": "Shinjuku Station is the world's busiest railway station, handling roughly 3.5 million passengers a day.",
+   "address": "Shinjuku City, Tokyo. West side: Nishi-Shinjuku (Benfiddich, Omoide Yokocho). East side: Kabukichō and Golden Gai.",
+   "hours": "Bars and izakaya mostly from early evening until late.",
+   "practical": "Wed 4 Nov evening: a logical walking order is Benfiddich (Nishi-Shinjuku, opens 18:00), then Omoide Yokocho (next to the West Exit, about 5 minutes away), then under the tracks to Kabukichō and Golden Gai (about 10 to 15 minutes' walk).",
+   "sources": []
+  },
+  "benfiddich": {
+   "name": "Bar Benfiddich (written \"Bar Benfiditch\" in the plan)",
+   "summary": "A candlelit, apothecary-like room on the 9th floor of an ordinary Nishi-Shinjuku office block. Owner-bartender Hiroyasu Kayama grinds fresh herbs and spices with a pestle and mortar and makes drinks to order; there is no menu.",
+   "fact": "Many of the botanicals (wormwood, anise, fennel) are grown on Kayama's family farm in Chichibu, Saitama.",
+   "address": "Yamatoya Bldg 9F, 1-13-7 Nishi-Shinjuku, Shinjuku City, Tokyo. A few minutes' walk from Shinjuku Station West Exit.",
+   "hours": "18:00 to 01:00; closed Sundays and public holidays (Time Out Tokyo). A cover charge applies; the amount was not confirmed.",
+   "practical": "Wed 4 Nov is a normal weekday (Culture Day is Tue 3 Nov), so it is open. It is small and fills quickly, so book by phone or arrive near 18:00 opening. Expect premium prices per drink plus the cover.",
+   "sources": [
+    "https://www.timeout.com/tokyo/bars-and-pubs/bar-benfiddich",
+    "https://tabelog.com/en/tokyo/A1304/A130401/13159249/"
+   ]
+  },
+  "omoideyokocho": {
+   "name": "Omoide Yokocho (Memory Lane)",
+   "summary": "A smoky lane of postwar shacks squeezed beside the Shinjuku tracks, where about 60 tiny counters grill yakitori and offal under red lanterns. You perch elbow to elbow with office workers, and a beer and a few skewers is the whole point.",
+   "fact": "It began as a black market after WWII, and its old nickname \"Shonben Yokochō\" (Piss Alley) dates from when the stalls had no toilets.",
+   "address": "1-2 Nishi-Shinjuku, Shinjuku City (beside JR Shinjuku Station West Exit).",
+   "hours": "Most stalls from late afternoon (about 17:00) to around midnight; a few open at lunchtime.",
+   "practical": "Wed 4 Nov: go after Benfiddich. Many places add a small seating/otōshi charge and some are cash-only. Seats are few, so be ready to try two or three doors.",
+   "sources": []
+  },
+  "goldengai": {
+   "name": "Shinjuku Golden Gai",
+   "summary": "Six narrow alleys holding around 200 bars, most of them seating just five to ten people, each with its own theme, owner and regulars. It is the last best place to see the ramshackle Shinjuku of the 1950s and 60s.",
+   "fact": "The two-storey wooden shacks survived the bubble era, when developers reportedly tried to drive owners out (even by arson), so that they could redevelop the land.",
+   "address": "1-1 Kabukichō, Shinjuku City (east of Shinjuku Station, next to Hanazono Shrine).",
+   "hours": "Most bars open around 19:00 to 20:00 and run until late.",
+   "practical": "Wed 4 Nov late evening: many bars charge a cover (often around ¥500 to ¥1,500); some are regulars-only and say so on the door. Many post no-photo signs, so ask before taking pictures inside.",
+   "sources": []
+  },
+  "fishmarket": {
+   "name": "Tokyo fish market: Toyosu Market and Tsukiji Outer Market",
+   "summary": "Toyosu, on reclaimed land in Tokyo Bay, is the modern successor to Tsukiji: a vast, clinical wholesale complex whose dawn tuna auction you can watch through windows from above. Tsukiji Outer Market, the old neighbourhood of stalls that stayed behind in central Tokyo, is the place for a street-food seafood breakfast of tuna bowls, tamagoyaki and grilled scallops.",
+   "fact": "Toyosu opened in October 2018, replacing the inner market at Tsukiji, which had traded since 1935; Tsukiji's outer market of about 400 shops stayed put.",
+   "address": "Toyosu Market: 6-6-1 Toyosu, Kōtō City, 1 minute from Shijō-mae Station (Yurikamome Line). Tsukiji Outer Market: 4-16-2 Tsukiji, Chūō City (Tsukiji Station, Hibiya Line / Tsukijishijō Station, Ōedo Line).",
+   "hours": "Toyosu: visitor entry 05:00 to 17:00; tuna auction about 05:30 to 06:30. Tsukiji Outer Market: many shops open early and close around 13:00 to 14:00.",
+   "practical": "Thu 5 Nov: Toyosu is open. The JNTO 2026 calendar lists it as closed on Sundays, public holidays and, in November, also on the 11th and 18th. To see the tuna auction you need to arrive by about 05:30: from Asakusa take the Toei Asakusa Line to Shimbashi, then the Yurikamome to Shijō-mae (about 35 to 40 minutes). At 06:00 you will catch only the tail end. The second-floor viewing windows need no booking. The closer lower observation deck is a lottery for 100 people a day, and you have to apply during a window in the month before your visit (toyosu.jcdlotterysite.jp). Toyosu's sushi restaurants open early and queue. Alternatively, go to Tsukiji Outer Market for breakfast instead, or afterwards (about 15 minutes by taxi). Thursday is a normal trading day there; many shops close on Sundays, holidays and some Wednesdays.",
+   "sources": [
+    "https://asset.japan.travel/image/upload/v1767774751/pdf/2026_TIC/202601/2026_Toyosu_Fish_Market.pdf",
+    "https://www.gotokyo.org/en/story/guide/tsukijioutermarket/"
+   ]
+  },
+  "meijijingu": {
+   "name": "Meiji Jingu",
+   "summary": "Tokyo's grandest Shinto shrine is hidden in a hand-planted forest right next to Harajuku's crowds. You pass under towering cypress torii along gravel paths to the cypress-wood main sanctuary, dedicated to Emperor Meiji and Empress Shōken.",
+   "fact": "The forest was planted from about 100,000 trees donated from all over Japan when the shrine was built (completed 1920). Its Ōtorii is Japan's largest wooden myōjin-style torii, 12 m tall, made from 1,500-year-old Taiwanese cypress.",
+   "address": "1-1 Yoyogi-Kamizonochō, Shibuya City, Tokyo. Next to JR Harajuku Station and Meiji-jingumae Station.",
+   "hours": "November: gates open 06:10 and close 16:10 (sunrise to sunset). Inner Garden (Gyoen) 09:00 to 16:00, ¥500. Meiji Jingu Museum 10:00 to 16:30, closed Thursdays.",
+   "practical": "Thu 5 Nov: the shrine is open, but the Meiji Jingu Museum is closed on Thursdays. Go after the market, ideally mid-morning, because the gates shut at 16:10. November is Shichi-Go-San season, so you may see children in kimono being blessed. It is busiest at weekends.",
+   "sources": [
+    "https://www.meijijingu.or.jp/en/visit/",
+    "https://www.mlit.go.jp/tagengo-db/en/H30-00517.html",
+    "https://www.gltjp.com/en/directory/item/14234/"
+   ]
+  },
+  "shibuya": {
+   "name": "Shibuya Crossing",
+   "summary": "The world's most photographed pedestrian crossing: when the lights change, up to a few thousand people surge across from five directions under giant video screens. It is pure Tokyo theatre, best watched from above and then joined.",
+   "fact": "Before meeting at the crossing, Tokyoites meet at the statue of Hachikō, the Akita dog who waited at Shibuya Station every day for nearly ten years after his owner died in 1925.",
+   "address": "In front of Shibuya Station, Hachikō Exit, Shibuya City, Tokyo.",
+   "hours": "Always open.",
+   "practical": "Thu 5 Nov: Harajuku to Shibuya is a pleasant 20 to 25 minute walk down Omotesandō / Meiji-dōri, or one stop on the JR Yamanote Line. The crossing is at its most dramatic at dusk (sunset about 16:40).",
+   "sources": []
+  },
+  "harajuku": {
+   "name": "Harajuku (Takeshita-dōri)",
+   "summary": "Harajuku is the centre of Tokyo youth fashion. Narrow Takeshita-dōri is a candy-coloured crush of crêpe stands, kawaii boutiques and vintage shops, and leafy Omotesandō next door is its grown-up, designer-label counterpart.",
+   "fact": "Marion Crêpes, still trading on Takeshita-dōri, opened in 1976 and helped make the rolled, cream-stuffed Harajuku crêpe a Tokyo icon.",
+   "address": "Takeshita-dōri, 1-chōme Jingūmae, Shibuya City (opposite JR Harajuku Station's Takeshita Exit).",
+   "hours": "Shops roughly 10:00/11:00 to 20:00.",
+   "practical": "Thu 5 Nov: pair it with Meiji Jingu, whose entrance is across the road from Harajuku Station. Weekday daytime is far less crushed than weekends.",
+   "sources": []
+  },
+  "bucamassimo": {
+   "name": "Trattoria Buca'Massimo (identified from \"Trattoria Buca' Massimo\")",
+   "summary": "A small backstreet Tuscan trattoria in old-downtown Monzen-nakachō, listed in the MICHELIN Guide. The chef trained at Delizioso Firenze near Tokyo Station, and the menu runs from chicken-liver crostini, Florentine tripe and Sienese pici in ragù to charcoal-grilled meats.",
+   "fact": "Its showpiece is a bone-in bistecca alla fiorentina, grilled rare over charcoal and served in several sizes for sharing.",
+   "address": "1-24-11 Tomioka, Kōtō City, Tokyo 135-0047 (near Monzen-nakachō Station, Tōzai / Ōedo lines). Tel +81 3-5809-9022.",
+   "hours": "MICHELIN Guide listing: Wed to Fri 17:30 to 20:30; Sat and Sun 12:00 to 15:00 and 17:30 to 19:30; closed Mon and Tue. A Japanese listing gives dinner as 17:30 to 23:00 (closed Mon). The MICHELIN times probably show last entry/orders.",
+   "practical": "Thu 5 Nov 19:30: Thursday is a dinner day, so the booking fits. Price band ¥¥ (MICHELIN). Byfood reports a Bib Gourmand; the current English MICHELIN page shows it as a listed restaurant only. Afterwards, Bar Orchard in Ginza is about 15 to 20 minutes away by Tōzai Line to Nihombashi plus Ginza Line to Ginza, or by taxi.",
+   "sources": [
+    "https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/trattoria-buca-massimo",
+    "https://byfood.com/restaurant/trattoria-bucamassimo-2404"
+   ]
+  },
+  "barorchard": {
+   "name": "Bar Orchard Ginza",
+   "summary": "A tiny seventh-floor counter where husband-and-wife bartenders Takuo and Sumire Miyanohara work without a menu. You pick from the seasonal fruit laid out on the bar and they build a cocktail around it, sometimes with liquid nitrogen and playful ceramic vessels.",
+   "fact": "It was a fixture on Asia's 50 Best Bars every year from 2016 to 2020, peaking at No. 25 in 2017.",
+   "address": "Sanraku Bldg 7F, 6-5-16 Ginza, Chūō City, Tokyo. Tel +81 3-3575-0333.",
+   "hours": "Mon to Sat 18:00 to 24:00 (last order about 23:00); closed Sundays and public holidays. Cover about ¥1,000 per person (per AutoReserve / TableJourney).",
+   "practical": "Thu 5 Nov after dinner: open. It is very small (groups of up to about 4), so reserve or expect to wait. Drinks are priced per creation, often ¥2,000 or more.",
+   "sources": [
+    "https://www.timeout.com/tokyo/bars-and-pubs/bar-orchard-ginza",
+    "https://www.theinfatuation.com/tokyo/reviews/bar-orchard",
+    "https://autoreserve.com/en/restaurants/AAJjNAbRGeFRWsbJnYih",
+    "https://www.theworlds50best.com/discovery/Establishments/Japan/Tokyo/Bar-Orchard-Ginza.html"
+   ]
+  },
+  "imperialpalace": {
+   "name": "Imperial Palace (Kōkyo)",
+   "summary": "The Emperor's residence occupies the site of Edo Castle, ringed by broad moats and huge stone ramparts in the middle of the business district. The classic view is the twin-arched Seimon Ishibashi bridge with the white Fushimi-yagura turret behind it, seen from the gravel plaza of the Outer Garden.",
+   "fact": "The bridge everyone calls \"Nijubashi\" (double bridge) is technically the iron bridge behind the stone one. It got its name from the original two-tier wooden bridge.",
+   "address": "Kōkyo Gaien (Outer Garden), 1-1 Chiyoda, Chiyoda City, Tokyo. Tokyo Station Marunouchi side (about 10 minutes' walk), or Nijūbashimae Station (Chiyoda Line).",
+   "hours": "Outer Garden and Nijubashi viewpoint: open all the time, free. East Gardens: 09:00 to 16:00 (entry until 15:30) from November to February; CLOSED Mondays and Fridays. Guided palace-grounds tour: Tuesday to Saturday, morning and afternoon, free.",
+   "practical": "Fri 6 Nov: the East Gardens are closed (they close every Monday and Friday). You can still do the Outer Garden plaza and Nijubashi view, the moat walk to Sakuradamon gate, and the free guided tour inside the palace grounds, which runs on Fridays. Book the tour online at sankan.kunaicho.go.jp; applications for 6 Nov close 23:59 JST on Mon 2 Nov. Otherwise, queue for same-day numbered tickets at Kikyō-mon gate, issued from 09:00 for the morning tour and 12:30 for the afternoon. The route is about 2.2 km and takes about an hour, so bring your passport.",
+   "sources": [
+    "https://www.kunaicho.go.jp/e-event/higashigyoen02.html",
+    "https://sankan.kunaicho.go.jp/english/guide/koukyo.html"
+   ]
+  },
+  "akihabara": {
+   "name": "Akihabara",
+   "summary": "Tokyo's \"Electric Town\" has grown from radio-parts stalls into the world capital of anime, manga, games and retro electronics. Expect multi-storey arcades, figure shops, maid cafés and floor after floor of gadgets under towering character billboards.",
+   "fact": "It began as a black market for radio components after WWII, which is why it was called Electric Town long before anime moved in.",
+   "address": "Sotokanda, Chiyoda City, Tokyo. JR / Hibiya Line Akihabara Station (Electric Town Exit).",
+   "hours": "Shops roughly 10:00/11:00 to 20:00/21:00; arcades later.",
+   "practical": "Fri 6 Nov: Chūō-dōri is only pedestrianised on Sundays, so expect traffic. For teamLab, take the Hibiya Line to Ginza / Hatchōbori area and change for Toyosu, or JR to Yūrakuchō then the Yūrakuchō Line to Toyosu (about 30 to 35 minutes).",
+   "sources": []
+  },
+  "teamlab": {
+   "name": "teamLab Planets TOKYO DMM",
+   "summary": "An immersive digital-art museum you walk through barefoot. You wade knee-deep through water alive with projected koi, sink into a soft floor, stand in an infinite universe of light and walk under thousands of suspended living orchids. It is over-the-top but genuinely magical.",
+   "fact": "Guinness World Records named it the most visited museum dedicated to a single art group: 2,504,264 visitors between April 2023 and March 2024.",
+   "address": "6-1-16 Toyosu, Kōtō City, Tokyo. 3 minutes' walk from Shin-Toyosu Station (Yurikamome), 10 minutes from Toyosu Station Exit 7 (Yūrakuchō Line).",
+   "hours": "08:00 to 22:00, last entry one hour before closing (official site; runs until the end of 2027).",
+   "practical": "Fri 6 Nov: tickets are for a specific date and 30-minute entry slot, and they are not sold on site, so buy in advance at teamlabplanets.dmm.com (adults from ¥3,800). Water can reach knee height, so wear shorts or trousers that roll up well above the knee. Shoes and socks go in the free lockers. Allow about 1.5 to 2 hours. The official site warns that the Toei bus To-05-2 from Tokyo, Ginza and Tsukiji is heavily congested, so use the Yurikamome or the Yūrakuchō Line instead. Afterwards, the Yūrakuchō Line runs directly from Toyosu to Ginza-itchōme (about 6 minutes) for Bar LIBRE GINZA.",
+   "sources": [
+    "https://www.teamlab.art/e/planets/",
+    "https://teamlabplanets.dmm.com/en",
+    "https://www.guinnessworldrecords.jp/world-records/589898-most-visited-museum-single-art-group"
+   ]
+  },
+  "barlibre": {
+   "name": "\"Bar Libra\" = most likely Bar LIBRE GINZA (alternative: Bar Libre, Ikebukuro)",
+   "summary": "No Tokyo bar called \"Bar Libra\" could be found; the closest match is \"Bar Libre\". The likely candidate is Bar LIBRE GINZA, a basement \"secret jungle beneath Ginza\" with tropical plants and a starry-sky ceiling, eight signature cocktails and about 300 spirits. It fits the day's route: it is one stop off the teamLab line and a short hop from the yakitori dinner. The better-known namesake is Bar Libre in Ikebukuro, a sepia-toned 17-seat basement bar ranked No. 39 on Asia's 50 Best Bars 2026.",
+   "fact": "Bar LIBRE GINZA only opened on 6 June 2022, while Ikebukuro's Bar Libre has been quietly pushing technique-driven cocktails for about 15 years.",
+   "address": "Bar LIBRE GINZA: ARROWS Bldg B1F, 1-6-6 Ginza, Chūō City (1 minute from Ginza-itchōme Station Exit 6), tel 03-6263-0560. Alternative: Bar Libre, Sōmaya Bldg B1F, 3-25-8 Nishi-Ikebukuro, Toshima City.",
+   "hours": "Bar LIBRE GINZA: 15:00 to 23:30 (last order 23:00), closed Sundays and public holidays (Time Out Tokyo). Ikebukuro Bar Libre hours were not verified.",
+   "practical": "Fri 6 Nov before the 20:00 dinner: Bar LIBRE GINZA is open from 15:00. From there to Yakitori Takahashi (Nihonbashi 2-chōme) is about a 15-minute walk up Chūō-dōri, or one stop on the Ginza Line from Kyōbashi to Nihombashi. The Ikebukuro bar would mean a 25 to 30 minute ride across town (Marunouchi Line) before dinner. Confirm with the traveller which one they meant.",
+   "sources": [
+    "https://www.timeout.jp/tokyo/ja/%E3%83%90%E3%83%BC/bar-libre-ginza",
+    "https://www.tablecheck.com/en/bar-libre-ginza",
+    "https://www.the50.com/bars/asia/the-list/bar-libre.html"
+   ]
+  },
+  "yakitoritakahashi": {
+   "name": "Yakitori Takahashi (焼鳥 髙はし), Nihonbashi",
+   "summary": "A quiet, ten-seat yakitori counter with one MICHELIN star, run by a famously taciturn chef who focuses entirely on the charcoal. He prefers shamo game fowl, seasons with salt, then finishes with chicken fat or vinegar and a touch of smoke, with chicken-based small dishes (cold breast, chicken potato salad) between skewers.",
+   "fact": "MICHELIN sums the chef up as \"a man of few words\". The restaurant went from MICHELIN Selected to one star in the 2025 guide.",
+   "address": "Ordin Nihonbashi Bldg 2F, 2-10-11 Nihonbashi, Chūō City, Tokyo 103-0027 (2 to 3 minutes from Nihombashi Station, Ginza / Tōzai / Toei Asakusa lines). Tel 03-3527-9501 (per byfood; unverified).",
+   "hours": "MICHELIN: Mon, Tue, Wed, Fri and Sat 17:00 to 22:30; closed Thursday and Sunday. Price ¥¥¥.",
+   "practical": "Fri 6 Nov 20:00: Friday is an opening day, so the booking fits. This is the only well-documented \"Yakitori Takahashi\" in Tokyo, and it fits the Ginza / Nihonbashi evening, so I am confident in the identification. Be on time at a counter this small. Booking platforms show strict cancellation terms (e.g. full refund only if you cancel a week ahead on byfood).",
+   "sources": [
+    "https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/yakitori-takahashi",
+    "https://byfood.com/restaurant/yakitori-takahashi-3627"
+   ]
+  },
+  "candeo-osaka": {
+   "name": "Candeo Hotels Osaka The Tower",
+   "summary": "A four-star tower hotel opened in July 2024 on the upper floors (17 to 31) of the new Osaka Dojimahama Tower, on the Dojima River across from Nakanoshima. The draw is the 31st-floor SkySpa, an infinity-edge open-air bath that seems to pour straight into the Osaka skyline.",
+   "fact": "Guinness World Records certified the SkySpa as the \"highest outdoor infinity public bath in a building\" at 127.462 m above ground.",
+   "address": "1-1-27 Dojimahama, Kita-ku, Osaka 530-0004. Closest station: Yodoyabashi (Osaka Metro Midōsuji Line / Keihan), Exit 7, about 6 minutes' walk. Kitashinchi (JR Tōzai) and Umeda are also walkable.",
+   "hours": "Check-in from 15:00, check-out by 11:00. SkySpa 15:00 to 11:00 the next day (sauna closed 02:00 to 06:00); free and for hotel guests only.",
+   "practical": "Sat 7 Nov: you arrive at about 12:30, before check-in. The front desk will hold luggage on your check-in day. Early check-in is possible only if booked in advance and available, for ¥2,200 per hour. IMPORTANT: the \"infinity pool\" is a gender-separated Japanese public bath, not a swimming pool. Swimwear is strictly forbidden: you bathe nude after washing at the showers. Bring towels from your room, as none are provided in the spa. Tattoos are welcome. The outdoor bath closes when the wind exceeds 8 m/s. Because it is open until 11:00, a late soak after getting back from Kobe, or a sunrise bath on Sunday morning, works well.",
+   "sources": [
+    "https://www.candeohotels.com/en/osaka-tower/skyspa/",
+    "https://www.candeohotels.com/en/osaka-tower/access/",
+    "https://www.candeohotels.com/en/osaka-tower/faq/"
+   ]
+  },
+  "nambayasaka": {
+   "name": "Namba Yasaka Jinja",
+   "summary": "A small neighbourhood shrine in south Osaka, made unforgettable by its Ema-den: a stage built inside a giant lion's head whose gaping mouth is said to swallow evil spirits and bring good luck, especially for exams and business.",
+   "fact": "The lion head stands about 12 m tall and 11 m wide. The shrine was rebuilt after WWII air raids, and the lion stage dates from 1974.",
+   "address": "2-9-19 Motomachi, Naniwa-ku, Osaka 556-0016. About 7 minutes' walk from Namba Station (Midōsuji Line), 3 stops south of Yodoyabashi.",
+   "hours": "Grounds about 06:00 to 17:00; shrine office 09:00 to 16:50. Free.",
+   "practical": "Sat 7 Nov: the grounds close at 17:00 (sunset is about 16:58), so go in the early afternoon, straight after dropping bags at the hotel, then walk 10 to 15 minutes north to Dotonbori.",
+   "sources": [
+    "https://en.osaka-info.jp/spot/nanbayasakajinja",
+    "https://explore.osaka/things-to-do/namba-yasaka-shrine/"
+   ]
+  },
+  "dotonbori": {
+   "name": "Dotonbori",
+   "summary": "Osaka's neon-drenched canal-side strip is the spiritual home of kuidaore, eating yourself into ruin. Mechanical crabs and pufferfish, takoyaki and okonomiyaki stands, and the famous Glico Running Man look down on the water from Ebisubashi bridge.",
+   "fact": "The canal was dug from 1612 by a merchant, Yasui Dōton, who was killed in the 1615 Siege of Osaka before it was finished. His cousins completed it and named it after him. The Glico Running Man first lit up here in 1935.",
+   "address": "Dōtonbori, Chūō-ku, Osaka (centred on Ebisubashi bridge). Namba Station, about 5 minutes' walk.",
+   "hours": "Always open; shops and restaurants mostly until late.",
+   "practical": "Sat 7 Nov: Saturday crowds are heavy. The neon is at its best after sunset (about 17:00), so walk the canal path from about 17:00 to 18:30 before heading to Kobe. The Hanshin Namba Line from Osaka-Namba runs direct to Kobe-Sannomiya (see transfers.osaka_to_kobe). The 20-minute Tombori River Cruise leaves from beside the Don Quijote Ferris wheel.",
+   "sources": []
+  },
+  "misono": {
+   "name": "Misono Kobe main restaurant (Originator of Teppanyaki Steak)",
+   "summary": "The restaurant that claims to have invented teppanyaki steak, serving Kobe beef cooked at your table by your own chef on the 7th and 8th floors of the company's building, with Kobe's night lights outside.",
+   "fact": "Founder Shigeji Fujioka opened in 1945 on an iron plate salvaged from a Kobe dockyard. Misono says an American reporter's interview gave the cuisine the name \"teppanyaki\", and that Fujioka invented the domed steak cover, the \"cap\". These are the restaurant's own claims.",
+   "address": "7F & 8F Misono Bldg, 1-1-2 Shimoyamate-dōri, Chūō-ku, Kobe 650-0011. 2 minutes north of Hankyu Kobe-Sannomiya West Gate; right by Kobe Subway Sannomiya Exit 1. Tel 078-331-2890.",
+   "hours": "Dinner 17:00 to 22:00 (last order 21:00); lunch 11:30 to 14:30. Closed only for New Year (30 Dec to 3 Jan).",
+   "practical": "Sat 7 Nov 20:00: the booking is within dinner hours, but last order is 21:00, so do not be late. A 10% service charge applies at dinner. Reservations must be confirmed by phone. A no-show is auto-cancelled after 30 minutes, and cancellation fees apply (30% of the meal if the menu was confirmed, otherwise ¥3,300 per person). Seats: 36. Ask for a window or the half-moon counter on the 7th floor.",
+   "sources": [
+    "https://misono.org/en/shop/kobe/",
+    "https://misono.org/en/concept/"
+   ]
+  },
+  "tokyo": {
+   "name": "Tokyo",
+   "summary": "The largest metropolitan area on earth feels surprisingly calm: hyper-modern towers and neon districts sit beside wooden temples, tiny bars and quiet residential lanes. This leg runs from old Asakusa in the east to Shinjuku and Shibuya in the west.",
+   "fact": "Greater Tokyo is home to about 37 million people, more than any other metropolitan area in the world.",
+   "address": "Tokyo, Japan.",
+   "hours": "Early November averages roughly 18°C by day and 10°C at night.",
+   "practical": "Wed 4 to Sat 7 Nov. Tue 3 Nov (Culture Day) is the national holiday just before arrival; none of Days 4 to 7 is a holiday. Get a Suica/PASMO IC card (or add one to your phone wallet) for metro, JR and buses.",
+   "sources": []
+  },
+  "osaka": {
+   "name": "Osaka",
+   "summary": "Japan's merchant city is louder, friendlier and hungrier than Tokyo, famous for street food, comedy and neon. This night is based around Nakanoshima and Kitashinchi, Osaka's riverside business and dining quarter, with a trip south to Namba for the shrine and Dotonbori.",
+   "fact": "Osaka was nicknamed 'the nation's kitchen'. Just by the hotel at Dōjimahama, the Dōjima Rice Exchange (officially recognised in 1730) is often cited as the world's first organised futures market.",
+   "address": "Osaka, Japan.",
+   "hours": "",
+   "practical": "Sat 7 Nov: one evening only. Use an IC card on Osaka Metro, JR, Hankyu and Hanshin. Dotonbori will be very busy on a Saturday night.",
+   "sources": []
+  },
+  "kobe": {
+   "name": "Kobe",
+   "summary": "A cosmopolitan port city squeezed between the Rokko mountains and Osaka Bay, Kobe is known for its harbour lights, its 19th-century foreign quarter and, of course, its beef. Sannomiya, where Misono is, is the lively downtown hub.",
+   "fact": "Only beef from Tajima-strain cattle born and raised in Hyōgo that meets strict grading can be sold as Kobe beef. Certified cuts carry the Nojigiku (wild chrysanthemum) stamp.",
+   "address": "Kobe, Hyōgo, about 20 to 45 minutes west of Osaka by train.",
+   "hours": "",
+   "practical": "Sat 7 Nov evening: dinner only. Kobe Port Tower and Harborland (lit at night) are about 15 to 20 minutes' walk from Sannomiya if you arrive early.",
+   "sources": []
+  }
+ },
+ "trains": [
+  {
+   "from": "Narita Airport (Terminal 2·3 Stn)",
+   "to": "Asakusa (Toei)",
+   "date": "Wed 4 Nov",
+   "dep": "about 14:00 to 14:30 (after a 12:50 landing)",
+   "arr": "about 15:00 to 15:30",
+   "service": "Keisei Access Express (through-running onto the Toei Asakusa Line)",
+   "notes": "Direct, no change: about 50 to 60 minutes, ¥1,290 (¥1,276 with Suica/PASMO) per Keisei. Not every Access Express runs through to the Asakusa Line, so check that the board shows a Toei Asakusa Line destination (e.g. for Nishi-magome / Haneda). Jeju Air usually uses Narita Terminal 3 (trackers list T3 for 7C1103; confirm on the day). From T3 it is about a 10-minute walk, or a free shuttle bus, to the Terminal 2 railway station."
+  },
+  {
+   "from": "Tokyo",
+   "to": "Shin-Osaka",
+   "date": "Sat 7 Nov",
+   "dep": "09:30",
+   "arr": "12:00",
+   "service": "Tōkaidō Shinkansen Nozomi 21 (Hakata-bound)",
+   "notes": "JR West's timetable for 7 Nov 2026 shows Nozomi 21 leaving Tokyo at 09:30 from platform 16 and arriving at Shin-Osaka at 12:00 (platform 22). This matches the plan exactly. It is a through train to Hakata with only a 2-minute stop, so be at the door before arrival. Departs from Tokyo Station (not Shinagawa, which it calls at 6 minutes later). Fare is about ¥14,720 for a reserved ordinary seat (varies slightly by season); book via SmartEX or at a JR ticket machine. Luggage over 160 cm (L+W+H) needs a free reservation for a seat with an oversized-baggage area, or you may be charged ¥1,000. Getting from Asakusa to Tokyo Station takes about 20 to 30 minutes (e.g. Ginza Line to Kanda, then JR one stop, or a taxi), so leave the Airbnb by about 08:40."
+  },
+  {
+   "from": "Shin-Osaka",
+   "to": "Yodoyabashi (for Candeo Hotels Osaka The Tower)",
+   "date": "Sat 7 Nov",
+   "dep": "about 12:10",
+   "arr": "about 12:25",
+   "service": "Osaka Metro Midōsuji Line",
+   "notes": "Four stops, about 10 minutes, roughly ¥240. Use Exit 7, then it is a 6-minute walk to the hotel. A taxi takes about 15 minutes."
+  },
+  {
+   "from": "Yodoyabashi",
+   "to": "Namba",
+   "date": "Sat 7 Nov",
+   "dep": "early afternoon",
+   "arr": "+7 min",
+   "service": "Osaka Metro Midōsuji Line",
+   "notes": "Three stops. Namba Yasaka Jinja is about 7 minutes' walk west of Namba and closes at 17:00. Dotonbori is about 5 minutes north of Namba."
+  },
+  {
+   "from": "Osaka-Namba",
+   "to": "Kobe-Sannomiya",
+   "date": "Sat 7 Nov",
+   "dep": "about 18:50 to 19:00",
+   "arr": "about 19:35 to 19:45",
+   "service": "Hanshin Namba Line / Hanshin Main Line (direct)",
+   "notes": "About 40 to 45 minutes, roughly ¥420. From Kobe-Sannomiya it is about 5 minutes' walk to Misono. If you are starting from the hotel instead, see transfers.osaka_to_kobe."
+  },
+  {
+   "from": "Sannomiya",
+   "to": "Osaka (Umeda)",
+   "date": "Sat 7 Nov",
+   "dep": "after dinner, about 22:00",
+   "arr": "+21 to 30 min",
+   "service": "JR Kobe Line Special Rapid, or Hankyu Kobe Line",
+   "notes": "JR Special Rapid from Sannomiya to Osaka takes about 21 minutes and costs about ¥420. The Hankyu Limited Express from Kobe-Sannomiya to Osaka-umeda takes about 27 to 32 minutes and costs about ¥330. From Osaka/Umeda it is about a 15-minute walk or a short taxi to Dōjimahama. Trains run until around midnight, but check the last train in an app on the day."
+  }
+ ],
+ "transfers": {
+  "narita_to_asakusa": "Best: the Keisei Access Express from Narita Airport Terminal 2·3 (or Terminal 1) station runs straight through onto the Toei Asakusa Line to Asakusa with no change. It takes about 50 to 60 minutes and costs ¥1,290, or ¥1,276 with an IC card (Keisei). Trains run roughly every 40 minutes, so check the Keisei timetable, and make sure the train continues onto the Asakusa Line. From Toei Asakusa Station, Hanakawado 2-chōme is about a 10-minute walk north-east. Faster but needing a change: Skyliner to Ueno (about 45 minutes, about ¥2,600), then the Ginza Line to Asakusa (5 minutes). Jeju Air usually arrives at Terminal 3, about 10 minutes' walk or a free shuttle to the Terminal 2 station. Realistic arrival in Asakusa is about 15:00 to 15:30. Source: https://www.keisei.co.jp/keisei/tetudou/skyliner/us/directions/asakusa.php",
+  "luggage_asakusa": "Coin lockers: Tobu Asakusa Station has the most, on the 2nd floor behind the main stairs, at ¥300 to ¥700 (some ¥400). A 'large' locker is 868 × 355 × 645 mm, so big suitcases may not fit. Tokyo Metro Asakusa has lockers by the Exit 1 lift, Toei Asakusa has a few by both gates, and Tsukuba Express Asakusa has lockers at B1 by Exit A1. Staffed storage: the Yamato Transport counter on Ekimise 1F (in the Tobu Asakusa building) is open 10:00 to 19:00 at ¥500 per bag per day. Sagawa Express Asakusa Kaminarimon Service Center, near Senso-ji, is open 09:00 to 19:00 at ¥800 per bag per day. Both can also deliver bags to accommodation. App-booked shops (ecbo cloak, Bounce, Stasher, Radical Storage) have many spots around Kaminarimon. On a 15:00 to 15:30 arrival you may not need any of this, so ask the host whether early bag drop or a lockbox is possible. Source: https://www.asakusastation.com/lockers-baggage-storage-in-asakusa/",
+  "osaka_to_kobe": "From Namba (after Dotonbori), the Hanshin Namba Line runs direct from Osaka-Namba to Kobe-Sannomiya in about 40 to 45 minutes for about ¥420. From the hotel or Umeda, the JR Kobe Line Special Rapid from Osaka Station to Sannomiya is the fastest at about 21 minutes and about ¥420. The Hankyu Kobe Line Limited Express from Osaka-umeda to Kobe-Sannomiya takes about 27 to 32 minutes for about ¥330, and its Kobe-Sannomiya West Gate is the closest exit for Misono (2 minutes' walk north). Hanshin from Osaka-Umeda takes about 30 minutes. Misono is about 5 minutes' walk from JR Sannomiya. Return the same way. Fares vary by source, so check them in a route app.",
+  "asakusa_to_tokyo_station": "For Sat 7 Nov: the Tokyo Metro Ginza Line from Asakusa to Kanda (about 10 minutes), then JR Yamanote/Chūō one stop to Tokyo, or the Ginza Line to Nihombashi and a 10-minute walk. Allow 30 minutes plus time to find platform 16 (Tōkaidō Shinkansen, Yaesu side). A taxi takes about 20 to 25 minutes in Saturday-morning traffic.",
+  "shin_osaka_to_hotel": "Osaka Metro Midōsuji Line to Yodoyabashi (4 stops, about 10 minutes), then Exit 7 and a 6-minute walk to 1-1-27 Dōjimahama. The hotel holds luggage before the 15:00 check-in."
+ },
+ "warnings": [
+  "Fri 6 Nov: the Imperial Palace East Gardens are CLOSED. Your belief is correct: they close every Monday and Friday (and the following Tuesday if Monday is a holiday). Still possible that day: the Outer Garden and the Nijubashi / Seimon Ishibashi view (always open), the moat walk, and the free guided palace-grounds tour, which runs Tuesday to Saturday including Fridays. Apply online by 23:59 JST Mon 2 Nov, or get same-day tickets at Kikyō-mon from 09:00 or 12:30. In 2025 the gardens opened daily during the Inui-dōri autumn opening (29 Nov to 7 Dec), but that is late November, so it won't help on 6 Nov. Sources: https://www.kunaicho.go.jp/e-event/higashigyoen02.html ; https://sankan.kunaicho.go.jp/english/guide/koukyo.html ; https://www.tanaka-tokyotours.com/2025/11/16/inui-street-imperial-palace-open-nov-29-dec-7/",
+  "Sat 7 Nov: the Candeo 'infinity pool' is NOT a swimming pool. It is the SkySpa, a gender-separated Japanese public bath (nude bathing; 'wearing swimsuits is strictly forbidden'). It is open 15:00 to 11:00 the next day, for guests only, and you must bring towels from your room. Source: https://www.candeohotels.com/en/osaka-tower/skyspa/",
+  "Sat 7 Nov: Namba Yasaka Jinja grounds close at about 17:00 (sunset is about 16:58), and hotel check-in is not until 15:00. Visit the shrine straight after dropping bags (about 12:30 to 14:00), not after check-in plus a spa session. Sources: https://en.osaka-info.jp/spot/nanbayasakajinja ; https://explore.osaka/things-to-do/namba-yasaka-shrine/",
+  "Thu 5 Nov: the Toyosu tuna auction runs about 05:30 to 06:30, so arriving at 06:00 catches only the end. The lower observation deck needs a lottery application made in the month before your visit (toyosu.jcdlotterysite.jp); the November window may already have closed. The second-floor windows need no booking. Toyosu is open on 5 Nov (November closures: Sundays, 3, 11, 18 and 23 Nov). Source: JNTO 2026 Toyosu sheet https://asset.japan.travel/image/upload/v1767774751/pdf/2026_TIC/202601/2026_Toyosu_Fish_Market.pdf",
+  "Thu 5 Nov: the Meiji Jingu Museum is closed on Thursdays. The shrine itself is open 06:10 to 16:10 in November, and the Inner Garden 09:00 to 16:00. Sources: https://www.gltjp.com/en/directory/item/14234/ ; https://www.meijijingu.or.jp/en/visit/",
+  "\"Bar Libra\" (Fri 6 Nov) could not be found under that name. The most likely match is Bar LIBRE GINZA (1-6-6 Ginza, B1F; 15:00 to 23:30; closed Sun and holidays), which fits the teamLab to Nihonbashi route. The famous alternative is Bar Libre in Ikebukuro (Asia's 50 Best Bars 2026 No. 39), which would mean a cross-town detour before the 20:00 dinner. Confirm with the traveller. Sources: https://www.timeout.jp/tokyo/ja/%E3%83%90%E3%83%BC/bar-libre-ginza ; https://www.the50.com/bars/asia/the-list/bar-libre.html",
+  "Thu 5 Nov: Trattoria Buca'Massimo's MICHELIN listing gives Thursday dinner as 17:30 to 20:30, probably the last-entry or last-order time, while a Japanese listing says 17:30 to 23:00. The 19:30 booking is fine, but don't arrive late. Source: https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/trattoria-buca-massimo",
+  "Fri 6 Nov: teamLab Planets tickets are for a timed slot and are not sold on site, so buy in advance. Water reaches knee height. The official site warns the Toei bus To-05-2 to Shin-Toyosu is heavily congested, so use the Yurikamome or Yūrakuchō Line. Source: https://www.teamlab.art/e/planets/",
+  "Sat 7 Nov: Nozomi 21 (Tokyo 09:30 to Shin-Osaka 12:00) runs on to Hakata after a 2-minute stop at Shin-Osaka, so be ready at the door. Bags over 160 cm total need an oversized-baggage seat reservation, or a ¥1,000 fee may apply. Sources: https://timetable.jr-odekake.net/station-timetable/2815002001 (7 Nov 2026 timetable) ; https://japanrailpass.net/assets/pdf/oversized_baggage_EN_230317.pdf",
+  "Sat 7 Nov: Misono's last dinner order is 21:00 (20:00 booking), a 10% dinner service charge applies, and no-shows are auto-cancelled after 30 minutes with a cancellation fee. Source: https://misono.org/en/shop/kobe/"
+ ]
+}

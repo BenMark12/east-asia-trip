@@ -1,0 +1,377 @@
+{
+ "region": "hongkong",
+ "images": {
+  "barleone": [
+   {
+    "file": "photos/hongkong/barleone_1.webp",
+    "caption": "A cocktail on a Bar Leone coaster",
+    "source_url": "https://100toptables.scmp.com/restaurants-profile-2026/bar-leone",
+    "credit": "SCMP 100 Top Tables 2026"
+   }
+  ],
+  "central": [
+   {
+    "file": "photos/hongkong/central_1.webp",
+    "caption": "Riding the Central-Mid-Levels escalator",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Central-Mid-Levels_Escalator_and_Walkway_System_2017.jpg",
+    "credit": "Wpcpey / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/hongkong/central_2.webp",
+    "caption": "A double-decker 'ding ding' tram streaks through the city at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Island,_Hong_Kong_(Unsplash_QL-Rkbgb8HE).jpg",
+    "credit": "Timon Studler derstudi / Wikimedia Commons (CC0)"
+   },
+   {
+    "file": "photos/hongkong/central_3.webp",
+    "caption": "Old tenement blocks and a red taxi on Hollywood Road",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2024-12-27_Hollywood_Road,_Hong_Kong.jpg",
+    "credit": "Alexkom000 / Wikimedia Commons (CC BY 4.0)"
+   }
+  ],
+  "coa": [
+   {
+    "file": "photos/hongkong/coa_1.webp",
+    "caption": "COA's candlelit, Mexican-inspired bar room",
+    "source_url": "https://coa.com.hk/",
+    "credit": "COA (official site)"
+   }
+  ],
+  "dragonsback": [
+   {
+    "file": "photos/hongkong/dragonsback_1.webp",
+    "caption": "Hikers on the Dragon's Back ridge",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dragons-Back-Northwards.jpg",
+    "credit": "Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/hongkong/dragonsback_2.webp",
+    "caption": "The Dragon's Back trail, with coast and islands below",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E9%BE%99%E8%84%8A%E5%BE%84_-_Dragon%27s_Back_Trail_-_2015.01_-_panoramio.jpg",
+    "credit": "rheins / Wikimedia Commons (CC BY 3.0)"
+   }
+  ],
+  "hongkong": [
+   {
+    "file": "photos/hongkong/hongkong_1.webp",
+    "caption": "Hong Kong's skyline after dark, seen from Victoria Peak",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg",
+    "credit": "Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/hongkong/hongkong_2.webp",
+    "caption": "A Star Ferry crosses Victoria Harbour at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_at_Night_-_Star_Ferry_-_Flickr_-_Wilson_Hui.jpg",
+    "credit": "Wilson Hui from Calgary, Canada / Wikimedia Commons (CC BY 2.0)"
+   },
+   {
+    "file": "photos/hongkong/hongkong_3.webp",
+    "caption": "Neon signs over a Mong Kok street at night",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mong_Kok_Neon_Signs_Night_(48127904386).jpg",
+    "credit": "Benh LIEU SONG from Torcy, France / Wikimedia Commons (CC BY-SA 2.0)"
+   }
+  ],
+  "islandshangrila": [
+   {
+    "file": "photos/hongkong/islandshangrila_1.webp",
+    "caption": "Island Shangri-La's entrance on Supreme Court Road, Admiralty",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Island_Shangri-La,_Hong_Kong_10-05-2026(3).jpg",
+    "credit": "LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
+   },
+   {
+    "file": "photos/hongkong/islandshangrila_2.webp",
+    "caption": "A Deluxe Harbour View Room looking out over Victoria Harbour",
+    "source_url": "https://www.shangri-la.com/hongkong/islandshangrila/rooms-suites/rooms/deluxe-harbour-view-room/",
+    "credit": "Island Shangri-La, Hong Kong (official site)"
+   },
+   {
+    "file": "photos/hongkong/islandshangrila_3.webp",
+    "caption": "The 16-storey silk landscape painting in the hotel's inner atrium",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Island_Shangri-La_HK_Inner_Atrium.jpg",
+    "credit": "Pantegral / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "manmo": [
+   {
+    "file": "photos/hongkong/manmo_1.webp",
+    "caption": "Fusion dumplings at Man Mo Dim Sum",
+    "source_url": "https://www.manmodimsum.com/",
+    "credit": "Man Mo Dim Sum (official site)"
+   }
+  ],
+  "mono": [
+   {
+    "file": "photos/hongkong/mono_1.webp",
+    "caption": "Mono's chef's counter, set for service",
+    "source_url": "https://www.mono.hk/",
+    "credit": "MONO (official site)"
+   }
+  ],
+  "peaktram": [
+   {
+    "file": "photos/hongkong/peaktram_1.webp",
+    "caption": "A sixth-generation Peak Tram climbing through the trees",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Peak_Tram(Green_light)_10-09-2022(2).jpg",
+    "credit": "LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "repulsebay": [
+   {
+    "file": "photos/hongkong/repulsebay_1.webp",
+    "caption": "The crescent of Repulse Bay from the east",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Repulse_Bay,_Hong_Kong,_from_east.jpg",
+    "credit": "Daniel Case / Wikimedia Commons (CC BY-SA 3.0)"
+   }
+  ],
+  "shekO": [
+   {
+    "file": "photos/hongkong/shekO_1.webp",
+    "caption": "Shek O Beach beneath the hills",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shek_O_Beach_(full_blue_sky).jpg",
+    "credit": "Prosperity Horizons / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "soho": [
+   {
+    "file": "photos/hongkong/soho_1.webp",
+    "caption": "Restaurants along Elgin Street in SoHo",
+    "source_url": "https://commons.wikimedia.org/wiki/File:HK_Central_SoHo_%E4%BA%9B%E5%88%A9%E8%A1%97_Shelley_Street_Elgin_Street_shop_August_2020_SS2_08.jpg",
+    "credit": "Kam LAOU 312 332 / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "stanley": [
+   {
+    "file": "photos/hongkong/stanley_1.webp",
+    "caption": "Blake Pier and Murray House on the Stanley waterfront",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Blake_Pier_and_Murray_House_in_Stanley_January_2026.jpg",
+    "credit": "Nick-D / Wikimedia Commons (CC BY-SA 4.0)"
+   }
+  ],
+  "starferry": [
+   {
+    "file": "photos/hongkong/starferry_1.webp",
+    "caption": "A Star Ferry crossing Victoria Harbour",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2024-12-27_A_Star_Ferry_crosses_Victoria_Harbour_2.jpg",
+    "credit": "Alexkom000 / Wikimedia Commons (CC BY 4.0)"
+   }
+  ],
+  "victoriapeak": [
+   {
+    "file": "photos/hongkong/victoriapeak_1.webp",
+    "caption": "Victoria Harbour at blue hour from the Peak",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_and_Victoria_Harbour_at_dusk,_view_from_Victoria_Peak,_Hong_Kong,_China_-_%E9%A6%99%E6%B8%AF%EF%BC%8C%E4%B8%AD%E5%9B%BD_(16215094838).jpg",
+    "credit": "Romain Pontida / Wikimedia Commons (CC BY-SA 2.0)"
+   },
+   {
+    "file": "photos/hongkong/victoriapeak_2.webp",
+    "caption": "The night skyline from the Lugard Road lookout",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Night_Skyline_from_Lugard_Road.jpg",
+    "credit": "PrzemekJaczewski / Wikimedia Commons (CC BY 3.0)"
+   }
+  ]
+ },
+ "facts": {
+  "islandshangrila": {
+   "name": "Island Shangri-La, Hong Kong",
+   "summary": "A 56-storey tower rising above Pacific Place in Admiralty, with 544 rooms looking either up to the Peak or out over Victoria Harbour. Inside it feels like a grand old-school palace hotel: chandeliers, Asian art and eight restaurants and bars, including two Michelin-starred dining rooms.",
+   "fact": "Its inner atrium holds 'The Great Motherland of China', a silk landscape of 250 panels that climbs about 16 storeys (roughly 51 m x 14 m). It was made by 40 artists from the Beijing Arts and Crafts Research Institute over six months, and the hotel bills it as the largest Chinese landscape painting. Only guests can see it; the best view is from the glass bubble lift between levels 39 and 56.",
+   "address": "Pacific Place, Supreme Court Road, Central (Admiralty), Hong Kong. Tel +852 2877 3838. From Admiralty MTR, take Exit F into Pacific Place, then the escalator to L1, the bubble lift to L5, and up to L6 for reception.",
+   "hours": "Check-in 15:00, check-out 12:00 (official site).",
+   "practical": "Fri 13 Nov: you should reach the hotel around 18:00-18:30, well after the 15:00 check-in time. Mon 16 Nov: you will leave about 05:30 for the 08:10 flight, so settle the bill or arrange express check-out on Sunday night. In-hotel dining: Restaurant Petrus (French, top floor) and Summer Palace (Cantonese) each hold one Michelin star (hotel awards page, 2024 and 2025 guides). Also Lobster Bar and Grill (cocktails, oysters, live jazz), Ming Pavilion (modern Hokkien), Nadaman, cafe TOO (buffet) and the Lobby Lounge. Mono's chef Ricardo Chaneton used to run Petrus. Michelin's hotel page carries an undated note that renovation noise may be audible from 9am to 6pm, Monday to Saturday."
+  },
+  "hongkong": {
+   "name": "Hong Kong",
+   "summary": "A vertical city squeezed between steep green hills and one of the world's great harbours, where trams, ferries and hillside escalators are part of the daily commute. Hong Kong Island's north shore is glass towers and neon; its south side has beaches, seaside villages and ridge-top trails, all within half an hour.",
+   "fact": "Mid-November is close to Hong Kong's best weather. Hong Kong Observatory 1991-2020 normals for November: mean daily high 24.5°C, low 20.3°C, about 39 mm of rain, 72% humidity and around 172 hours of sunshine for the month. Sunrise is 06:34 and sunset 17:41 on 13 Nov, and 17:40 on 14-15 Nov (HKO).",
+   "address": "Hong Kong SAR. You stay in Admiralty and eat and drink in Central, Sheung Wan and SoHo.",
+   "hours": "Time zone HKT (UTC+8), one hour behind Japan and 8 hours ahead of London in November.",
+   "practical": "Use an Octopus card or contactless bank card for MTR, trams, buses and the Star Ferry. Pack light layers, as evenings can feel cool. November is the end of typhoon season; late storms are uncommon but possible, so check the HKO 'MyObservatory' app."
+  },
+  "victoriapeak": {
+   "name": "Victoria Peak (The Peak)",
+   "summary": "The classic Hong Kong view: a wall of skyscrapers falling away to Victoria Harbour, with Kowloon and the hills of the New Territories behind. After dark the city glows below you like a circuit board.",
+   "fact": "Sky Terrace 428, on the roof of the Peak Tower, is named for its height of 428 m above sea level and is Hong Kong's highest viewing platform. The free Lugard Road lookout, about a 10-minute flat walk west, frames much the same view. The full Lugard Road and Harlech Road loop is about 3.5 km of level path (about 1-1.5 hours) and is partly lit by streetlights.",
+   "address": "The Peak Tower, 128 Peak Road, The Peak, Hong Kong Island.",
+   "hours": "Sky Terrace 428 08:30-22:00 daily. Peak Tower 07:00-23:00 (official site).",
+   "practical": "Fri 13 Nov: sunset is 17:41 (HKO), but you land at 16:40, so you will see the night view rather than sunset. Aim for about 19:00-20:30, then take a taxi (about 10-15 min) down to COA. Sky Terrace 428 closes at 22:00 and is shut immediately if a Black Rainstorm warning is issued. Ways up besides the tram: a taxi from the hotel (about 20 min), Citybus 15 from Central, or green minibus 1 from Central (IFC)."
+  },
+  "peaktram": {
+   "name": "The Peak Tram",
+   "summary": "Hong Kong's funicular has hauled passengers up the Peak's steep flank since 1888. Its green carriages tilt at up to 25.7 degrees through the trees, so the towers outside seem to lean.",
+   "fact": "The tram climbs to 396 m. A University of Hong Kong study found that, going up, the high-rises on the right appear to topple towards the Peak, so sit on the right for the 'Peak Tram illusion'. The current sixth-generation cars entered service in 2022.",
+   "address": "Lower (Central) terminus: Garden Road Peak Tram Station, 33 Garden Road, Central. About a 10-15 min walk from the hotel through Hong Kong Park, or a short taxi ride.",
+   "hours": "07:30-23:00 daily, including public holidays (official). Third-party 2026 guides quote fares of about HK$82 single and HK$116 return for adults, and about HK$182 return for a tram + Sky Terrace 428 combo; check the official webstore.",
+   "practical": "Fri 13 Nov: Friday-evening queues at Garden Road can be long. Buy timed tickets in advance only at the official webstore.thepeak.com.hk, since the operator warns of counterfeit ticket sites. The last tram is around 23:00. The tram is suspended on some maintenance days (e.g. 8 Sep 2026), so check the 'Important Notices' page before going."
+  },
+  "central": {
+   "name": "Central",
+   "summary": "Hong Kong's financial heart, where bank towers by Foster and I. M. Pei rise over tram lines laid in 1904 and steep lanes of galleries and noodle shops. Covered walkways and hillside escalators link it all, with Sheung Wan's dried-seafood shops and antique dealers just west.",
+   "fact": "The Central-Mid-Levels escalator is about 800 m long and climbs 135 m. It runs downhill 06:00-10:00 for commuters, then uphill 10:00-midnight (Transport Department). Hong Kong's double-decker 'ding ding' trams have run along the north shore since 1904.",
+   "address": "Central / Sheung Wan, Hong Kong Island. The escalator starts on Queen's Road Central by Central Market.",
+   "hours": "The escalator runs 06:00-24:00 and the trams roughly 06:00-midnight.",
+   "practical": "Sat 14 Nov: a good loop is the escalator up to SoHo, along Hollywood Road past the antique shops and Man Mo Temple (124-126 Hollywood Rd), then down to lunch at Man Mo Dim Sum (233 Hollywood Rd). Bar Leone (Bridges St) is about 5 minutes' walk from there. PMQ and Tai Kwun are both on the route."
+  },
+  "soho": {
+   "name": "SoHo (South of Hollywood Road)",
+   "summary": "A steep grid of Elgin, Staunton, Peel and Shelley Streets beside the Mid-Levels escalator, packed with small restaurants, wine bars and street art. Quiet-ish by day, buzzing by night.",
+   "fact": "SoHo takes its name from its position 'South of Hollywood Road', and Hollywood Road itself (laid out in the 1840s) is one of Hong Kong's oldest streets.",
+   "address": "Elgin St / Staunton St / Peel St, Central, off the Central-Mid-Levels escalator.",
+   "hours": "Restaurants mostly open from lunch to late.",
+   "practical": "Sun 15 Nov: Ho Lee Fook (3-5 Elgin St) is open Sunday evening (Michelin listing: 18:00-22:30). See dining_suggestions_central_sunday."
+  },
+  "manmo": {
+   "name": "Man Mo Dim Sum & Wine",
+   "summary": "A playful East-meets-West dim sum room on Hollywood Road, named after the nearby Man Mo Temple. Swiss-born founder Nicolas Elalouf trained under a dim sum master and stuffs hand-made dumplings with European fillings, served with a French-leaning wine list.",
+   "fact": "The signature is the truffle-Brie dumpling, which is steamed and then pan-fried so the crust tastes 'like the bread you eat with cheese'. The first dumpling ever on the menu was tomato-mozzarella with pesto. Other favourites are the foie-gras xiao long bao with fig jam and a beef siu mai made with Moroccan kefta and chimichurri.",
+   "address": "G/F, Shop 5-6, Hollywood Centre, 233 Hollywood Road, Sheung Wan. It opened in 2014 on Upper Lascar Row (Cat Street) and later moved to this larger site.",
+   "hours": "Listings conflict. Time Out gives daily 12:00-20:00, while the online booking system offers slots from 12:00 to 21:00. Lunch on Saturday is fine either way.",
+   "practical": "Sat 14 Nov lunch: book online at book.bistrochat.com/manmodimsum. Cancelling less than 2 hours ahead, or not showing up, can cost HK$100 per person. Truffle and caviar top-ups are sometimes offered (about HK$80). Bar Leone and Man Mo Temple are both a few minutes' walk away."
+  },
+  "coa": {
+   "name": "COA",
+   "summary": "Jay Khan's candlelit agave den, opened in 2017 and inspired by the mezcalerias he visited in Mexico. It has reclaimed-industrial walls, a mural of the agave goddess Mayahuel, and a 41-page menu of tequila, mezcal, raicilla, sotol and bacanora.",
+   "fact": "COA is named after the machete-like tool used to harvest agave, and a real coa carried from Oaxaca is set into the bar wall. It was No.1 on Asia's 50 Best Bars in 2021, 2022 and 2023, the first bar to top that list three years running. In 2026 it received the Legend of the List award and placed No.24.",
+   "address": "Shop A, Wah Shin House, 6-10 Shin Hing Street, Central (the Sheung Wan/Gough Street end). Shin Hing Street is a stepped pedestrian lane, so take a taxi to Hollywood Road at Gough Street and walk the last bit. Tel +852 2813 5787.",
+   "hours": "Tue-Thu and Sun 18:00-24:00, Fri-Sat 18:00-01:00, closed Monday (official site).",
+   "practical": "Fri 13 Nov: walk-in only, no reservations. If it is full, give your details at the door to join the virtual queue, then track it on your phone. You can only join in person, and Friday queues fill fast. The website lists drinks only (no food menu), so treat COA as the drinks part of the night and have dinner nearby, either before or while you wait in the queue."
+  },
+  "barleone": {
+   "name": "Bar Leone",
+   "summary": "Lorenzo Antinori's homage to a Roman neighbourhood bar: football shirts on the walls, Italo disco and Pavarotti on the stereo, and 'cocktail popolari' (cocktails for the people) served fast and without fuss. It opened in mid-2023 and quickly became the most talked-about bar in Asia.",
+   "fact": "It was named The World's Best Bar in 2025 and again in 2026 (World's 50 Best Bars, announced 7 Oct 2026 in Milan), and was No.1 on Asia's 50 Best Bars in 2024 and 2025. In 2026 it placed No.3 in Asia and was Best Bar in Hong Kong. Try the pre-batched Leone Martini with smoked olives and the mortadella sandwich.",
+   "address": "G/F, 11-15 Bridges Street, Central (Sheung Wan/Tai Ping Shan side, near Hollywood Road). Tel +852 2511 6444.",
+   "hours": "Tue-Sun 17:00-24:00 (Time Out and SCMP 2025). SCMP's 2026 listing says '5pm-late'. Closed Monday.",
+   "practical": "Sat 14 Nov: walk-in only, and Saturday queues can run 1-2 hours. With dinner at Mono at 19:30, arrive close to the 17:00 opening. Mono (On Lan St) is about a 15-minute walk downhill, or a 5-minute taxi. A separate new bar by the same team is due to open at Rosewood Hong Kong (Tsim Sha Tsui) in November 2026, but it is not the same venue."
+  },
+  "mono": {
+   "name": "MONO",
+   "summary": "A 22-seat room (10 of them at the kitchen counter) where Venezuelan chef-owner Ricardo Chaneton cooks Latin American flavours with French technique. Dishes include Danish langoustine with fermented Ecuadorian cacao and an 18-ingredient green mole. It feels personal and warm, with records spinning in the background.",
+   "fact": "The music is vinyl from the chef's father's collection. Mono, which opened in 2019 with JIA Group, became Asia's first Michelin-starred Latin American restaurant in the 2022 guide, making Chaneton the first Venezuelan chef to win a star. It is No.46 on Asia's 50 Best Restaurants 2026. Chaneton was previously executive chef of Petrus at your hotel.",
+   "address": "5/F, 18 On Lan Street, Central (near Lan Kwai Fong/Wyndham Street).",
+   "hours": "Tue-Sat. Lunch 12:00-15:00 (last order 13:15), dinner 18:30-23:00 (last order 20:15). Closed Sunday and Monday.",
+   "practical": "Sat 14 Nov 19:30: reservation essential. Book via mono.hk or reservations@mono.hk, or WhatsApp +852 9726 9301 (messages only, not Sun/Mon). The dinner 'Journey Menu' is HK$1,888 per person before drinks. Michelin status: one star since 2022, and Michelin's own listing still shows one star (it was not among the 2026 two-star promotions)."
+  },
+  "repulsebay": {
+   "name": "Repulse Bay",
+   "summary": "A wide, gently curving beach backed by green hills and pastel apartment towers, about 30 minutes from Central. It is the easy, pretty first stop on a south-side day.",
+   "fact": "At the east end, the Kwun Yam shrine has a 'Longevity Bridge', and crossing it is said to add three days to your life. Above the beach, the wavy apartment block 'The Repulse Bay' has a famous square hole. Local lore says it lets dragons pass from the hills to the sea, although the developer says feng shui was considered but was not the inspiration.",
+   "address": "Repulse Bay Beach, Beach Road, Southern District, Hong Kong Island.",
+   "hours": "Open access. Lifeguards on duty 08:00-17:00 daily in November, then none from 1 Dec (based on LCSD's 2025-26 arrangements; the 2026-27 notice wasn't yet published).",
+   "practical": "Sun 15 Nov: take Citybus 6, 6X or 260 from Central (Exchange Square) to Repulse Bay (about 30 min; the 260 express is fastest), then carry on to Stanley on the same routes. The Repulse Bay arcade has cafes for brunch."
+  },
+  "stanley": {
+   "name": "Stanley",
+   "summary": "A breezy seaside town on a narrow peninsula with a waterfront promenade, the rambling Stanley Market and a run of bars and restaurants facing the bay. Its colonial-era buildings were relocated here from Central.",
+   "fact": "Murray House was built in Central in the 1840s as officers' quarters. It was dismantled stone by stone in 1982 to make way for the Bank of China Tower (over 3,000 numbered pieces) and rebuilt on the Stanley waterfront, reopening in 2002. The old Blake Pier pavilion beside it also came from Central's waterfront.",
+   "address": "Stanley Market / Stanley Main Street and Murray House, Stanley Plaza, Southern District.",
+   "hours": "Market stalls roughly 10:00-18:00 daily.",
+   "practical": "Sun 15 Nov: weekend crowds are heavy, so go earlier in the day. Stanley Main Beach has lifeguards 08:00-17:00 in November (LCSD pattern). Back to Central on Citybus 6, 6X or 260 from Stanley Market (about 45-50 min; one timed 260 run took 49 min). Citybus 14 runs to Sai Wan Ho via Tai Tam Road if you want to link up with Shek O or Dragon's Back, or a taxi takes about 20 min."
+  },
+  "shekO": {
+   "name": "Shek O",
+   "summary": "A laid-back village at the island's south-east tip, with a sandy beach between granite headlands and a relaxed, low-rise feel. Nearby Big Wave Bay, at the end of the Dragon's Back hike, is the island's surf beach.",
+   "fact": "Shek O and Big Wave Bay are the natural finish of the Dragon's Back, so you can walk the ridge and end with your feet in the sand.",
+   "address": "Shek O Beach, Shek O Road, Southern District, Hong Kong Island.",
+   "hours": "Open access. No lifeguards from 1 Nov to 31 Mar (LCSD winter arrangements in recent years).",
+   "practical": "Sun 15 Nov: take MTR to Shau Kei Wan (Exit A3), then Citybus 9 to the Shek O terminus (about 30 min; it also stops at To Tei Wan for Dragon's Back and at Big Wave Bay). A minibus runs from Chai Wan, and a taxi from Shau Kei Wan is about 10-15 min. Citybus X9 runs Shek O to Central (Star Ferry), but its schedule is limited, so check the Citybus app. Sunset is 17:40."
+  },
+  "dragonsback": {
+   "name": "Dragon's Back (Hong Kong Trail Section 8)",
+   "summary": "A rolling, grassy ridge above Shek O with sea views on both sides: islands, surf beaches and the South China Sea. It is Hong Kong's favourite short hike, with a moderate climb at the start and then easy undulations along the top.",
+   "fact": "The ridge is named for its rise and fall like a soaring dragon, and the official hiking site notes it was chosen as 'Asia's best urban hiking trail'.",
+   "address": "Start at the To Tei Wan bus stop on Shek O Road (Citybus 9 from Shau Kei Wan MTR Exit A3), then follow the Hong Kong Trail signs uphill.",
+   "hours": "Daylight. The official route is 4.8 km and about 2.5 h, ending at Tai Tam Gap / Cape Collinson (bus 9 back). The popular extended version continues down to Big Wave Bay, about 8.5 km in 3-4 h. Difficulty 3/5 on the official site.",
+   "practical": "Sun 15 Nov: start by about 10:00-11:00. It is busy on Sundays, and there may be a queue for bus 9 at Shau Kei Wan. There is no shade on the ridge and nowhere to buy supplies once you start, so carry at least a litre of water each. Finish well before the 17:40 sunset, as the trail is not lit."
+  },
+  "starferry": {
+   "name": "Star Ferry",
+   "summary": "Green-and-white ferries that have chugged across Victoria Harbour since the late 19th century. The roughly 10-minute ride between Central and Tsim Sha Tsui is still the cheapest and loveliest harbour view in town.",
+   "fact": "The service dates from 1888, the same year the Peak Tram opened. Fares are among the cheapest rides in Hong Kong: about HK$6.50 adult at weekends on the Central-Tsim Sha Tsui route. A government-approved rise takes effect on 25 Jan 2027, after your visit.",
+   "address": "Central Pier 7 (Central Ferry Piers, next to IFC) to Tsim Sha Tsui Star Ferry Pier.",
+   "hours": "Roughly 06:30-23:30 daily, every 6-12 minutes.",
+   "practical": "Good for an evening round trip on Sat or Sun night to see the skyline lit up from the water. Tap an Octopus or contactless card at the turnstile."
+  }
+ },
+ "flights": [
+  {
+   "from": "FUK",
+   "to": "HKG",
+   "date": "Fri 13 Nov 2026",
+   "dep": "13:25 (JST)",
+   "arr": "16:40 (HKT)",
+   "carrier": "Hong Kong Airlines (unconfirmed, likely)",
+   "flight_no": "HX639",
+   "duration": "4h 15m scheduled (local times differ by 1 h). Actual flying time is shorter, and on 25 Oct 2026 HX639 landed about 50 min early. Airbus A320.",
+   "notes": "Planemapper lists HX639 FUK 13:25 to HKG 16:40 from 25 Oct 2026, and Trip.com shows Hong Kong Airlines on this exact 13:25/16:40 timing. Confirm against your booking."
+  },
+  {
+   "from": "HKG",
+   "to": "LHR",
+   "date": "Mon 16 Nov 2026",
+   "dep": "08:10 (HKT)",
+   "arr": "15:00 (GMT), same day",
+   "carrier": "Cathay Pacific (unconfirmed, likely)",
+   "flight_no": "CX257",
+   "duration": "14h 50m non-stop, Airbus A350-900, daily",
+   "notes": "Flightmapper lists CX257 as 08:10 to 15:00, daily from 25 Oct 2026. No other carrier has an 08:10 HKG-LHR departure, and British Airways' Hong Kong flights leave late at night. Cathay uses Heathrow Terminal 3."
+  }
+ ],
+ "transfers": {
+  "hkg_to_hotel": "The quickest way is the Airport Express from the arrivals hall to Hong Kong Station. Trains run every 10 min and take about 24 min (MTR). The 2026-27 adult Octopus fare is about HK$120: MTR's 50%-off senior table shows HK$60, while the hotel's own page still says HK$115. From Hong Kong Station, a taxi to the hotel takes about 10 min (hotel). The free Airport Express shuttle buses were withdrawn in 2020. A taxi direct from the airport takes about 40 min and costs around HK$400 with luggage and tolls (hotel page; third-party guides say HK$300-400). Airport bus A11 to Admiralty takes about 1 h. A hotel limousine must be booked 2 days ahead on +852 2877 3838. Allow about 45 min from landing (16:40) to leaving the airport, so expect to reach the hotel around 18:00-18:30. Return on Mon 16 Nov: for the 08:10 flight, leave the hotel by about 05:30. A taxi takes about 35-40 min in light early traffic. Alternatively, Cathay Pacific offers In-Town Check-in at Hong Kong Station from the day before until 90 min before departure (hours were extended to 23:00 in 2024), so you could drop bags on Sunday evening and take an early Airport Express train. Check the first train time and check-in hours on the MTR site.",
+  "to_southern_beaches": "There are two Sunday options. (A) Beaches and Stanley: take Citybus 6, 6X or 260 from Central (Exchange Square) to Repulse Bay (about 30 min) and on to Stanley Market (260 is the express; about 45-50 min from Central to Stanley), returning the same way. Route 6 takes the scenic road over Wong Nai Chung Gap. (B) Dragon's Back and Shek O: take the MTR Island Line to Shau Kei Wan (Exit A3), then Citybus 9 to the To Tei Wan stop on Shek O Road (about 20-30 min). Hike the Dragon's Back (4.8 km/2.5 h to Tai Tam Gap, or about 8.5 km down to Big Wave Bay), then take bus 9 to Shek O village and beach, and back to Shau Kei Wan MTR. A taxi from Shek O to Central takes about 30-40 min. Citybus X9 (Shek O to Central Star Ferry) has a limited schedule. To combine both, do Dragon's Back and Shek O in the morning, then take a taxi (about 20-25 min) to Stanley for the late afternoon and the bus back to Central. Sunset is 17:40."
+ },
+ "dining_suggestions_central_sunday": [
+  {
+   "name": "Ho Lee Fook",
+   "what": "Buzzy, modern Cantonese spot in the Michelin Guide, known for roast goose, char siu and wok dishes. A good relaxed Sunday dinner. Michelin lists Sunday 18:00-22:30.",
+   "address": "3-5 Elgin Street, SoHo, Central. Tel +852 2810 0860."
+  },
+  {
+   "name": "Yat Lok",
+   "what": "Tiny, no-frills, Michelin-recognised roast-goose institution: goose with lai fun noodles or rice. Michelin lists Sunday 10:00-20:30, but older guides disagree, so phone ahead. Reportedly cash only.",
+   "address": "G/F, 34-38 Stanley Street, Central. Tel +852 2524 3882."
+  },
+  {
+   "name": "Mak's Noodle",
+   "what": "Classic Hong Kong wonton noodles in small bowls, ideal for a quick, cheap, comforting bite after the beaches. Open Sundays, about 11:00-21:00 per recent listings.",
+   "address": "77 Wellington Street, Central. Tel +852 2854 3810."
+  }
+ ],
+ "warnings": [
+  "Fri 13 Nov sunset clash: the HKO sunset time is 17:41, but your flight lands at 16:40 (HX639). By the time you clear the airport, check in (about 18:00-18:30) and get up the Peak, it will be dark, so you will get the night view, not sunset. Source: Hong Kong Observatory sunrise/sunset open data, 13 Nov 2026.",
+  "COA (Fri) and Bar Leone (Sat) are both walk-in only with no reservations. COA's virtual waitlist must be joined in person at the door (coa.com.hk), and SCMP 100 Top Tables warns of queues of 1-2 hours at Bar Leone on busy nights. Bar Leone was named World's Best Bar again on 7 Oct 2026, so expect bigger crowds.",
+  "COA is a drinks bar: its official site lists only an agave spirits and cocktail menu, with no food. 'Dinner and drinks at COA' therefore needs a separate dinner nearby. COA is open Fri 18:00-01:00 (coa.com.hk).",
+  "Sat 14 Nov timing: Bar Leone opens at 17:00 (Tue-Sun, per Time Out and SCMP), and Mono's dinner last order is 20:15 (mono.hk). To fit a Bar Leone drink before the 19:30 Mono booking, arrive at about 17:00. Mono is about 15 min' walk or 5 min by taxi from Bridges Street.",
+  "Mono requires a reservation (dinner Journey Menu HK$1,888 pp) and is closed Sunday and Monday (mono.hk). If the 19:30 Saturday slot isn't confirmed, there is no fallback date during your stay.",
+  "Man Mo Dim Sum's hours conflict between Time Out (daily 12:00-20:00) and its booking slots (12:00-21:00). Booking is online, with a HK$100 pp charge for no-shows or cancellations within 2 hours (book.bistrochat.com/manmodimsum). Saturday lunch is not affected.",
+  "Southern beaches in mid-November: LCSD lifeguards are normally on duty only at Repulse Bay, Stanley Main Beach, Middle Bay and Big Wave Bay (08:00-17:00, until 30 Nov). Shek O Beach has no lifeguards from 1 Nov. This is based on LCSD's 2025-26 winter notice (info.gov.hk, 30 Oct 2025); the 2026-27 notice had not been published by 25 Oct 2026.",
+  "Sun 15 Nov sunset is 17:40 (HKO), and the Dragon's Back is unlit with no supplies on the trail. Start by late morning and finish by about 17:00 (official hiking site: 4.8 km, about 2.5 h; longer to Big Wave Bay).",
+  "Mon 16 Nov 08:10 departure (likely CX257, arriving LHR 15:00): leave the hotel by about 05:30. The hotel's check-out is 12:00, but settle the bill on Sunday night. Consider Cathay's In-Town Check-in at Hong Kong Station the evening before (available from 1 day before until 90 min before the flight; verify the hours on the MTR site).",
+  "Airport Express fare: the hotel website still quotes HK$115, but MTR's 2026-27 fare table implies HK$120 by Octopus to Hong Kong Station. The free Airport Express hotel shuttle buses were discontinued in 2020 (The Standard), so take a taxi from Hong Kong Station.",
+  "Michelin's Island Shangri-La page has an undated notice that renovation noise may be audible 09:00-18:00 Mon-Sat. If noise matters, ask for a room away from works when you check in.",
+  "Peak Tram: the operator warns of counterfeit ticket websites. Buy only at webstore.thepeak.com.hk, and expect Friday-evening queues at the Garden Road terminus."
+ ],
+ "sources": [
+  "https://www.shangri-la.com/hongkong/islandshangrila/about/ (check-in 15:00 / check-out 12:00; address; airport connections)",
+  "https://www.businesstraveller.com/news/art-walking-through-some-five-star-addresses/ (atrium painting)",
+  "https://www.shangri-la.com/hongkong/islandshangrila/about/awards (Petrus, Summer Palace one Michelin star)",
+  "https://data.weather.gov.hk/weatherAPI/opendata/opendata.php?dataType=SRS&lang=en&rformat=json&year=2026&month=11&day=13 (sunset)",
+  "https://www.hko.gov.hk/en/cis/normal/1991_2020/normals.htm (November climate normals)",
+  "https://www.thepeak.com.hk/en/the-peak-experience/the-sky-terrace-428 (Peak Tram / Sky Terrace hours)",
+  "https://coa.com.hk/ (COA hours, walk-in policy, accolades)",
+  "https://www.theworlds50best.com/bars/asia/the-list/bar-leone.html (Bar Leone profile, 2026 Asia No.3)",
+  "https://www.tatlerasia.com/dining/drinks/bar-leone-worlds-best-bar-2026 (World's Best Bar 2026)",
+  "https://www.theworlds50best.com/bars/best-in-asia/awards/legend-of-the-list.html (COA Legend of the List 2026)",
+  "https://100toptables.scmp.com/restaurants-profile-2026/bar-leone (Bar Leone hours/queues)",
+  "https://www.mono.hk/ (Mono hours, address, menu prices)",
+  "https://guide.michelin.com/mt/en/hong-kong-region/hong-kong/restaurant/mono-1191514 (Mono one star)",
+  "https://www.manmodimsum.com/ and https://book.bistrochat.com/manmodimsum (Man Mo)",
+  "https://www.planemapper.com/flights/HX639 (HX639 13:25-16:40)",
+  "https://info.flightmapper.net/flight/Cathay_Pacific_CX_257 (CX257 08:10-15:00)",
+  "https://www.mtr.com.hk/en/customer/tickets/ael-joyyou.html (Airport Express 24 min, fares)",
+  "https://rt.data.gov.hk/v2/transport/citybus/route/ctb/ (Citybus routes 6/6X/260/9/X9/14)",
+  "https://www.hiking.gov.hk/trail/info/id/UWgvZytZSlRrcnBJSU5DWVZUa2pyUT09 (Dragon's Back official)",
+  "https://www.info.gov.hk/gia/general/202510/30/P2025103000328.htm (LCSD winter lifeguard arrangements)",
+  "https://www.td.gov.hk/en/transport_in_hong_kong/pedestrians/hillside_escalator (Mid-Levels escalator)"
+ ]
+}
