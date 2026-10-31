@@ -5,7 +5,7 @@
 //   go(time, route, modes, duration, how, {alt})       — a journey
 //   ready(from, until, where, {sub, warn})             — back at the accommodation to get ready
 //   note(text, {warn})                                 — where the planner differs from the itinerary;
-//                                                        start it 'Changed:' or 'Tight:' (shown in bold)
+//                                                        start it with a label such as 'To do:' (shown in bold)
 const PLANNER = (() => {
   const at = (t, title, o = {}) => ({ k: 'at', t, title, ...o });
   const go = (t, route, by, dur, how, o = {}) => ({ k: 'go', t, route, by, dur, how, ...o });
@@ -23,7 +23,6 @@ const PLANNER = (() => {
 
     1: {
       stay: 'Artmonstay · Myeong-dong',
-      notes: [note('Changed: check in and get ready before the tower, so N Seoul Tower and dinner become the evening out.')],
       rows: [
         at('11:40', 'Land at Incheon, Terminal 2', { sub: 'Allow about 45 minutes for immigration and bags. Pick up a T-money card at an arrivals convenience store.' }),
         go('12:30', 'Incheon T2 → Artmonstay', ['Bus'], '70–90 min', 'Airport limousine 6015 from the T2 arrivals level straight to Myeong-dong, then a 7-minute uphill walk.', { alt: 'AREX to Seoul Station, then Line 4 two stops to Myeong-dong (75–95 min). A taxi is 60–80 min, about ₩60,000–90,000.' }),
@@ -43,18 +42,17 @@ const PLANNER = (() => {
 
     2: {
       stay: 'Artmonstay · Myeong-dong',
-      notes: [note('Changed: Gwanghwamun Square and Cheonggyecheon move before lunch, and Lotte World moves to the afternoon, so there’s an hour to get ready. In the itinerary Lotte World runs 17:30–20:00, which leaves no time to go back before Geumdwaeji.', { warn: true })],
       rows: [
         go('08:25', 'Artmonstay → Gyeongbokgung', ['Metro'], '35 min', 'Walk to Myeong-dong station, take Line 4 one stop to Chungmuro, then change to Line 3 for Gyeongbokgung (exit 5 leads into the palace).', { alt: 'Taxi, about 20 min.' }),
         at('09:00', 'Gyeongbokgung, Geoncheonggung & Hyangwonjeong', { until: '11:15', sub: 'The guard changes at 10:00. Last entry is 16:00.' }),
         go('11:15', 'Gyeongbokgung → Bukchon', ['Walk'], '15 min', 'Out of the east gate and up into the lanes.'),
         at('11:30', 'Bukchon Hanok Village', { until: '12:30', sub: 'The Red Zone is open to visitors 10:00–17:00.' }),
         go('12:30', 'Bukchon → Gwanghwamun Square', ['Walk'], '20 min', 'Downhill past Anguk to King Sejong’s statue.'),
-        at('12:50', 'Gwanghwamun Square & Cheonggyecheon', { until: '13:30', sub: 'Moved up from the afternoon. Stroll east along the stream from Cheonggye Plaza.' }),
+        at('12:50', 'Gwanghwamun Square & Cheonggyecheon', { until: '13:30', sub: 'Stroll east along the stream from Cheonggye Plaza.' }),
         go('13:30', 'Cheonggyecheon → Namdaemun Market', ['Walk'], '20 min', 'South past City Hall and Sungnyemun gate.', { alt: 'Taxi, about 10 min.' }),
         at('13:50', 'Lunch · Namdaemun Kalguksu Alley', { until: '14:30', sub: 'About 30 m inside Gate 5.' }),
         go('14:30', 'Namdaemun → Lotte World', ['Metro'], '40 min', 'Line 4 from Hoehyeon to Dongdaemun History & Culture Park, then Line 2 to Jamsil. The park connects to the station underground.'),
-        at('15:10', 'Lotte World Adventure', { until: '18:15', sub: 'Moved up from 17:30.' }),
+        at('15:10', 'Lotte World Adventure', { until: '18:15', sub: 'Check lotteworld.com for the day’s hours.' }),
         go('18:15', 'Lotte World → Artmonstay', ['Metro'], '45 min', 'Line 2 to Dongdaemun History & Culture Park, Line 4 two stops to Myeong-dong, then walk up.'),
         ready('19:00', '20:00', 'Artmonstay'),
         go('20:00', 'Artmonstay → Geumdwaeji Sikdang', ['Taxi'], '10 min', 'To 149 Dasan-ro, by Yaksu station.', { alt: 'Line 4 to Chungmuro, then Line 3 two stops to Yaksu, about 20 min.' }),
@@ -64,7 +62,6 @@ const PLANNER = (() => {
 
     3: {
       stay: 'Artmonstay · Myeong-dong',
-      notes: [note('Changed: Deoksugung moves to after you’ve got ready (19:15 instead of 18:15), and dinner to about 20:15.')],
       rows: [
         go('08:30', 'Artmonstay → Changdeokgung', ['Metro'], '30 min', 'Line 4 to Chungmuro, then Line 3 to Anguk (exit 3) and a 5-minute walk.', { alt: 'Taxi, about 15 min.' }),
         at('09:00', 'Changdeokgung & the Secret Garden', { until: '12:00', sub: 'The Huwon is timed tours only. The 10:30 English tour fits, so book it.' }),
@@ -85,7 +82,6 @@ const PLANNER = (() => {
 
     4: {
       stay: 'Airbnb · Hanakawado, Asakusa',
-      notes: [note('Changed: back to the Airbnb after Ueno, so Benfiddich is about 19:35 instead of 18:30.')],
       rows: [
         go('06:45', 'Artmonstay → Incheon Terminal 1', ['Metro', 'Airport rail'], '75 min', 'Line 4 two stops to Seoul Station, then AREX Express (about 43 min) or All-stop (about 59 min) to Terminal 1.', { alt: 'Limousine bus 6015 from Myeong-dong (allow 70+ min), or a taxi (about 60 min).' }),
         at('08:00', 'Incheon Terminal 1, not T2', { sub: 'Jeju Air checks in at T1.' }),
@@ -109,14 +105,14 @@ const PLANNER = (() => {
 
     5: {
       stay: 'Airbnb · Hanakawado, Asakusa',
-      notes: [note('Changed: book teamLab for a 14:30 entry, not 16:00, and Akihabara is shorter. From a 16:00 entry you’d be home at about 18:45 and couldn’t have an hour to get ready before the 19:30 booking.', { warn: true })],
+      notes: [note('To do: book teamLab Planets for a 14:30 entry. Tickets are timed and aren’t sold on site.', { warn: true })],
       rows: [
         go('07:25', 'Airbnb → Tsukiji Outer Market', ['Metro'], '35 min', 'Walk to Toei Asakusa station, take the Toei Asakusa Line to Higashi-ginza (about 15 min), then a 5-minute walk.'),
         at('08:00', 'Breakfast · Tsukiji Outer Market', { until: '09:45' }),
         go('09:45', 'Tsukiji → Imperial Palace East Gardens', ['Taxi'], '15 min', 'To Ōte-mon gate.', { alt: 'Hibiya Line to Hibiya, then the Chiyoda Line one stop to Ōtemachi, about 25 min.' }),
         at('10:00', 'Imperial Palace East Gardens', { until: '11:45', sub: 'Open 09:00–16:00 today (last entry 15:30).' }),
         go('11:45', 'East Gardens → Akihabara', ['Walk', 'Train'], '25 min', 'Walk from Ōte-mon to Tokyo Station (about 12 min), then the JR Yamanote or Keihin-Tōhoku Line two stops.'),
-        at('12:10', 'Akihabara, and lunch', { until: '13:45', sub: 'Shortened, so you can make teamLab for 14:30.' }),
+        at('12:10', 'Akihabara, and lunch', { until: '13:45' }),
         go('13:45', 'Akihabara → teamLab Planets', ['Train'], '45 min', 'JR to Shimbashi (about 8 min), then the Yurikamome to Shin-Toyosu (about 28 min) and a 3-minute walk.', { alt: 'Taxi, about 25 min.' }),
         at('14:30', 'teamLab Planets', { until: '16:15', warn: true, sub: 'Book a 14:30 entry. Tickets are timed and aren’t sold on site.' }),
         go('16:15', 'teamLab → Airbnb', ['Metro'], '60 min', 'Walk to Toyosu station (about 10 min), take the Yūrakuchō Line to Ginza-itchōme, walk to Ginza and take the Ginza Line to Asakusa, then walk.', { alt: 'Taxi, about 30 min and ¥5,000.' }),
@@ -130,7 +126,6 @@ const PLANNER = (() => {
 
     6: {
       stay: 'Airbnb · Hanakawado, Asakusa',
-      notes: [note('Changed: Bar LIBRE is about 19:05 instead of 18:30, which still gives about 35 minutes before dinner.')],
       rows: [
         go('09:15', 'Airbnb → Meiji Jingū', ['Metro'], '45 min', 'Ginza Line from Asakusa to Omotesandō (about 32 min), the Chiyoda Line one stop to Meiji-jingūmae, then 3 minutes to the torii.'),
         at('10:00', 'Meiji Jingū', { until: '11:45', sub: 'The museum is open today, 10:00–16:30.' }),
@@ -149,7 +144,6 @@ const PLANNER = (() => {
 
     7: {
       stay: 'Candeo Hotels Osaka The Tower',
-      notes: [note('Changed: back to the hotel after Dōtonbori, so you take JR from Osaka Station at about 19:25 instead of the Hanshin line from Namba at 18:55. The SkySpa now comes before Dōtonbori, and there’s time for a night soak while you get ready.')],
       rows: [
         go('08:40', 'Airbnb → Tokyo Station', ['Metro', 'Train'], '30 min', 'With bags: Ginza Line to Kanda, then JR one stop to Tokyo. The Tōkaidō Shinkansen is on the Yaesu side.', { alt: 'Taxi, 20–25 min.' }),
         at('09:30', 'Nozomi 21 to Shin-Osaka', { booked: true, sub: 'Arrives 12:00, and it only stops for two minutes. Sit in seat E for Mt Fuji.' }),
@@ -171,7 +165,6 @@ const PLANNER = (() => {
 
     8: {
       stay: 'KAYA Kyoto Nijo Castle',
-      notes: [note('Changed: Gion is 15:45–17:15 instead of from 16:30, so you can get back to get ready. Bar Rocking Chair is about 18:55 and Pontochō about 20:05.')],
       rows: [
         go('08:00', 'Candeo → Nara', ['Walk', 'Metro', 'Train'], '75 min', 'With bags: walk to Yodoyabashi, take the Midōsuji Line to Namba, then the Kintetsu Nara Line Rapid Express to Kintetsu-Nara (about 40 min). There are coin lockers in the station.'),
         at('09:15', 'Nara Park, Tōdai-ji & Kasuga Taisha', { until: '13:00', sub: 'All on foot through the park: Tōdai-ji about 10:00, Kasuga Taisha about 11:30.' }),
@@ -195,11 +188,11 @@ const PLANNER = (() => {
         go('08:35', 'KAYA → Nijō Castle', ['Walk'], '10 min', 'South down Horikawa-dōri to the East Gate.'),
         at('08:45', 'Nijō Castle', { until: '10:15', sub: 'Be at the gate for the 08:45 opening.' }),
         go('10:15', 'Nijō → Kyoto Gyoen', ['Taxi'], '10 min', 'To the Sakaimachi gate.', { alt: 'Walk about 25 min east along Marutamachi-dōri.' }),
-        at('10:30', 'Kyoto Gyoen National Garden', { until: '12:00', sub: 'The palace itself is closed on Mondays.' }),
-        go('12:00', 'Gyoen → Kinkaku-ji', ['Taxi'], '20 min', 'Buses are slower and crowded.'),
-        at('12:20', 'Kinkaku-ji, and lunch nearby', { until: '14:15' }),
-        go('14:15', 'Kinkaku-ji → Arashiyama', ['Taxi'], '30 min', 'To the north end of the bamboo grove.'),
-        at('14:45', 'Arashiyama Bamboo Grove & Togetsukyō', { until: '17:00', sub: 'Sunset is about 16:55.' }),
+        at('10:30', 'Kyoto Gyoen National Garden', { until: '12:10', sub: 'The palace itself is closed on Mondays.' }),
+        go('12:10', 'Gyoen → Kinkaku-ji', ['Taxi'], '20 min', 'Buses are slower and crowded.'),
+        at('12:30', 'Kinkaku-ji, and lunch nearby', { until: '14:25' }),
+        go('14:25', 'Kinkaku-ji → Arashiyama', ['Taxi'], '30 min', 'To the north end of the bamboo grove.'),
+        at('15:00', 'Arashiyama Bamboo Grove & Togetsukyō', { until: '17:00', sub: 'Sunset is about 16:55.' }),
         go('17:00', 'Arashiyama → KAYA', ['Train', 'Taxi'], '45 min', 'JR Sagano Line from Saga-Arashiyama to Nijō (about 12 min), then a 5-minute taxi or 20-minute walk.', { alt: 'Taxi all the way, about 35 min.' }),
         ready('17:45', '19:25', 'KAYA'),
         go('19:25', 'KAYA → Ten no Meshi', ['Taxi'], '20 min', 'To 255 Gionmachi Kitagawa, near Gion-Shijō.'),
@@ -209,7 +202,7 @@ const PLANNER = (() => {
 
     10: {
       stay: 'Checking out of KAYA → Neko Yard, Hiroshima',
-      notes: [note('Changed: Kiyomizu-dera ends at 15:00, then you go back to KAYA to get ready before Badu. But you’ll have checked out, so ask KAYA for a late check-out until about 16:30 (or at least somewhere to change).', { warn: true })],
+      notes: [note('To do: ask KAYA for a late check-out until about 16:30 (or at least somewhere to change), so you can get ready before Badu.', { warn: true })],
       rows: [
         at('07:00', 'Check out · bags with the front desk'),
         go('07:00', 'KAYA → Fushimi Inari', ['Taxi'], '25 min', 'To the main gate.', { alt: 'Karasuma Line to Kyoto, then the JR Nara Line two stops to Inari, about 35 min.' }),
@@ -234,15 +227,15 @@ const PLANNER = (() => {
       rows: [
         go('08:20', 'Neko Yard → Peace Memorial Park', ['Walk'], '10 min', 'East across the Honkawa river.'),
         at('08:30', 'Peace Memorial Park', { until: '09:30' }),
-        at('09:30', 'Peace Memorial Museum', { until: '11:30', sub: 'Book a timed web ticket.' }),
-        go('11:30', 'Museum → Atomic Bomb Dome', ['Walk'], '10 min', 'North up the park’s axis.'),
-        at('11:45', 'Atomic Bomb Dome, and lunch', { until: '14:00' }),
+        at('09:30', 'Peace Memorial Museum', { until: '11:45', sub: 'Book a timed web ticket.' }),
+        go('11:45', 'Museum → Atomic Bomb Dome', ['Walk'], '10 min', 'North up the park’s axis.'),
+        at('12:00', 'Atomic Bomb Dome, and lunch', { until: '14:00' }),
         go('14:00', 'Dome → Hiroshima Castle', ['Walk'], '20 min', 'North through Chūō Park.', { alt: 'Taxi, about 5 min.' }),
         at('14:30', 'Hiroshima Castle', { until: '15:45', sub: 'The keep is closed for good. The grounds and Ninomaru are open until 16:30.' }),
         go('15:45', 'Castle → Neko Yard', ['Taxi'], '10 min', 'Back to Nekoya-machi.', { alt: 'Walk, about 25 min.' }),
-        ready('16:00', '18:10', 'Neko Yard', { sub: 'A long rest before dinner.' }),
-        go('18:10', 'Neko Yard → Nagata-ya', ['Walk'], '15 min', 'Over the river by the Dome to 1-7-19 Ōtemachi.'),
-        at('18:25', 'Dinner · Okonomiyaki Nagata-ya', { sub: 'No bookings, so join the queue by 18:30. Last order 20:00. Walk home past the Dome, which is lit at night.' }),
+        ready('16:00', '18:15', 'Neko Yard', { sub: 'A long rest before dinner.' }),
+        go('18:15', 'Neko Yard → Nagata-ya', ['Walk'], '15 min', 'Over the river by the Dome to 1-7-19 Ōtemachi.'),
+        at('18:30', 'Dinner · Okonomiyaki Nagata-ya', { sub: 'No bookings, so join the queue by 18:30. Last order 20:00. Walk home past the Dome, which is lit at night.' }),
       ],
     },
 
@@ -270,7 +263,7 @@ const PLANNER = (() => {
 
     13: {
       stay: 'Island Shangri-La · Hong Kong',
-      notes: [note('Changed: meet Rob at 19:30, not 19:00. You get to the hotel at about 18:05, and you need the hour to get ready. Dinner and COA move to about 21:20.', { warn: true })],
+      notes: [note('To do: tell Rob it’s 19:30 at the Peak Tram on Garden Road.', { warn: true })],
       rows: [
         at('09:30', 'Check out · Branche Sumiyoshi EAST', { sub: 'Check-out is by 10:00.' }),
         go('09:30', 'Apartment → Fukuoka Airport, International Terminal', ['Taxi'], '25 min', 'There’s no subway stop at the International Terminal.'),
@@ -280,7 +273,7 @@ const PLANNER = (() => {
         at('18:05', 'Check in · Island Shangri-La', { booked: true }),
         ready('18:15', '19:15', 'the hotel'),
         go('19:15', 'Hotel → Peak Tram', ['Walk'], '15 min', 'Through Hong Kong Park to the Garden Road terminus.'),
-        at('19:30', 'Meet Rob · Peak Tram', { sub: 'Moved from 19:00. Friday-night tram queues can be 30 min or more, and a taxi up takes about 20 min.' }),
+        at('19:30', 'Meet Rob · Peak Tram', { sub: 'Friday-night tram queues can be 30 min or more, and a taxi up takes about 20 min.' }),
         at('20:00', 'Victoria Peak by night', { until: '21:00', sub: 'Sky Terrace 428 is open until 22:00, or take the free Lugard Road lookout.' }),
         go('21:00', 'Peak → COA', ['Taxi'], '20 min', 'Down to Hollywood Road at Gough Street.'),
         at('21:20', 'COA, and dinner nearby', { sub: 'Put your names down at the door, then eat nearby until they text you. A taxi back to the hotel is about 10 min.' }),
@@ -289,7 +282,6 @@ const PLANNER = (() => {
 
     14: {
       stay: 'Island Shangri-La · Hong Kong',
-      notes: [note('Changed: the Star Ferry is cut to about 14:10–15:10, so you’re back by 15:30 and can still join Bar Leone’s queue for the 17:00 opening.')],
       rows: [
         go('09:45', 'Hotel → Mid-Levels escalator', ['Walk'], '20 min', 'Covered walkways from Pacific Place through Central to the escalator at Queen’s Road Central.'),
         at('10:05', 'Central, the escalator & Hollywood Road', { until: '12:30', sub: 'The escalator runs uphill from 10:00. Visit PMQ, Tai Kwun and Man Mo Temple.' }),
@@ -309,13 +301,13 @@ const PLANNER = (() => {
       stay: 'Island Shangri-La · Hong Kong',
       rows: [
         go('09:10', 'Hotel → Dragon’s Back trailhead', ['Metro', 'Bus'], '50 min', 'Island Line from Admiralty to Shau Kei Wan (exit A3), then Citybus 9 to the To Tei Wan stop. Expect a Sunday queue for the 9.'),
-        at('10:00', 'Hike the Dragon’s Back', { until: '12:30', sub: 'About 2.5 hours to Tai Tam Gap. There’s no shade, so carry a litre of water each.' }),
-        go('12:30', 'Tai Tam Gap → Shek O', ['Bus'], '10 min', 'Bus 9 on to Shek O village.'),
-        at('12:45', 'Shek O · beach & village lunch', { until: '14:30' }),
+        at('10:00', 'Hike the Dragon’s Back', { until: '13:00', sub: 'About 2.5 hours to Tai Tam Gap. There’s no shade, so carry a litre of water each.' }),
+        go('13:00', 'Tai Tam Gap → Shek O', ['Bus'], '10 min', 'Bus 9 on to Shek O village. Allow for a Sunday queue.'),
+        at('13:30', 'Shek O · beach & village lunch', { until: '14:30' }),
         go('14:30', 'Shek O → Stanley', ['Taxi'], '25 min', 'Round the south coast.'),
-        at('15:00', 'Stanley', { until: '16:15' }),
-        go('16:15', 'Stanley → Repulse Bay', ['Bus'], '15 min', 'Citybus 6, 6X or 260 towards Central.', { alt: 'Taxi, about 10 min.' }),
-        at('16:30', 'Repulse Bay at golden hour', { until: '17:45', sub: 'Sunset is 17:40.' }),
+        at('15:00', 'Stanley', { until: '16:30' }),
+        go('16:30', 'Stanley → Repulse Bay', ['Bus'], '15 min', 'Citybus 6, 6X or 260 towards Central.', { alt: 'Taxi, about 10 min.' }),
+        at('16:45', 'Repulse Bay at golden hour', { until: '17:45', sub: 'Sunset is 17:40.' }),
         go('17:45', 'Repulse Bay → hotel', ['Taxi'], '25 min', 'Through the Aberdeen Tunnel to Admiralty.', { alt: 'Bus 6, 6X or 260 back towards Central, about 30 min.' }),
         ready('18:10', '19:15', 'the hotel'),
         go('19:15', 'Hotel → Central', ['Taxi'], '10 min', 'To Ho Lee Fook, Yat Lok or Mak’s.'),
